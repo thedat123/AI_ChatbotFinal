@@ -26,3 +26,22 @@ pickle-mixin>=1.0.2
 fastapi>=0.103.0  # Core FastAPI framework for API development
 uvicorn>=0.23.2   # ASGI server to run FastAPI
 starlette>=0.27.0  # Foundation for FastAPI, includes middleware like CORS
+
+# Environment variables
+python-dotenv>=0.19.0
+
+# Additional dependencies for specific functionalities
+# (Các thư viện này thường đi kèm với các package chính nhưng list ra để đảm bảo)
+typing-extensions>=4.0.0  # For typing support
+asyncio  # Built-in Python library
+datetime  # Built-in Python library
+json  # Built-in Python library
+logging  # Built-in Python library
+os  # Built-in Python library
+re  # Built-in Python library
+time  # Built-in Python library
+uuid  # Built-in Python library
+threading  # Built-in Python library
+contextlib  # Built-in Python library
+queue  # Built-in Python library
+concurrent.futures  # Built-in Python library
