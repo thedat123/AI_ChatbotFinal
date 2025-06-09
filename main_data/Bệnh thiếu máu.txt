@@ -1,0 +1,636 @@
+# Bệnh thiếu máu
+
+# Khoa: Khoa Nội tổng hợp
+# Bác sĩ: TS.BS NGUYỄN QUỐC THÀNH
+
+# Thiếu máu là gì?
+Thiếu máu (Anemia) là một bệnh lý rối loạn về máu khiến số lượng hồng cầu hoặc nồng độ huyết sắc tố trong hồng cầu thấp. Người bị bệnh thiếu máu có mức độ huyết sắc tố dưới 120 g/L.
+Chức năng của hồng cầu là vận chuyển oxy từ phổi đến các tế bào và mô của cơ thể. Sau đó, hồng cầu mang Carbon Dioxide, chất thải quay trở lại phổi để thải ra ngoài. Hemoglobin (huyết sắc tố) là một loại Protein giàu chất sắt trong hồng cầu có chức năng “vận chuyển” các phân tử oxy.
+Nếu cơ thể không có đủ chất sắt thì tủy xương không thể tạo ra đủ lượng huyết sắc tố. Đổi lại, nếu cơ thể có lượng huyết sắc tố thấp, tủy xương sẽ tạo ra ít tế bào hồng cầu hơn và những tế bào được tạo ra có xu hướng nhỏ hơn và nhợt nhạt hơn so với hồng cầu bình thường. Các tế bào hồng cầu không thể cung cấp đủ oxy để phục vụ nhu cầu của cơ thể sẽ dẫn đến thiếu máu.
+Theo Tổ chức Y tế Thế giới, ước tính có 40% trẻ em từ 6–59 tháng tuổi, 37% phụ nữ mang thai và 30% phụ nữ từ 15–49 tuổi bị thiếu máu trên toàn cầu. Năm 2021, 1,92 tỷ người bị thiếu máu. Có thể thấy, thiếu máu là một trong những vấn đề sức khỏe gây ảnh hưởng đến phần lớn người dân trên toàn thế giới, đặc biệt là phụ nữ và trẻ em.(2)
+
+# Các loại thiếu máu
+Bệnh thiếu máu được chia thành nhiều nhóm khác nhau. Trong đó, các nhóm bệnh chính bao gồm:
+
+1. Suy tuỷ
+Suy tuỷ là một tình trạng bệnh lý xảy ra khi tủy xương không thể tạo ra đủ tế bào máu mới để đáp ứng nhu cầu hoạt động bình thường của cơ thể. Nguyên nhân phổ biến nhất gây suy tủy là do hệ thống miễn dịch của bạn tấn công các tế bào gốc tạo máu trong tủy xương.
+Người bệnh bị suy tủy luôn cảm thấy mệt mỏi chóng mặt, xanh xao do tuỷ xương không sản xuất hồng cầu; dễ bị nhiễm trùng do giảm số lượng bạch cầu và chảy máu không kiểm soát được do giảm số lượng tiểu cầu. Suy tuỷ có thể diễn tiến nhanh hoặc chậm tùy theo từng trường hợp bệnh.
+Suy tuỷ là một bệnh lý nguy hiểm, có thể diễn tiến nặng và đe dọa tính mạng với tỷ lệ tử vong rất cao (khoảng 70% trong vòng 1 năm) nếu không được điều trị kịp thời. Tỷ lệ sống sót chung sau 5 năm là khoảng 80% đối với người bệnh dưới 20 tuổi. Tính đến thời điểm này, không có cách nào để ngăn ngừa suy tuỷ.
+
+2. Thiếu máu thiếu sắt
+Thiếu máu thiếu sắt xảy ra khi người bệnh không có đủ lượng chất sắt trong cơ thể. Đây là loại thiếu máu phổ biến nhất.
+Những người bị thiếu máu do thiếu sắt nhẹ hoặc trung bình có thể không có bất kỳ triệu chứng nào. Trường hợp thiếu máu do thiếu sắt nghiêm trọng hơn có thể gây ra các triệu chứng mệt mỏi, khó thở, choáng váng, nặng ngực, khó thở, cảm giác hồi hộp, tim đập nhanh, tay chân lạnh, da nhợt nhạt,…
+
+3. Bệnh thiếu máu hồng cầu hình liềm
+Bệnh thiếu máu hồng cầu hình liềm là một dạng bệnh thiếu máu ảnh hưởng đến hình dạng của các tế bào hồng cầu, làm hạn chế khả năng tế bào hồng cầu mang oxy đến các mô và cơ quan trong cơ thể.
+Các tế bào hồng cầu thường có hình đĩa lõm 2 mặt. Cấu trúc này khiến hồng cầu rất linh hoạt và có thể di chuyển qua các mạch máu một cách dễ dàng. Tuy nhiên, khi mắc bệnh thiếu máu hồng cầu hình liềm, các tế bào hồng cầu có hình lưỡi liềm giống như chữ C. Những tế bào này kết dính lại với nhau, tạo thành cấu trúc cứng khiến hồng cầu không thể dễ dàng di chuyển qua các mạch máu, có thể gây tắc nghẽn mạch máu.
+Hồng cầu bình thường có thể sống tới 120 ngày. Tuy nhiên, tế bào hồng cầu hình liềm chỉ sống được khoảng 10 đến 20 ngày. Các tế bào hình liềm có thể bị lá lách phá hủy do hình dạng và độ cứng của chúng. Ngược lại, tế bào hồng cầu hình liềm cũng có thể làm tổn thương lá lách, làm tăng nguy cơ viêm nhiễm.
+
+4. Bệnh Thalassemia
+Bệnh thiếu máu Thalassemia hay gọi tắt là bệnh Thalassemia  là do đột biến Gene tổng hợp Globin, một thành phần vô cùng quan trọng tạo nên huyết sắc tố – chất trong tế bào hồng cầu mang oxy đi khắp cơ thể. Các đột biến liên quan đến bệnh Thalassemia có thể được truyền từ bố mẹ sang con cái.
+Các phân tử huyết sắc tố được tạo thành từ các chuỗi Alpha và Beta. Ở người mắc bệnh Thalassemia, việc sản xuất chuỗi Alpha hoặc Beta bị giảm, gây ra các bệnh lý Alpha-Thalassemia hoặc Beta-Thalassemia. Mức độ nghiêm trọng của bệnh phụ thuộc vào số lượng đột biến Gen di truyền từ bố mẹ sang con cái. Càng nhiều Gen đột biến, bệnh Thalassemia càng nghiêm trọng.
+Trong hầu hết các trường hợp, không thể ngăn ngừa bệnh Thalassemia. Nếu bạn mắc bệnh Thalassemia hoặc nếu bạn mang Gen bệnh Thalassemia, nên thăm khám và tham vấn với các bác sĩ trước khi quyết định tiến tới hôn nhân (tham vấn tiền hôn nhân) và trước khi sinh con (tham vấn tiền sản).
+
+5. Thiếu máu do thiếu Vitamin B12
+Thiếu máu do thiếu Vitamin B12 là tình trạng thiếu các tế bào hồng cầu khỏe mạnh do lượng nguyên liệu Vitamin B12 thấp hơn bình thường.
+Thiếu máu do thiếu Vitamin thường phát triển chậm trong vài tháng đến nhiều năm. Các dấu hiệu ban đầu có thể khó phát hiện. Chỉ khi tình trạng bệnh trở nên nghiêm trọng hơn, người bệnh có thể có các triệu chứng của tình trạng thiếu máu như da nhợt nhạt hoặc tái xanh, hồi hộp, tim đập nhanh, sụt cân, tê ngứa tay chân, yếu cơ,…
+
+6. Thiếu máu tán huyết tự miễn
+Thiếu máu tán huyết tự miễn (AIHA) là bệnh lý được đặc trưng bởi tình trạng hồng cầu bị phá huỷ bởi các kháng thể tự miễn. Sự phá hủy hồng cầu xảy ra với tốc độ nhanh hơn khả năng sản xuất tế bào mới, dẫn đến không đủ số lượng hồng cầu trong máu và gây thiếu máu.
+# Nguyên nhân gây thiếu máu tán huyết tự miễn chưa được xác định chính xác. Nhiều giả thuyết được đặt ra cho rằng thiếu máu tán huyết tự miễn là một dạng rối loạn nguyên phát hoặc thứ phát sau một căn bệnh tiềm ẩn, chẳng hạn như Virus Epstein-Barr, ung thư hạch, bệnh Lupus, rối loạn suy giảm miễn dịch, viêm khớp dạng thấp hoặc viêm loét đại tràng,…
+
+7. Các dạng thiếu máu khác
+Ngoài những dạng thiếu máu kể trên, còn có một số dạng thiếu máu khác ít phổ biến hơn, bao gồm:
+• Thiếu máu do thiếu Axit Folic: Tương tự như thiếu máu do thiếu Vitamin B12, thiếu máu do thiếu Axit Folic là một dạng thiếu máu xảy ra do chế độ dinh dưỡng kém hoặc cơ thể kém hấp thu Axit Folic. Tuy nhiên, thiếu máu do thiếu Axit Folic không quá phổ biến như thiếu máu do thiếu Vitamin B12.
+• Loạn sinh tủy: Thiếu máu xảy ra khi quá trình tạo hồng cầu trong tủy xương bị rối loạn, kết quả là tạo ra các tế bào hồng cầu lớn bất thường.
+• Thiếu máu nguyên bào sắt: Trong bệnh thiếu máu nguyên bào sắt, người bệnh không có đủ hồng cầu và có quá nhiều chất sắt trong cơ thể.
+• Thiếu máu Fanconi: Thiếu máu Fanconi là một bệnh di truyền gen lặn với các triệu chứng bất thường sắc tố da, người thấp, dị dạng ngón cái và suy thận. Tình trạng thiếu máu bắt đầu xuất hiện ở trẻ lớn dần, có thể dẫn đến suy tủy xương.
+
+
+# Triệu chứng thiếu máu có thể nhận biết
+Làm sao biết mình bị thiếu máu? Đâu là biểu hiện của thiếu máu? Với các trường hợp thiếu máu nhẹ hoặc bệnh diễn tiến chậm, bạn có thể không có triệu chứng hoặc triệu chứng bệnh diễn tiến thoáng qua. Với các trường hợp thiếu máu ở mức độ trung bình hơn, các triệu chứng có thể xảy ra đầu tiên bao gồm:
+• Cảm thấy yếu, mệt mỏi thường xuyên hơn bình thường hoặc khi tập thể dục, khi gắng sức.
+• Nhức đầu, hoa mắt.
+• Khó tập trung hoặc suy nghĩ.
+• Dễ cáu gắt.
+• Ăn mất ngon, chán ăn.
+• Có cảm giác tê, ngứa ran, lạnh ở tay và chân.
+• Thường xuyên bị chóng mặt.
+• Nhịp tim đập nhanh bất thường.
+
+Nếu tình trạng thiếu máu trở nên trầm trọng hơn, các dấu hiệu của thiếu máu có thể bao gồm:
+• Da xanh, niêm mạc mắt nhạt.
+• Móng tay sọc, dễ gãy.
+• Thèm ăn đá hoặc những thứ không phải thực phẩm khác (hội chứng pica).
+• Hoa mắt, choáng váng chóng mặt khi đứng dậy, cảm giác lảo đảo mất thăng bằng, đứng không vững.
+• Khó thở khi hoạt động nhẹ hoặc thậm chí khi nghỉ ngơi.
+• Lưỡi đau hoặc viêm.
+• Loét miệng.
+• Chậm tăng cân và tăng chiều cao (đối với trẻ em).
+• Chảy máu kinh nguyệt tăng đối với phụ nữ.
+• Giảm hoặc mất ham muốn tình dục.
+• Tiểu đỏ, tiểu xá xị (với trường hợp bị thiếu máu hồng cầu hình liềm).
+• Rối loạn tri giác, hôn mê.
+• Tử vong do thiếu máu.
+
+
+# Nguyên nhân thiếu máu
+
+1. Thiếu máu do thiếu sắt
+# Nguyên nhân gây thiếu máu do thiếu sắt bao gồm:
+• Mất máu: Máu chứa sắt trong các tế bào hồng cầu. Vì vậy, nếu bạn mất máu, bạn sẽ mất một ít chất sắt. Có nhiều nguyên nhân gây mất máu như phụ nữ bị mất máu do kinh nguyệt, bệnh nhân bị loét dạ dày tá tràng, Polyp đại tràng, ung thư đại trực tràng, nhiễm giun sán,…
+• Thiếu chất sắt trong chế độ ăn uống: Cơ thể nhận được chất sắt từ thực phẩm chúng ta ăn hằng ngày. Vì vậy, nếu bạn ít dùng các loại thực phẩm giúp bổ sung chất sắt, về lâu dài cơ thể sẽ thiếu sắt và dẫn đến thiếu máu.
+• Không có khả năng hấp thụ sắt: Sắt từ thức ăn được hấp thụ vào máu ở ruột non. Rối loạn đường ruột, chẳng hạn như bệnh celiac, ảnh hưởng đến khả năng ruột hấp thụ chất dinh dưỡng từ thức ăn tiêu hóa. Người từng phẫu thuật cắt bỏ một phần hoặc toàn bộ ruột non có nguy cơ thiếu máu do thiếu sắt cao hơn do cơ thể không thể hấp thu chất sắt cần thiết.
+• Thai kỳ: Phụ nữ mang thai nếu không bổ sung sắt sẽ bị thiếu máu do thiếu sắt bởi lượng sắt dự trữ của cơ thể cần phục vụ lượng máu tăng lên trong thai kỳ. Ngoài ra, lượng chất sắt dự trữ này cũng như là nguồn cung cấp huyết sắc tố cho thai nhi đang phát triển nên phụ nữ mang thai cần nhiều chất sắt hơn thông thường.
+
+
+2. Thiếu máu do thiếu Vitamin, Axit Folic
+Tình trạng thiếu máu do thiếu Vitamin có thể xảy ra khi người bệnh không ăn đủ thực phẩm có chứa Vitamin B12, Axit Folic. Nếu cơ thể người bệnh gặp khó khăn trong việc hấp thụ hoặc xử lý các Vitamin này, người bệnh cũng có thể bị thiếu máu.
+
+3. Thiếu máu do viêm nhiễm
+Khi bạn bị nhiễm trùng hoặc mắc các bệnh gây phản ứng viêm, hệ thống miễn dịch của cơ thể sẽ gây ra những thay đổi trong cách cơ thể hoạt động và có thể dẫn đến thiếu máu do viêm. Lúc này, cơ thể bạn có thể không lưu trữ và sử dụng sắt bình thường.
+Không chỉ vậy, khi bạn mắc các bệnh viêm hay nhiễm trùng, thận của bạn có thể sản xuất ít Erythropoietin (EPO), một loại Hormone báo hiệu cho tủy xương – mô xốp bên trong hầu hết các xương của bạn – để tạo ra hồng cầu. Viêm nhiễm cũng khiến cho tủy xương không phản ứng bình thường với EPO, tạo ra ít tế bào hồng cầu hơn mức cần thiết.
+Viêm nhiễm cũng làm cho các tế bào hồng cầu sống trong thời gian ngắn hơn bình thường. Cơ thể không kịp sản xuất tế bào hồng cầu mới nên dẫn đến thiếu máu.
+
+4. Thiếu máu không tái tạo
+# Nguyên nhân thiếu máu không tái tạo là gì? Có nhiều cơ chế gây ra tình trạng thiếu máu không tái tạo, nhưng cơ chế chính là giảm sản xuất hồng cầu do ức chế tạo hồng cầu, giảm lượng sắt sẵn có và giảm tuổi thọ của hồng cầu (tan máu ngoài mạch máu).
+
+5. Thiếu máu tán huyết
+# Nguyên nhân gây thiếu máu tán huyết là gì? Thiếu máu tán huyết có thể do các tình trạng di truyền ảnh hưởng đến hồng cầu. Bên cạnh đó, bệnh cũng có thể do một số bệnh nhiễm trùng hoặc do ai đó được truyền máu từ người hiến có nhóm máu không phù hợp.
+
+6. Bệnh thiếu máu hồng cầu hình liềm
+Bệnh thiếu máu hồng cầu hình liềm có tính di truyền. Những người bị thiếu máu hồng cầu hình liềm thừa hưởng hai Gen Hemoglobin S bị lỗi từ bố và/hoặc mẹ của mình.
+# Nguyên nhân bệnh hồng cầu hình liềm cũng có thể là do trẻ thừa hưởng một Gen Hemoglobin S và một Gen Hemoglobin bị lỗi khác, chẳng hạn như Beta (β) Thalassemia, Hemoglobin C, Hemoglobin D hoặc Hemoglobin E từ bố mẹ.
+
+7. Các yếu tố tăng nguy cơ thiếu máu
+Một số yếu tố về lối sống, cách chăm sóc sức khỏe chưa phù hợp, tuổi tác,… cũng làm tăng nguy cơ bị thiếu máu:
+• Thường xuyên hiến máu: Mặc dù hiến máu là điều tuyệt vời và thường được khuyến khích nhưng việc hiến máu quá nhiều lần trong thời gian ngắn có thể ảnh hưởng tiêu cực đến sức khỏe của chính bạn. Do đó cần hiến máu theo tần suất được phép để duy trì sự an toàn của chính bạn khi thực hiện nghĩa cử cao đẹp này.
+• Tuổi tác: Trẻ nhỏ cần nhiều chất sắt để tăng trưởng và phát triển. Nếu không uống sữa và tuân theo chế độ ăn uống dinh dưỡng hợp lý, trẻ sẽ dễ có nguy cơ bị thiếu máu hơn. Ngoài ra, thanh thiếu niên cũng có nguy cơ cao hơn một chút do có xu hướng ngủ ít hơn. Việc thiếu ngủ về lâu dài có thể gây căng thẳng hơn cho cơ thể và có thể gây thiếu máu.
+• Kinh nguyệt: Phụ nữ có nguy cơ thiếu máu do thiếu sắt cao hơn nam giới do việc chảy máu trong chu kỳ kinh nguyệt làm mất các tế bào hồng cầu.
+• Mang thai và sinh con: Do nhu cầu cơ thể cần nhiều máu hơn để cung cấp cho thai nhi trong khi mang thai cũng như rủi ro mất máu quá nhiều trong khi vượt cạn, phụ nữ mang thai và sinh con có nguy cơ bị thiếu máu cao hơn.
+• Suy dinh dưỡng: Mặc dù trẻ nhỏ dễ bị thiếu máu hơn, nhưng bất kỳ ai thường xuyên thiếu các chất dinh dưỡng và khoáng chất thiết yếu trong cơ thể đều có thể bị thiếu máu. Điều này đặc biệt đúng đối với những người bị suy dinh dưỡng.
+• Tiền sử gia đình: Việc có một thành viên trong gia đình bị thiếu máu sẽ khiến bạn có nguy cơ mắc bệnh cao hơn so với những người không có tiền sử gia đình mắc bệnh.
+
+
+# Các cách phân độ thiếu máu
+
+1. Phân độ thiếu máu dựa trên mức độ
+# Theo Viện Ung thư Quốc gia Hoa Kỳ, các mức độ của bệnh thiếu máu được tính như sau: (3)
+• Thiếu máu mức độ nhẹ: Nồng độ huyết sắc tố từ 10,0 g/dL đến 12,0 g/dL.
+• Thiếu máu mức độ trung bình: Nồng độ huyết sắc tố từ 8,0 đến 10,0 g/dL.
+• Thiếu máu mức độ nặng: Nồng độ huyết sắc tố từ 6,5 đến 7,9 g/dL.
+• Thiếu máu mức độ đe dọa tính mạng: Huyết sắc tố dưới 6,5 g/dL.
+
+Việc phân loại này có thể có sự khác nhau một chút tùy theo từng Tổ chức Y tế. Viện Huyết học – Truyền máu Trung ương phân độ thiếu máu theo nồng độ huyết sắc tố như sau:
+• Thiếu máu nhẹ: Huyết sắc tố từ 90 đến 120 g/L (tương đương 9,0 – 12,0 g/dL).
+• Thiếu máu trung bình: Huyết sắc tố từ 60 đến dưới 90 g/L (tương đương 6,0 – 9,0 g/dL).
+• Thiếu máu nặng: Huyết sắc tố từ 30 đến dưới 60 g/L (tương đương 3,0 – 6,0 g/dL).
+• Thiếu máu rất nặng, nguy hiểm, nguy cơ tử vong rất cao: Huyết sắc tố dưới 30 g/L (tương đương dưới 3,0 g/dL).
+
+
+2. Phân độ thiếu máu dựa trên diễn tiến
+Xét trên diễn tiến bệnh, thiếu máu được chia làm 2 cấp độ là thiếu máu cấp tính và thiếu máu mạn tính. Trong đó:
+• Thiếu máu cấp tính: Thiếu máu cấp tính là tình trạng số lượng hồng cầu giảm đột ngột và nhanh chóng, chủ yếu do tan máu hoặc xuất huyết cấp tính.
+• Thiếu máu mạn tính: Thiếu máu mạn tính là tình trạng thiếu máu kéo dài từ vài tháng trở lên và được đặc trưng bởi sự suy giảm dần dần số lượng hồng cầu theo thời gian.
+
+
+3. Phân độ thiếu máu dựa trên nguyên nhân
+Dựa trên nguyên nhân gây thiếu máu, có thể phân độ thiếu máu thành 3 nhóm chính:
+• Thiếu máu do mất máu.
+• Thiếu máu do tan máu (tốc độ tế bào hồng cầu mất đi nhanh hơn so với tốc độ tế bào hồng cầu sản sinh).
+• Thiếu máu do quá trình tạo máu bị rối loạn, suy giảm.
+
+
+4. Phân độ thiếu máu dựa trên đặc điểm dòng hồng cầu
+Với cách phân độ thiếu máu này, cần dựa trên 2 chỉ số huyết học là MCV và MCH:
+• Phân độ theo chỉ số MCV: Đây là cách phân độ thiếu máu dựa trên đặc điểm hình thái hồng cầu. Lúc này, có 3 phân độ chính là thiếu máu hồng cầu nhỏ, hồng cầu bình thường hoặc hồng cầu to.
+• Phân độ theo chỉ số MCH: Với cách phân độ này, có 2 nhóm là thiếu máu nhược sắc và thiếu máu ưu sắc.
+
+
+# Cách chẩn đoán bệnh thiếu máu
+Để chẩn đoán bệnh thiếu máu, trước tiên bác sĩ sẽ đánh giá các dấu hiệu thiếu máu của người bệnh, kiểm tra các chỉ số lâm sàng và thăm hỏi về tiền sử bệnh của người bệnh và gia đình. Sau đó, bác sĩ sẽ chỉ định người bệnh thực hiện một số biện pháp chẩn đoán để đưa ra kết luận chính xác nhất, bao gồm:
+• Xét nghiệm máu:
+
+Xét nghiệm công thức máu toàn bộ (CBC) là xét nghiệm máu phổ biến nhất để chẩn đoán thiếu máu. CBC được sử dụng để đếm số lượng tế bào máu trong một mẫu máu. Đối với bệnh thiếu máu, xét nghiệm sẽ đo lượng hồng cầu trong máu, được gọi là hematocrit và mức độ huyết sắc tố trong máu. Giá trị huyết sắc tố điển hình ở người trưởng thành thường là 14 đến 18 gam/dl đối với nam và 12 đến 16 gam/dl đối với nữ. Giá trị hematocrit điển hình ở người trưởng thành khác nhau nhưng nhìn chung tỷ lệ này nằm trong khoảng từ 40% đến 52% đối với nam và 35% đến 47% đối với nữ. Nếu thấp hơn, người bệnh có thể đang bị thiếu máu.
+Ngoài ra, còn có xét nghiệm nồng độ huyết sắc tố, nồng độ sắt trong máu và nồng độ ferritin.
+• Chọc hút tủy xương.
+• Nội soi để xác định xem có chảy máu không.
+• Xét nghiệm mẫu phân xem có lẫn máu trong phân hay không.
+
+
+# Điều trị thiếu máu
+Việc lựa chọn phương pháp điều trị bệnh thiếu máu sẽ phụ thuộc vào nguyên nhân và mức độ nghiêm trọng của bệnh. Những người bị thiếu máu nhẹ có thể không cần điều trị. Nếu tình trạng thiếu máu là do thuốc hoặc do bệnh lý khác gây ra, bác sĩ có thể thay đổi cách điều trị để kiểm soát hoặc ngăn chặn tình trạng thiếu máu.
+Một số phương pháp điều trị thiếu máu phổ biến bao gồm:
+• Sử dụng thuốc: Người bệnh có thể được kê đơn thuốc để giúp tủy xương tạo ra nhiều tế bào hồng cầu hơn, thuốc ức chế hệ thống miễn dịch, thuốc sắt, thuốc bổ sung vitamin B12,…
+• Chế độ dinh dưỡng: Cải thiện chế độ dinh dưỡng luôn là lựa chọn hàng đầu với người bị thiếu máu. Cần đảm bảo chế độ ăn uống của bạn có thực phẩm giàu chất sắt, cũng như thực phẩm có chứa acid folic và vitamin B12.
+• Truyền máu: Truyền máu là phương pháp đưa tế bào hồng cầu khỏe mạnh vào trong các mạch máu của người bệnh thông qua đường truyền tĩnh mạch (IV). Truyền máu thay thế lượng máu bị mất do phẫu thuật hoặc chấn thương, hoặc cung cấp máu nếu cơ thể bạn không sản xuất đúng cách.
+• Ghép tế bào gốc: còn được gọi là ghép tế bào gốc tạo máu, mục tiêu thay thế các tế bào gốc tạo máu bị lỗi bằng các tế bào khỏe mạnh.
+• Phẫu thuật: Phẫu thuật có thể được chỉ định để cầm máu bên trong với các trường hợp người bệnh bị chấn thương, có tổn thương bên trong cơ thể gây chảy máu ồ ạt dẫn đến thiếu máu.
+
+
+# Thiếu máu ảnh hưởng đến cơ thể như thế nào?
+Biến chứng thiếu máu khiến người bệnh cảm thấy mệt mỏi, không đủ sức khỏe để thực hiện các hoạt động bình thường, chóng mặt và khó tập trung. Những người bị thiếu máu thường bị đau ngực, nhức đầu hoặc khó thở, da nhợt nhạt tái xanh.
+Ngoài ra, thiếu máu cũng làm tăng nguy cơ mắc các bệnh lý khác. Điều này là do cơ thể không đủ máu để nuôi dưỡng các cơ quan trong cơ thể cũng như thiếu máu làm suy giảm hệ thống miễn dịch – hệ thống phòng thủ tự nhiên của cơ thể.
+Phụ nữ mang thai bị thiếu máu dễ gặp các biến chứng thai kỳ như sinh non, sảy thai, trầm cảm sau sinh, trẻ sinh ra chậm phát triển,… Trẻ em bị thiếu máu có thể bị chậm tăng cân, kém phát triển, khó tiếp thu và ghi nhớ các bài học trên trường,…
+Với trường hợp thiếu máu cấp tính, người bệnh có thể bị sốc giảm thể tích do xuất huyết đáng kể. Do thể tích máu giảm, tình trạng thiếu oxy ở mô có thể xảy ra, dẫn đến tổn thương cơ quan đích. Người bệnh có thể bị suy tim, suy thận, suy hô hấp,… hoặc các tổn thương nội tạng khác.
+Nếu không kịp thời điều trị, thiếu máu mạn tính nghiêm trọng hoặc thiếu máu cấp tính đều có thể làm tăng nguy cơ tử vong.
+
+# Cách phòng tránh thiếu máu
+Làm thế nào để ngăn ngừa bệnh thiếu máu? Mặc dù không phải dạng thiếu máu nào cũng có thể phòng ngừa nhưng bạn vẫn có thể áp dụng một số biện pháp để hạn chế tối đa nguy cơ bị thiếu máu, chẳng hạn như:
+• Thăm khám sức khỏe tiền hôn nhân và tầm soát, trao đổi với trước khi mang thai để ngừa việc trẻ sinh ra bị thiếu máu do di truyền.
+• Phụ nữ mang thai nên uống viên sắt để hạn chế việc thiếu máu trong thai kỳ.
+• Việc xây dựng một chế độ dinh dưỡng lành mạnh, ưu tiên thực phẩm giàu sắt, vitamin nhóm B cũng có thể giúp phòng ngừa thiếu máu thông thường.
+• Ngoài ra, cần duy trì lối sống khoa học, tập thể dục đều đặn, nghỉ ngơi đầy đủ, tránh làm việc quá sức.
+
+
+# Chế độ ăn cho người thiếu máu
+Chế độ ăn uống của người bệnh nên bao gồm các loại thực phẩm từ tất cả các nhóm thực phẩm chính để đảm bảo sức khỏe và cân bằng. Đặc biệt, thực phẩm và đồ uống có chứa Vitamin C rất quan trọng vì Vitamin C giúp cơ thể hấp thụ chất sắt.
+Người bệnh nên ăn nhiều rau lá xanh đậm, ngũ cốc, bánh mì, gạo lứt, các loại đậu và hạt, thịt trắng và đỏ, cá, đậu hũ, trứng, trái cây sấy khô,… Đây là những loại thực phẩm giúp bổ sung sắt, tốt cho người bệnh thiếu máu.
+Với người bệnh bị thiếu máu do thiếu Vitamin B12, nên ưu tiên thực phẩm giúp bổ sung nhóm Vitamin đang thiếu này. Thực phẩm giàu Vitamin B12 bao gồm cá, trứng, các loại hạt, sản phẩm từ sữa và trái cây họ cam quýt,…
+Bên cạnh đó, người bệnh cần lưu ý uống nhiều nước lọc, hạn chế trà và cà phê.
+
+# Chăm sóc bệnh nhân thiếu máu
+Người bệnh bị thiếu máu cần duy trì chế độ ăn uống khoa học và phù hợp. Người bệnh sử dụng thuốc đúng theo chỉ định để kiểm soát bệnh, ngăn ngừa bệnh diễn tiến nghiêm trọng.
+Với người bệnh bị thiếu máu, cần cẩn thận trong sinh hoạt để hạn chế nguy cơ chảy máu (sử dụng bàn chải đánh răng có lông mềm, tránh chạm vào các vật sắc nhọn, không đi chân đất,…). Nếu có các dấu hiệu bất thường, nên sớm đến bệnh viện thay vì tự chăm sóc tại nhà.
+
+# Câu hỏi thường gặp
+
+# Khi nào cần gặp bác sĩ?
+Người bị thiếu máu có thể tự theo dõi và điều trị tại nhà bằng cách cải thiện chế độ dinh dưỡng, dùng thuốc theo chỉ định của bác sĩ, thay đổi chế độ sinh hoạt,… Tuy nhiên, nếu có các triệu chứng sau đây, nên sớm đến gặp bác sĩ để được kiểm tra, thăm khám:
+• Mệt mỏi dai dẳng, khó thở, nhịp tim nhanh, da nhợt nhạt.
+• Chán ăn, không thể ăn.
+• Rong kinh.
+• Có các triệu chứng của loét, viêm dạ dày.
+• Đi tiểu, đại tiện có lẫn máu.
+• Bệnh thiếu máu di truyền có tính di truyền trong gia đình.
+• Phụ nữ mang thai bị thiếu máu.
+
+Các trường hợp người mắc bệnh thiếu máu dù đang kiểm soát bệnh tốt nhưng muốn có con cũng nên đến gặp bác sĩ để được tư vấn về di truyền.
+
+# Bệnh thiếu máu có thể chữa khỏi được không?
+Có và không. Bệnh thiếu máu ở mức độ nhẹ có thể chữa khỏi bằng những phương pháp phù hợp theo từng nguyên nhân bệnh. Người bệnh có thể được điều trị bằng cách thay đổi chế độ ăn uống hoặc dùng thuốc bổ sung.
+Tuy nhiên, một số trường hợp thiếu máu mạn tính không thể chữa khỏi hoàn toàn, chỉ có thể áp dụng các biện pháp để kiểm soát bệnh.
+
+# Bệnh thiếu máu nghiêm trọng đến mức nào?
+Khi bị thiếu máu, tim phải bơm máu nhiều hơn để bù đắp cho lượng oxy trong máu quá ít. Điều này có thể dẫn đến suy tim và gây tử vong.
+Ngoài ra, một số bệnh thiếu máu di truyền, chẳng hạn như thiếu máu hồng cầu hình liềm, có thể dẫn đến các biến chứng đe dọa tính mạng.
+
+# Thiếu máu có phổ biến không?
+Bệnh thiếu máu rất phổ biến, ảnh hưởng đến khoảng ⅓ dân số toàn cầu. Bất kỳ ai cũng có nguy cơ bị thiếu máu.
+
+# Bệnh thiếu máu là một bệnh lý có thể gây nguy hiểm cho sức khỏe, đe dọa tính mạng. Người bệnh không nên chần chừ trong việc thăm khám và điều trị nếu có các triệu chứng nghi ngờ thiếu máu.
+
+
+# THÔNG TIN KHOA KHOA NỘI TỔNG HỢP
+
+# THÔNG TIN CHI TIẾT
+- Bệnh nội khoa thuộcKhoa Nội tổng hợpbao gồm rất nhiều bệnh lý thuộc các chuyên khoa khác nhau, nhưng được điều trị theo phương pháp dùng thuốc và thay đổi lối sống, thói quen, chứ chưa cần dùng đến phẫu thuật.
+- Tại Việt Nam, tỷ lệ người mắc phải các bệnh lý nội khoa – từ nhẹ đến nặng, đang ngày càng gia tăng. Các ví dụ điển hình là, số người mắc viêm gan siêu vi B chiếm 8 – 25% dân số; trung bình mỗi năm có khoảng 12,5 triệu người bị tăng huyết áp, 3,5 triệu người bị đái tháo đường, 2 triệu người mắc bệnh tim, hàng triệu người bị đau nhức xương khớp…
+- Các bệnh lý không lây nhiễm như đái tháo đường, ung thư, tim mạch là nguyên nhân của hơn 70% số ca tử vong do nhóm bệnh này gây ra mỗi năm. Các bệnh liên quan đến thuốc lá như viêm phổi, phổi tắc nghẽn mạn tính, ung thư phổi… cũng là nguyên nhân gây tử vong hàng đầu (40.000 ca tử vong mỗi năm). Trong khi đó, các bệnh lý nội thần kinh như suy giảm trí nhớ, sa sút trí tuệ, Alzheimer, Parkinson… ngày càng trẻ hóa.
+- Tất cả các bệnh lý nội khoa đều bắt đầu với mức độ nhẹ, giai đoạn sớm, chỉ cần điều trị nội khoa bằng thuốc và thay đổi thói quen, lối sống. Tuy nhiên, nếu không được khám và điều trị kịp thời thì dù là những bệnh nhỏ nhặt nhất cũng có thể trở thành mạn tính, dẫn đến nhiều biến chứng nguy hiểm cho sức khỏe, tính mạng.
+- Hướng tới mục tiêu khám và điều trị hiệu quả các bệnh nội khoa, chăm sóc sức khỏe chuyên sâu cho mọi đối tượng, độ tuổi, khoa Nội tổng hợp thuộc Hệ thống BVĐK MedicalCare được thành lập, quy tụ đội ngũ bác sĩ tâm huyết, giàu kinh nghiệm ở đa dạng các lĩnh vực; dịch vụ khám chữa bệnh phong phú, chuyên nghiệp; cùng hệ thống máy móc, trang thiết bị y tế hiện đại, hỗ trợ tốt nhất cho quá trình chẩn đoán và điều trị cho bệnh nhân.
+- Khoa Nội tổng hợp được xem là một trong những khoa lâm sàng trọng điểm thuộc Hệ thốngBVĐK MedicalCare, nổi tiếng với dịch vụ khám và tầm soát bệnh tổng quát; khám và điều trị các bệnh lão khoa; điều trị giảm nhẹ các bệnh nhân mắc bệnh mạn tính hay các bệnh ở giai đoạn cuối; khám và điều trị các bệnh lý đa chuyên khoa, bệnh đường hô hấp, tiêu hoá, da liễu, các bệnh lý nhiễm khuẩn…
+# HỆ THỐNG THIẾT BỊ
+- Khoa Nội Tổng hợp, Hệ thống BVĐK MedicalCare sở hữu chung nguồn tài nguyên thiết bị, máy móc cao cấp của toàn Bệnh viện, trong đó có các thiết bị nổi bật:
+- Hệ thống X-Quang kỹ thuật số treo trần cao cấp GXR-52SD với 5 cảm biến chống va chạm, tốc độ di chuyển nhanh và kích thước nhỏ gọn, hệ thống X-quang treo trần DigiRAD-FP cho hiệu suất thông lượng cao, hiệu quả gấp 3 lần so với máy chụp X-quang thông thường. Máy cho xem trước hiển thị hình ảnh trong 4 giây, có hệ thống đồng bộ hóa chuyển động cùng ống tia X siêu nhỏ, cho ra hình ảnh chẩn đoán xác thực nhất.
+- Hệ thống cộng hưởng từ 1.5 Tesla lần đầu tiên tại Việt Nam sử dụng công nghệ Ma trận sinh học toàn phần (BioMatrix) như “cuộc cách mạng” thay đổi cách thức chăm sóc người bệnh, chuyển sang ứng dụng trí tuệ nhân tạo AI cùng nhiều công nghệ mới giúp thăm khám chính xác toàn diện. Hệ thống này cho phép mở rộng khả năng thăm khám tới tất cả các đối tượng vốn không đáp ứng được với điều kiện chụp cộng hưởng từ truyền thống như người lớn tuổi, nhi khoa, bệnh nhân mất ý thức… với các chương trình chụp tốc độ cao không cần nín thở (bụng chậu, đầu – mặt – cổ, tim…).
+- Hệ thống Máy siêu âm đa dạng, phục vụ nhiều chuyên khoa với các chức năng chuyên sâu:Hệ thống siêu âm tổng quát, tim mạch cao cấp ACUSON Sequoia: Hệ thống máy siêu âm tổng quát, tim mạch cao cấp Acuson Sequoia của hãng Siemens Healthineers (Đức) sử dụng công nghệ BioAcoustic có ưu điểm giúp đảm bảo chất lượng của tín hiệu hình ảnh phù hợp cho mọi đối tượng bệnh nhân. Máy siêu âm Philips Affiniti 70G: Dòng cao cấp phục vụ cho tim mạch, đặc biệt có cả đầu dò siêu âm tim thai, rất an toàn để theo dõi thai kỳ. Máy siêu âm Voluson P8 + Máy siêu âm Voluson E10: 2 máy chuyên sâu sản phụ khoa cao cấp nhất hiện nay, có chức năng dựng hình thai nhi rõ nét như “sờ chạm thật sự”. Máy siêu âm Supersonic Aixplorer Match 30, dòng đàn hồi đỉnh nhất cho giáp, vú, gan và mạch máu. Máy Hitachi Aloka: A850, phục vụ siêu âm tổng quát, trực tràng, sinh thiết tiền liệt tuyến… với tốc độ rất nhanh.
+- Hệ thống siêu âm tổng quát, tim mạch cao cấp ACUSON Sequoia: Hệ thống máy siêu âm tổng quát, tim mạch cao cấp Acuson Sequoia của hãng Siemens Healthineers (Đức) sử dụng công nghệ BioAcoustic có ưu điểm giúp đảm bảo chất lượng của tín hiệu hình ảnh phù hợp cho mọi đối tượng bệnh nhân.
+- Máy siêu âm Philips Affiniti 70G: Dòng cao cấp phục vụ cho tim mạch, đặc biệt có cả đầu dò siêu âm tim thai, rất an toàn để theo dõi thai kỳ.
+- Máy siêu âm Voluson P8 + Máy siêu âm Voluson E10: 2 máy chuyên sâu sản phụ khoa cao cấp nhất hiện nay, có chức năng dựng hình thai nhi rõ nét như “sờ chạm thật sự”.
+- Máy siêu âm Supersonic Aixplorer Match 30, dòng đàn hồi đỉnh nhất cho giáp, vú, gan và mạch máu.
+- Máy Hitachi Aloka: A850, phục vụ siêu âm tổng quát, trực tràng, sinh thiết tiền liệt tuyến… với tốc độ rất nhanh.
+# CHUYÊN GIA
+- 👤 TTND. PGS. TS. BS TRẦN DUY ANH
+- 🔗 Chi tiết bác sĩ: https://tamanhhospital.vn/chuyen-gia/tran-duy-anh/
+# GIỚI THIỆU
+- PGS. TS. BS Trần Duy Anhlà một trong những chuyên gia hàng đầu trong lĩnh vực nội khoa và hồi sức cấp cứu. Sau khi tốt nghiệp Bác sĩ đa khoa tạiHọc viện Quân Y, bác sĩ Trần Duy Anh sang Nga (Liên Xô cũ) làm nghiên cứu sinh tại Viện Hàn lâm Khoa học Matxcova. Trở về Việt Nam năm 1993, tiến sĩ Trần Duy Anh tập trung nghiên cứu ứng dụng các tiến bộ kỹ thuật tiên tiến trong điều trị hồi sức Thần kinh, Hô hấp, Tim mạch, Thận cho người bệnh.
+- Dành tất cả tâm huyết phục vụ người bệnh tại Bệnh viện Trung ương quân đội 108, bác sĩ Trần Duy Anh nhận được sự ủng hộ, tin tưởng từ đồng nghiệp và người bệnh nhờ sự đam mê với nghề.
+- Tiến sĩ, bác sĩ Trần Duy Anhtừng chia sẻ: “Từ thời niên thiếu tuy không có ý tưởng phục vụ nghề y, nhưng duyên phận đã đưa tôi tiếp cận với công việc của một bác sĩ Hồi sức cấp cứu, trực tiếp chăm sóc những người bệnh nặng nề nhất, giúp họ giành giật sự sống trong những phút giây sinh tử, tôi hiểu được nhiệm vụ quan trọng của mình và cảm thấy tự hào khi cứu sống được nhiều người bệnh”.
+- Gần 50 năm công tác trong ngành y, dành nhiều thời gian nghiên cứu khoa học và truyền dạy kiến thức cho các thế hệ bác sĩ trẻ, PGS. TS. BS Trần Duy Anh tự hào nhận danh hiệu cao quý Thầy thuốc Nhân dân năm 2012.
+- Ông từng đảm nhiệm nhiều chức vụ quan trọng như Trưởng khoa Hồi sức tích cực (1996), Phó giám đốc (2000), Giám đốc Bệnh viện Trung ương quân đội 108 (2008); Chủ nhiệm Bộ môn Hồi sức cấp cứu và Gây mê hồi sức, Viện nghiên cứu y dược lâm sàng 108 (2000); nguyên Phó chủ tịch Hội Gây mê Hồi sức Việt Nam, Phó chủ tịch thường trực Hội Hồi sức – cấp cứu – chống độc Việt Nam. TTND. PGS. TS. BS Trần Duy Anh còn được biết đến là một sĩ quan cấp cao mang quân hàm Trung tướng của Quân đội nhân dân Việt Nam.
+- TTND. PGS. TS. BS Trần Duy Anh hiện là Giám đốcNội khoa, Bệnh viện Đa khoa MedicalCare, Đà Nẵng.
+# THÀNH VIÊN TỔ CHỨC
+- Từ năm 2000 – nay: Phó chủ tịch Hội Hồi sức cấp cứu – chống độc Trung ương.
+# DANH HIỆU, GIẢI THƯỞNG
+- TTND. PGS. TS. BS Trần Duy Anh đạt danh hiệu chiến sĩ thi đua nhiều năm liền. Ông vinh dự được nhận giải thưởng Nhà nước, Giải thưởng Hồ Chí Minh và nhiều bằng khen, giấy khen về thành tích Nghiên cứu khoa học.
+# CÔNG TRÌNH NGHIÊN CỨU
+- Bài báo khoa học:Đã viết và đăng in hơn 80 bài báo khoa học trong các tạp chí chuyên ngành trong và ngoài nước; in 1 cuốn sách chuyên khảo.
+- Đã viết và đăng in hơn 80 bài báo khoa học trong các tạp chí chuyên ngành trong và ngoài nước; in 1 cuốn sách chuyên khảo.
+- Hội thảo khoa học
+- Báo cáo hội nghị khoa học:TTND. PGS. TS. BS Trần Duy Anh là Chủ tịch Hội đồng khoa học, Bệnh viện Trung ương Quân đội 108. Ông hoàn thành được nghiệm thu 8 đề tài cấp nhà nước và nhiều đề tài cấp Bộ.
+- TTND. PGS. TS. BS Trần Duy Anh là Chủ tịch Hội đồng khoa học, Bệnh viện Trung ương Quân đội 108. Ông hoàn thành được nghiệm thu 8 đề tài cấp nhà nước và nhiều đề tài cấp Bộ.
+- Tham gia các hoạt động khoa học khác
+# QUÁ TRÌNH ĐÀO TẠO
+- Năm 1970 – 1977: Học viên lớp bác sĩ đa khoa dài hạn khóa 5, Học viện Quân y.
+- Năm 1989 – 1993: Tiến sĩ, Viện nghiên cứu Hồi sức tổng hợp thuộc Viện Hàn lâm y học Liên Xô, Matxcova.
+# KINH NGHIỆM CÔNG TÁC
+- Năm 1977 – 1986: Bác sĩ điều trị và giáo viên bộ môn Ngoại dã chiến – Gây mê hồi sức, Khoa Hồi sức tổng hợp và Bộ môn Ngoại dã chiến – Gây mê hồi sức, Bệnh viện 103, Học viện Quân y, Hà Đông, Hà Nội.
+- Năm 1986 – 1992: Nghiên cứu sinh Viện nghiên cứu hồi sức tổng hợp, Viện hàn lâm y học Liên Xô (cũ), Mat-xơ-cơ-va.
+- Năm 1992 – 1995: Phó Chủ nhiệm khoa Hồi sức cấp cứu và giáo viên Bộ môn Ngoại dã chiến và Gây mê hồi sức, Bệnh viện 103, Học viện Quân y, Hà Đông, Hà Nội
+- Năm 1995 – 2000: Chủ nhiệm khoa Hồi sức cấp cứu, giảng viên chính Bộ môn Gây mê hồi sức, Bệnh viện TƯQĐ 108.
+- Năm 2000 – 2007: Phó giám đốc, Chủ nhiệm Bộ môn Hồi sức cấp cứu – Gây mê hồi sức, Viện nghiên cứu khoa học y dược lâm sàng 108.
+- Năm 2008 – 2015: Giám đốc Bệnh viện Trung ương Quân đội 108;  Viện trưởng Viện nghiên cứu khoa học Y dược lâm sàng 108, Chủ nhiệm Bộ môn HSCC- GMHS, Viện nghiên cứu khoa học y dược lâm sàng 108.
+- Năm 2022 đến nay: Giám đốc Nội khoa, Bệnh viện Đa khoa MedicalCare, Đà Nẵng.
+- 👤 BS. CKII TRẦN THỊ THANH TRÚC
+- 🔗 Chi tiết bác sĩ: https://tamanhhospital.vn/chuyen-gia/tran-thi-thanh-truc/
+# GIỚI THIỆU
+- BS. CKII Trần Thị Thanh Trúctốt nghiệp Bác sĩ Y khoa tạiĐại học Y Dược TP. HC Mvào năm 2005, Thạc sĩ Nội khoa cũng tại Đại học Y Dược TP. HCM vào năm 2012 và Bác sĩ chuyên khoa cấp II, Nội Tim mạch tại Đại học Y khoa Phạm Ngọc Thạch vào năm 2020.
+- Trong suốt quá trình công tác, vừa tích lũy kinh nghiệm khám chữa bệnh thực tiễn, BS. CKII Trần Thị Thanh Trúccòn tích cực tham gia các khóa đào tạo chuyên môn sâu có cấp chứng chỉ như: Chứng chỉ Siêu âm tim và bệnh lý Tim mạch, Chứng chỉ Điện tâm đồ, Chứng chỉ siêu âm mạch máu, Chứng chỉ Hồi sinh tim phổi nâng cao (ACLS)…
+- Với hơn 20 năm kinh nghiệm, BS. CKII Trần Thị Thanh Trúclà chuyên gia trong lĩnh vực thăm khám và điều trị các bệnh lý nội khoa, tim mạch, đã tham gia chữa trị hiệu quả cho hàng nghìn người bệnh. Không những vậy, Bác sĩ Thanh Trúc còn đạt nhiều thành tựu nghiên cứu và đào tạo như “Hiệu quả dài hạn nong van hai lá bằng bóng Inoue”, “Đóng ống động mạch bằng dụng cụ qua ống thông tai”, “Rối loạn hệ thống dẫn truyền sau thay van động mạch chủ qua ống thông”…
+- BS. CKII Trần Thị Thanh Trúccó nhiều năm làm việc tại các cơ sở y tế uy tín như Bệnh viện Chợ Rẫy, Bệnh viện Vinmec Central Park. Hiện tại, BS. CKII Trần Thị Thanh Trúc đang đảm nhiệm vị trí Trưởng khoaNội tổng hợp, Bệnh viện Đa khoa MedicalCare, Đà Nẵng, Trung tâm khám chữa bệnh MedicalCare Quận 7.
+# THÀNH VIÊN TỔ CHỨC
+- Hội Tim mạch Việt Nam
+# LĨNH VỰC CHUYÊN MÔN
+- Chẩn đoán và điều trị bệnh lý tim mạch
+- Thực hiện các siêu âm tim và siêu âm tim qua thực quản các bệnh lý trong tim mạch can thiệp như thay van động mạch chủ qua ống thông, mitra clip, bít dù tim bẩm sinh người lớn, bệnh lý mạch vành, nong van hai lá…
+# CÔNG TRÌNH NGHIÊN CỨU
+- Hiệu quả dài hạn nong van hai lá bằng bóng Inoue tại Bệnh viện Chợ Rẫy.
+- Khảo sát các yếu tố liên quan đến sự hiện diện của huyết khối nhĩ trái chẩn đoán bằng siêu âm tim qua thực quản ở bệnh nhân hẹp van hai lá.
+- Đóng ống động mạch bằng dụng cụ qua ống thông tai tại Bệnh viện Chợ Rẫy: Kết quả trước mắt và dài hạn (2004 – 2010).
+- Nghiên cứu sự kết hợp sSt2 và Bnp huyết thanh trong tiên lượng suy tim và tử vong trong vòng 30 ngày ở bệnh nhân nhồi máu cơ tim cấp ST chênh lên.
+- Rối loạn hệ thống dẫn truyền sau thay van động mạch chủ qua ống thông.
+# QUÁ TRÌNH ĐÀO TẠO
+- Quá trình đào tạo:
+- 1999 – 2005: Bác sĩ Y khoa tại Đại học Y Dược TP. HCM
+- 2012: Thạc sĩ Nội khoa, Đại học Y Dược TP. HCM
+- 2018 – 2020: Bác sĩ chuyên khoa cấp II, Nội Tim mạch, Đại học Y khoa Phạm Ngọc Thạch
+- Chứng chỉ:
+- Chứng chỉ siêu âm tim và bệnh lý Tim mạch
+- Chứng chỉ Điện tâm đồ
+- Chứng chỉ siêu âm mạch máu
+- Chứng chỉ Hồi sinh tim phổi nâng cao (ACLS)
+- Chứng chỉ sư phạm y học cơ bản của Tổng hội Y học Việt Nam
+# KINH NGHIỆM CÔNG TÁC
+- 2006 – 2016: Bác sĩ Nội Tim mạch, Khoa Tim mạch can thiệp, Bệnh viện Chợ Rẫy.
+- 2016 – 2020: Bác sĩ Nội Tim mạch, Trung tâm Tim mạch Bệnh viện Vinmec Central Park.
+- 2020 – 2022: Bác sĩ Nội Tim mạch, Trung tâm Tim mạch, Bệnh viện Đa khoa MedicalCare, Đà Nẵng.
+- 2022 – nay: Trưởng khoa Nội tổng hợp, Bệnh viện Đa khoa MedicalCare, Đà Nẵng, Trung tâm khám chữa bệnh MedicalCare Quận 7.
+- 👤 BS. CKII PHẠM THỊ THANH TÂM
+- 🔗 Chi tiết bác sĩ: https://tamanhhospital.vn/chuyen-gia/pham-thi-thanh-tam/
+# GIỚI THIỆU
+- Bác sĩ Phạm Thị Thanh Tâmtốt nghiệpĐại học Y khoa Hà Nộivào năm 1997, hoàn thành văn bằng Bác sĩ Chuyên khoa I vào năm 2007 và Bác sĩ Chuyên khoa II vào 2015 tại Đại học Y dược TP. HCM.
+- Trong suốt hơn 25 năm công tác, BS. CKII Phạm Thị Thanh Tâm đã tham gia và hoàn thành nhiều nghiên cứu khoa học cùng các khóa đào tạo chuyên môn. Một số thành tựu nổi bật của Bác sĩ Thanh Tâm như:
+- Đề tài tốt nghiệp Bác sĩ Chuyên khoa cấp II loại giỏi: “Nghiên cứu kết quả ngắn hạn của phương pháp can thiệp mạch vành qua da trên nhồi máu cơ tim cấp ở người bệnh rất cao tuổi”.
+- Đề tài xuất sắc trong nghiên cứu khoa học cấp cơ sở 2020: “Tỉ lệ và các yếu tố liên quan của bệnh thận do thuốc cản quang sau chụp và can thiệp mạch vành qua da”.
+- Báo cáo tại Hội nghị thế giới AAIC tháng 8 năm 2022 tại Mỹ: “Ảnh hưởng của đại dịch Covid 19 trên người chăm sóc bệnh nhân sa sút trí tuệ tại Việt Nam”.
+- BS. CKII Phạm Thị Thanh Tâm là chuyên gia trong lĩnh vực nội tổng quát và nội thận, tim mạch – chuyển hóa. Bác sĩ Thanh Tâm từng công tác nhiều năm tại Bệnh viện 30/4, đảm nhiệm các chức vụ quan trọng như Phó trưởng khoa Tim mạch – Thận – Khớp, Trưởng khoa Khoa Thận – Khớp và Trưởng khoa Khoa Điều trị Cao Cấp.
+- Hiện tại, Bác sĩ Thanh Tâm đang đảm nhiệm vị trí Phó khoaNội Tổng hợptạiBệnh viện Đa khoa MedicalCare, Đà Nẵng và Phòng khám Đa khoa MedicalCare Quận 7.
+- “Trở thành Bác sĩ để chăm sóc sức khỏe cho mọi người là ước mơ nghề nghiệp duy nhất của tôi từ thời niên thiếu. Tôi vui, hạnh phúc khi thấy người bệnh được hồi phục sức khỏe; tôi trăn trở về những ca bệnh khó, luôn học hỏi, nâng cao trình độ chuyên môn. Nhân ái, tận tâm, chuyên nghiệp là mục tiêu phấn đấu của tôi trong lĩnh vực y tế”, Bác sĩ CKII Phạm Thị Thanh Tâm chia sẻ.
+# LĨNH VỰC CHUYÊN MÔN
+- Nội khoa tổng quát, nội thận, tim mạch – chuyển hóa.
+# DANH HIỆU, GIẢI THƯỞNG
+- 2015: Đề tài tốt nghiệp Bác sĩ Chuyên khoa II: “Nghiên cứu kết quả ngắn hạn của phương pháp can thiệp mạch vành qua da trên nhồi máu cơ tim cấp ở người bệnh rất cao tuổi”.
+- 2020: Đề tài xuất sắc trong nghiên cứu khoa học cấp cơ sở: “Tỷ lệ và các yếu tố liên quan của bệnh thận do thuốc cản quang sau chụp và can thiệp mạch vành qua da”.
+- 8/2022: Báo cáo tại Hội nghị thế giới AAIC tháng 8/2022 tại Mỹ: “Ảnh hưởng của đại dịch covid 19 trên người chăm sóc bệnh nhân sa sút trí tuệ tại Việt Nam”.
+# QUÁ TRÌNH ĐÀO TẠO
+- 1997: Tốt nghiệp Đại học tại Đại học Y khoa Hà Nội.
+- 2007: Bác sĩ Chuyên khoa I tại Đại học Y dược TP. HCM.
+- 2015: Bác sĩ Chuyên khoa II tại Đại học Y dược TP. HCM.
+# KINH NGHIỆM CÔNG TÁC
+- 1998 – 2011: Bác sĩ điều trị khoa Tim mạch – Thận – Khớp tại Bệnh viện 30/4.
+- 2011 – 2017: Phó trưởng khoa Tim mạch – Thận – Khớp tại Bệnh viện 30/4.
+- 2017 – 2020: Trưởng khoa Khoa Thận – Khớp tại Bệnh viện 30/4.
+- 2020 – 2022: Trưởng khoa Khoa Điều trị Cao cấp tại Bệnh viện 30/4.
+- 2022 – nay: Phó khoa Nội Tổng hợp tại Bệnh viện Đa khoa MedicalCare, Đà Nẵng.
+- 👤 TS. BSCC MAI THỊ HIỀN
+- 🔗 Chi tiết bác sĩ: https://tamanhhospital.vn/chuyen-gia/mai-thi-hien/
+# GIỚI THIỆU
+- TS. BSCC Mai Thị Hiềnlà một trong những chuyên gia đầu ngành tại Việt Nam trong điều trị các bệnh lý về thận như viêm cầu thận, suy thận, nhiễm khuẩn tiết niệu, sỏi thận tiết niệu, viêm thận Lupus, thận nhân tạo, lọc màng bụng, ghép thận… Sau khi tốt nghiệp chuyên ngành bác sĩ đa khoa tạiĐại học Y Hà Nội, bác sĩ Mai Thị Hiền mang theo tâm huyết và niềm đam mê với nghề đến làm việc tại khoa Thận Tiết niệu, Bệnh viện Bạch Mai, trung tâm Thận Tiết niệu lọc máu, Bệnh viện Bạch Mai.
+- Với mong muốn có thể điều trị cải thiện cho nhiều người bệnh, bác sĩ Mai Thị Hiền tiếp tục học tập, nghiên cứu và tốt nghiệp thạc sĩ chuyên ngành Nội thận tiết niệu năm 2007, bảo vệ thành công luận án tiến sĩ năm 2018.
+- Tiến sĩ Hiền không chỉ nỗ lực trong công tác khám chữa bệnh mà còn dành thời gian học tập chuyên sâu về lọc máu và ghép thận tại Bệnh viện Đại học CHU Brabois, thành phố Nancy, Cộng hòa Pháp từ 2009 – 2010. Bác sĩ cũng từng tham gia nhiều khóa học về nội thận tiết niệu, lọc màng bụng, thận nhân tạo, ghép thận tại Pháp, Nhật Bản, Hong Kong, Đài Loan, Malaysia.
+- Tiến sĩ Mai Thị Hiền có 23 năm công tác tại Bệnh viện Bạch Mai, là nguyên Phó chủ nhiệm khoa Thận Tiết niệu. TS Hiền còn giữ chức vụ Phụ trách khoa Thận tiết niệu lọc máu, Bệnh viện Hữu nghị. Luôn giữ lửa với nghề, truyền dạy kiến thức y khoa cho các thế hệ bác sĩ trẻ, dành thời gian cập nhật kiến thức, kỹ thuật y khoa tiên tiến trên thế giới, tiến sĩ Hiền được nhiều người bệnh gửi gắm hy vọng chữa lành.
+- Bên cạnh công tác khám chữa bệnh, TS Mai Thị Hiền có 6 đề tài nghiên cứu và 12 bài báo cáo chuyên sâu về lĩnh vực thận học, lọc máu và tiết niệu, đã nhận được nhiều bằng khen từ Bệnh viện Bạch Mai, Sở Y tế, Bộ Y tế vì sự đóng góp, cống hiến cho ngành.
+- Hiện, TS. BSCC Mai Thị Hiền giữ chức vụ Phó khoaNội tổng hợp, Bệnh viện Đa khoa MedicalCare, Đà Nẵng.
+# THÀNH VIÊN TỔ CHỨC
+- Thành viên Hội Lọc máu Việt Nam.
+- Thành viên Hội Tiết niệu Việt Nam.
+# DANH HIỆU, GIẢI THƯỞNG
+- Danh hiệu: Bác sĩ cao cấp.
+- Năm 2011: Bằng khen “Chỉ đạo tuyến và thực hiện đề án 1816” của Sở Y tế tỉnh Quảng Ninh.
+- Năm 2014 – 2019: Chiến sĩ thi đua cấp cơ sở Bệnh viện Bạch Mai.
+- Năm 2014: Bằng khen “Đã có thành tích xuất sắc trong phong trào thi đua lao động giỏi và xây dựng tổ chức Công Đoàn vững mạnh”, Công Đoàn ngành Y tế.
+- Năm 2016: Bằng khen “Thành tích xuất sắc trong việc triển khai 100 ca ghép thận tại Bệnh viện Bạch Mai” do Giám đốc Bệnh viện trao tặng.
+- Năm 2016: Bằng khen “Đã có nhiều thành tích trong quá trình xây dựng và phát triển Bệnh viện”, Bộ trưởng Bộ Y tế.
+# CÔNG TRÌNH NGHIÊN CỨU
+- Impact and perspective on chronic kidney disease in an Asian developing country: A large scale survey in North Viet nam, Nephron clinical practice 2008, 109 :c25-c32. DOI 10.1159/000134379
+- Dịch tễ học bệnh lý cầu thận tại thành phố Hà Nội, tỉnh Bắc Giang và đề xuất giải pháp can thiệp, Kỷ yếu các công trình nghiên cứu khoa học Bệnh Viện Bạch Mai lần thứ 27.
+- Rối loạn lipoprotein ở bệnh nhân suy thận mạn giai đoạn cuối lọc màng bụng liên tục ngoại trú, Tạp chí Nghiên cứu Y học Đại học Y Hà nội, Vol 60, N1-2/2009.
+- Đặc điểm lâm sàng, cận lâm sàng và mô bệnh học nhóm bệnh nhân bệnh thận IgA tại khoa Thận Tiết niệu bệnh viện Bạch Mai, Tạp chí Nội khoa Việt Nam năm 2015.
+- Đặc điểm lâm sàng, cận lâm sàng và một số biến chứng của viêm thận bể thận cấp tại khoa Tiết niệu bệnh viện Bạch Mai, Tạp chí Nội khoa Việt nam năm 2015.
+- Hiệu quả điều trị corticoid ở một số bệnh nhân bệnh thận IgA,  Tạp chí Y học thực hành, số tháng 2/2017.
+- Nhận xét đặc điểm lâm sàng, cận lâm sàng và một số yếu tố liên quan đến mức lọc cầu thận ở bệnh nhân có sỏi tiết niệu tại khoa Thận – Tiết niệu bệnh viện Bạch Mai, Tạp chí Y học thực hành số 9/2019.
+- Khảo sát tình trạng nhiễm khuẩn tiết niệu ở bệnh nhân trong ba tháng đầu sau ghép thận, Tạp chí Y học Việt Nam số 11/2020.
+- Khảo sát nồng độ albumin huyết thanh và một số đặc điểm liên quan ở bệnh nhân suy thận mạn thận nhân tạo chu kỳ trên 60 tuổi tại bệnh viện Hữu Nghị, Tạp chí Y dược lâm sàng 108 tập 15 số 7/2020.
+- Thực trạng nhiễm trùng catheter đường vào mạch máu trên bệnh nhân lọc máu cấp cứu và một số yếu tố liên quan, Tạp chí Y học Việt nam số 2 tháng 9/2021.
+- Thực trạng thiếu máu và một số yếu tố liên quan trên bệnh nhân sau ghép thận », Tạp chí Y dược học số 31 tháng 9/2021.
+- Nghiên cứu rối loạn glucose máu ở bệnh nhân bệnh thận mạn, Tạp chí Y học Việt Nam tập 520 – 11/2022.
+- Năm 2007: Chủ nhiệm đề tài thạc sĩ: Nghiên cứu rối loạn mỡ máu ở bệnh nhân suy thận mạn giai đoạn cuối lọc màng bụng liên tục ngoại trú.
+- Năm 2018: Chủ nhiệm đề tài tiến sĩ: Nghiên cứu đặc điểm lâm sàng, cận lâm sàng, mô  bệnh  học và bước đầu theo dõi điều trị bệnh thận IgA.
+- Năm 2018: Chủ nhiệm đề tài cơ sở Bệnh viện Bạch Mai: Đặc điểm lâm sàng, cận lâm sàng và mô bệnh học bệnh thận IgA.
+- Năm 2018: Chủ nhiệm đề tài cơ sở Bệnh viện Bạch Mai: Đánh giá hiệu quả điều trị bệnh thận IgA tại khoa Thận Tiết niệu, Bệnh viện Bạch Mai.
+- Năm 2021: Chủ nhiệm đề tài cơ sở Bệnh viện Bạch Mai: Nhận xét đặc điểm lâm sàng, cận lâm sàng và một số yếu tố liên quan đến mức lọc cầu thận ở bệnh nhân có sỏi tiết niệu tại khoa Thận – Tiết niệu, Bệnh viện Bạch Mai »
+- Năm 2022: Chủ nhiệm đề tài cơ sở Bệnh viện Bạch Mai: Khảo sát tình trạng nhiễm khuẩn tiết niệu ở bệnh nhân trong 3 tháng đầu sau ghép thận tại Bệnh viện Bạch Mai.
+- TS. BS Mai Thị Hiền tham gia nhiều hội thảo khoa học trong và ngoài nước.
+- TS. BS Mai Thị Hiền tham gia báo cáo tại nhiều hội nghị chuyên ngành trong nước.
+- TS. BS Mai Thị Hiền hướng dẫn nội trú, cao học, tham gia hội đồng chấm luận văn thạc sĩ, thực hiện chương trình tập huấn cho các bệnh viện tuyến tỉnh, tham gia viết sách Bài giảng bệnh học nội khoa.
+# QUÁ TRÌNH ĐÀO TẠO
+- Năm 1991 – 1997: Bác sĩ đa khoa, Đại học Y Hà Nội.
+- Năm 2004 – 2007: Thạc sĩ chuyên ngành Nội Thận Tiết niệu, Đại học Y Hà Nội.
+- Năm 2009 – 2010: Đào tạo chuyên sâu về lọc máu và ghép thận tại bệnh viện Brabois, thành phố Nancy, Cộng hòa Pháp.
+- Năm 2013 – 2018: Tiến sĩ y học chuyên ngành Nội Thận Tiết niệu, Đại học Y Hà Nội.
+# KINH NGHIỆM CÔNG TÁC
+- Năm 1999 – 02/2022: Bác sĩ Trung tâm Thận Tiết niệu lọc máuBệnh viện Bạch Mai.
+- Năm 3/2022 – 1/2023: Bác sĩ khoa Thận Tiết niệu lọc máu, Bệnh viện Hữu Nghị.
+- T7/2013 – 10/2020: Phó khoa Thận Tiết niệu, Bệnh viện Bạch Mai.
+- T6/2022- 9/2022: Phó khoa Thận Tiết niệu lọc máu, Bệnh viện Hữu Nghị.
+- T10/2022 – 1/2023: Phụ trách khoa Thận Tiết niệu lọc máu, Bệnh viện Hữu Nghị.
+- T2/2023 – nay: Phó khoa Tiết niệu – Nam học và Thận học, Bệnh viện Đa khoa MedicalCare, Đà Nẵng.
+- 👤 TS. BS TRẦN MINH GIANG
+- 🔗 Chi tiết bác sĩ: https://tamanhhospital.vn/chuyen-gia/tran-minh-giang/
+# GIỚI THIỆU
+- Theo đuổi sự nghiệp nghiên cứu, học tập và công tác trong lĩnh vực y khoa hơn 20 năm, TS. BS Trần Minh Giangđã điều trị thành công cho nhiều trường hợp cấp cứu do ngộ độc hoặc bị các bệnh lý nội khoa nặng, đe dọa tính mạng. Không chỉ vậy, Bác sĩ Minh Giang còn thực hiện nhiều công trình nghiên cứu khoa học với mục tiêu tìm hiểu các phương pháp, kỹ thuật chẩn đoán và điều trị mới, phục vụ cho công tác khám chữa bệnh đạt hiệu quả cao.
+- Bác sĩ Trần Minh Giang từng giữ chức vụ Phó Trưởng khoa Hồi sức Bệnh viện Nhân dân Gia Định. Hiện tại, BS. TS Trần Minh Giang đang đảm trách vị trí Phó trưởng khoa Hồi sức tích cực – chống độc và Bác sĩ Nội khoa, Khoa Nội tổng hợptạiBVĐK MedicalCare, Đà Nẵng.
+# QUÁ TRÌNH ĐÀO TẠO
+- 1994 – 2000: Đại học Y Dược TP. HCM
+- 2009 – 2012: Đại học Y Dược TP. HCM
+- 2014 – 2020: TS. BS Hồi sức cấp cứu – chống độc Đại học Y Dược TP. HCM
+# KINH NGHIỆM CÔNG TÁC
+- Từ 2000 – 2006: Bác sĩ khoa Hồi sức Bệnh viện Nhân dân Gia định
+- Từ 2006 – 11/2020: Phó Trưởng khoa Hồi sức Bệnh viện Nhân dân Gia Định
+- 2020: Trưởng khoa Hồi sức tích cực – Chống độc – Bệnh viện Đa khoa MedicalCare, Đà Nẵng
+- 👤 TS. BS NGUYỄN BẢO NGỌC
+- 🔗 Chi tiết bác sĩ: https://tamanhhospital.vn/chuyen-gia/nguyen-bao-ngoc/
+# GIỚI THIỆU
+- Sinh ra trong gia đình có truyền thống y khoa, từ nhỏ, bác sĩ Nguyễn Bảo Ngọcđã nuôi dưỡng ước mơ trở thành bác sĩ. Không chỉ chọnĐại học Y Hà Nộilàm nơi chắp cánh cho hoài bão, bác sĩ còn song song theo học chuyên ngành tiếng Anh tại Đại học Ngoại ngữ để mở rộng cơ hội nghề nghiệp, từ làm việc trong môi trường quốc tế đến tham gia các chương trình đào tạo và phát triển chuyên môn ở nước ngoài.
+- Sau khi tốt nghiệp Đại học Y Hà Nội, bác sĩ Bảo Ngọcvề công tác tại Bệnh viện Bạch Mai, chuyên ngành Nội thận. Với chuyên môn và năng lực nổi bật, bác sĩ là một trong năm bác sĩ được Bộ Y tế cử sang Nhật Bản để đào tạo ba năm tại bệnh viện Satsukidai, nơi bác sĩ không chỉ nâng cao chuyên môn mà còn học thêm tiếng Nhật.
+- Trong bảy năm sống và làm việc tại Nhật, bác sĩ Bảo Ngọc đã làm việc tại các bệnh viện lớn, hoàn thành chương trình bác sĩ nội trú và bảo vệ thành công luận án Tiến sĩ.
+- Khi trở về nước, bác sĩ tiếp tục công tác tại Bệnh viện Bạch Mai và làm việc tại Khoa Khám bệnh, tích cực tham gia giảng dạy, nghiên cứu khoa học, và thúc đẩy các dự án hợp tác quốc tế trong ngành y. Sau nhiều năm cống hiến, bác sĩ Bảo Ngọc chuyển sang Bệnh viện MedicalCare, Đà Nẵng, đảm nhận vị trí Phó KhoaNội Tổng hợp.
+- “Ngành y chứa đựng nhiều khó khăn và thách thức nhưng cũng mang đến cho tôi niềm hạnh phúc khi được trực tiếp phụng sự con người. Khi thấy niềm vui của bệnh nhân lúc họ hồi phục, tìm ra bệnh và nhận được sự trợ giúp, đó là ý nghĩa không chỉ cho bản thân tôi mà còn cho cả cuộc đời”, bác sĩ Nguyễn Bảo Ngọcchia sẻ.
+# LĨNH VỰC CHUYÊN MÔN
+- Bác sĩ Bảo Ngọc có nhiều năm kinh nghiệm trong tư vấn, khám và điều trị bệnh thận Nội khoa như các Bệnh thận mạn, Bệnh cầu thận, Sỏi thận, Viêm thận, các phương pháp điều trị Thay thế thận như Lọc máu, chạy thận nhân tạo.
+- Bác sĩ Bảo Ngọc cũng có nhiều năm kinh nghiệm trong lĩnh vực giảng dạy, nghiên cứu khoa học và hợp tác Quốc tế.
+# DANH HIỆU, GIẢI THƯỞNG
+- Chiến sĩ thi đua, bằng khen của Bộ Y tế do có thành tích trong quá trình xây dựng và phát triển đơn vị.
+# CÔNG TRÌNH NGHIÊN CỨU
+- Tham gia viết nhiều bài báo khoa học và triển khai các đề tài nghiên cứu khoa học có giá trị để triển khai kỹ thuật hiện đại trong chẩn đoán và điều trị bệnh lý Thận Nội khoa.
+- Năm 2001: Nghiên cứu sự thay đổi cấu trúc chức năng tim ở bệnh nhân suy thận chạy thận nhân tạo sau mỗi kỳ khi thẩm phân máu bằng siêu âm tim.
+- Năm 2002:Bốn năm theo dõi các rối loạn về tim mạch ở bệnh nhân suy thận thận nhân tạo. Nhận xét một số đặc điểm tổn thương xương trên bệnh nhân suy thận chạy thận nhân tạo điều trị tại khoa thận nhân tạo bệnh viện Bạch Mai.
+- Bốn năm theo dõi các rối loạn về tim mạch ở bệnh nhân suy thận thận nhân tạo.
+- Nhận xét một số đặc điểm tổn thương xương trên bệnh nhân suy thận chạy thận nhân tạo điều trị tại khoa thận nhân tạo bệnh viện Bạch Mai.
+- Năm 2009: Nghiên cứu bệnh lý xương ở bệnh nhân suy thận lọc máu bằng phương pháp thận nhân tạo chu kỳ.
+- Năm 2012:Nghiên cứu tương quan lưu lượng dòng máu và mức lọc cầu thận ở bệnh nhân tăng huyết áp nguyên phát. Hợp chất chống Viêm gan virus C mới, Tp80, kích thích bài tiết chất chống oxy hóa (GI-GPx).
+- Nghiên cứu tương quan lưu lượng dòng máu và mức lọc cầu thận ở bệnh nhân tăng huyết áp nguyên phát.
+- Hợp chất chống Viêm gan virus C mới, Tp80, kích thích bài tiết chất chống oxy hóa (GI-GPx).
+- Năm 2014: Nghiên cứu mối liên quan kiểm soát huyết áp và bệnh nhân thận cao huyết áp và bệnh nhân đái tháo đường đăng ký tại khoa ngoại trú, bệnh viện Bạch Mai.
+- Năm 2015: Nghiên cứu Natrixam “Tính an toàn và hiệu quả của viên phối hợp liều cố định Indapamide SR 1.5mg/Amlodipine so với Valsartan/Amlodipine trong 12 tuần điều trị có điều chỉnh liều dựa trên tình trạng kiểm soát huyết áp ở các bệnh nhân tăng huyết áp nguyên phát chưa được kiểm soát sau 1 tháng điều trị với Amlodipine 5mg. Nghiên cứu quốc tế, phân nhóm ngẫu nhiên, mù đôi, đối chứng, đa trung tâm”.
+- Năm 2016: Nghiên cứu Triveram nghiên cứu quốc tế đa trung tâm “ Hiệu quả của viên phối hợp cố định 3 thành phần Atorvastatin, Amlodipin và Perindopril trên bệnh nhân Tăng huyết áp kèm rối loạn mỡ máu tại Việt Nam.
+- Năm 2017: Sự phổ biến, nhận thức của bệnh nhân về tiểu đêm, điều trị tiểu đêm : nghiên cứu cắt ngang đa quốc gia ở Đông Nam Á
+- Năm 2018: Nghiên cứu quốc tế, đa trung tâm, ngẫu nhiên, mù đôi, nhóm đối chứng song song, đánh giá an toàn và hiệu quả của viên kết hợp cố định liều Bisoprolol/Perindopril (S05150) so sánh với kết hợp các viên rời Bisoprolol và Perindopril trên cách bệnh nhân Việt Nam trưởng thành, tăng huyết áp, đã kiểm soát được huyết áp với Bisoprolol và Perindopril dùng dạng viên rời với cùng mức liều.
+- Năm 2019:Lo âu và một số yếu tố liên quan ở người bệnh Tăng huyết áp có tổn thương thận điều trị ngoại trú tại Khoa Khám bệnh, Bệnh viện Bạch Mai. Nghiên cứu chức năng thất trái ở bệnh nhân suy thận giai đoạn cuối do đái tháo đường. Đặc điểm lâm sàng và vi khuẩn học ở bệnh nhân có nhiễm khuẩn sau đặt catheter lọc máu.
+- Lo âu và một số yếu tố liên quan ở người bệnh Tăng huyết áp có tổn thương thận điều trị ngoại trú tại Khoa Khám bệnh, Bệnh viện Bạch Mai.
+- Nghiên cứu chức năng thất trái ở bệnh nhân suy thận giai đoạn cuối do đái tháo đường.
+- Đặc điểm lâm sàng và vi khuẩn học ở bệnh nhân có nhiễm khuẩn sau đặt catheter lọc máu.
+- Năm 2020: Đánh giá thực trạng kiến thức, thực hành chăm sóc của người bệnh đái tháo đường týp 2 và một số yếu tố ảnh hưởng tại khoa Khám bệnh -bệnh viện Bạch Mai.
+- Năm 2021: Loãng xương và nguy cơ gãy xương theo mô hình Frax ở bệnh nhân bệnh thận mạn chưa điều trị thay thế.
+- Năm 2023: Tăng huyết áp và một số yếu tố liên quan ở bệnh nhân bệnh thận mạn tính chưa điều trị thay thế được quản lý ngoại trú tại bệnh viện Bạch Mai.
+- Tham gia cập nhật kiến thức tại các hội thảo khoa học trong nước và quốc tế liên quan đến Thận và nội khoa.
+- Tham gia giảng dạy về chuyên ngành Nội thận cho các bệnh viện tuyến dưới, nghiên cứu khoa học: làm chủ nhiệm 3 đề tài nghiên cứu quốc tế thử nghiệm thuốc. Hướng dẫn 3 sinh viên tốt nghiệp nội trú, thạc sĩ chuyên ngành nội thận tiết niệu.
+- Hợp tác quốc tế với các bệnh viện Nhật và Úc, giúp làm cầu nối để điều dưỡng và bác sĩ sang học tập nâng cao trình độ chuyên môn.
+# QUÁ TRÌNH ĐÀO TẠO
+- 1998: Tốt nghiệp bác sĩ đa khoa tại Đại học Y Hà nội.
+- 1998: Tốt nghiệp cử nhân Ngoại ngữ Anh văn tại Đại học Ngoại ngữ Hà Nội.
+- 1998 – 2000: Được đào tạo nội khoa, cấp cứu, tim mạch tại bệnh viện Bạch Mai.
+- 2000 – 2004: Bác sĩ khoa Thận nhân tạo bệnh viện Bạch Mai.
+- 2004 – 2005: Bác sĩ thực tập khoa Thận lọc máu bệnh viện Nichidai – Tokyo Nhật bản.
+- 2005 – 2006: Bác sĩ thực tập khoa Thận lọc máu bệnh viện thành phố Osaka- Nhật Bản.
+- 2006 – 2009: Bác sĩ điều trị chuyên ngành nội, bệnh viện Satsukidai- ChiBa- Nhật bản.
+- 2009 – 2012: Nghiên cứu sinh Tiến sĩ y học phân tử ứng dụng – Đại học Y Nha khoa Tokyo, Nhật Bản.
+- 6/2017 – 7/2017: Tham dự khóa đào tạo chuyên môn quản lí tại bệnh viện Royal North Shore- Sydney, Australia theo học bổng Hocmai.
+- 2012 – đến nay: Bác sĩ điều trị chuyên ngành nội thận lọc máu, Khoa Khám Bệnh, Bệnh viện Bạch Mai Hà Nội.
+# KINH NGHIỆM CÔNG TÁC
+- 1998 – 2005: Bác sĩ điều trị Khoa Thận Nhân tạo, Bệnh viện Bạch Mai.
+- 2005 – 2009: Bác sĩ tại các bệnh viện Nhật Bản.
+- 2009 – 2012: Nghiên cứu sinh tại Đại học Y, Nha khoa Tokyo, Nhật Bản.
+- 2012 – 9/2024: Bác sĩ điều trị, Bệnh viện Bạch Mai.
+- 01/10/2024 – nay: Phó khoa Nội tổng hợp, bác sĩ điều trị, Bệnh viện Đa khoa MedicalCare, Đà Nẵng.
+- 👤 THS. BS HÀ TUẤN HÙNG
+- 🔗 Chi tiết bác sĩ: https://tamanhhospital.vn/chuyen-gia/ths-bs-ha-tuan-hung/
+# GIỚI THIỆU
+- Tốt nghiệpĐại học Y dược Hải Phòngnăm 2010, đến nayThS. BS Hà Tuấn Hùngđã có khoảng 12 năm kinh nghiệm trong lĩnh vực Nội khoa. Trong công việc, bác sĩ Tuấn Hùng được đồng nghiệp đánh giá cao ở tinh thần ham học hỏi, nỗ lực trau dồi kiến thức, kỹ năng. Với phương châm “Mỗi một ca bệnh là một bài học cho bản thân”, bác sĩ Tuấn Hùng luôn lắng nghe, chia sẻ, giúp người bệnh vơi đi nỗi lo về bệnh tật, đồng thời từng bước hoàn thiện bản thân. Nhờ đó, bác sĩ Hùng được rất nhiều người bệnh hết lòng tin yêu vì sự nhiệt tình, tận tâm và trách nhiệm.
+- Ngoài thời gian làm việc tại bệnh viện, ThS. BS Hà Tuấn Hùngcũng dành thời gian nghiên cứu khoa học và liên tục tham gia các khóa đào tạo ngắn hạn, dài hạn ở lĩnh vực Nội khoa tại các bệnh viện lớn tại Hà Nội… Lĩnh vực lâm sàng chuyên môn sâu của bác sĩ Tuấn Hùng là Thận – thận lọc máu.
+- Hiện nay, ThS. BS Hà Tuấn Hùngđang giữ vai trò Phó trưởng khoaNội Tổng hợp–  BVĐK MedicalCare, Đà Nẵng.
+# DANH HIỆU, GIẢI THƯỞNG
+- Chiến sĩ thi đua BVĐK tỉnh Hải Dương năm 2013-2015
+# CÔNG TRÌNH NGHIÊN CỨU
+- Đánh giá chất lượng cuộc sống của bệnh nhân lọc màng bụng tại Bệnh viện Bạch Ma
+- Đánh giá hiệu quả điều trị sắt tĩnh mạch, Erythropoietin ở bệnh nhân lọc máu chu kỳ tại BVĐK tỉnh Hải Dương
+# QUÁ TRÌNH ĐÀO TẠO
+- Năm 2010:  Bác sĩ Đa khoa tại Đại học Y dược Hải Phòng
+- Năm 2013:  Thạc sĩ Nội khoa tại Đại học Y Hà Nội
+- CÁC CHỨNG CHỈ CHUYÊN MÔN
+- Năm 2007:  Lọc máu cơ bản tại Bệnh viện Bạch Mai
+- Năm 2013: Lọc máu nâng cao tại Bệnh viện Bạch Mai
+- Năm 2020: Lọc máu liên tục, thay huyết tương tại Bệnh viện Bạch Mai
+# KINH NGHIỆM CÔNG TÁC
+- Năm 2010 -2013: Bác sĩ khoa KCB kỹ thuật cao BVĐK tỉnh Hải Dương
+- Năm 2013-2015: Bác sĩ khoa Thận – Thận lọc máu BVĐK tỉnh Hải Dương
+- Năm 2015-12/2017: Phó trưởng khoa Thận – Thận lọc máu BVĐK tỉnh Hải Dương
+- Năm 2017- 9/2020: Bác sĩ khoa Nội – Cấp cứu tại BVĐK MedicalCare, Đà Nẵng
+- Tháng 10/2020- nay: Phó Trưởng khoa Nội tổng hợp BVĐK MedicalCare, Đà Nẵng
+- xem thêm
+- 👤 TTƯT. TS. BS NGUYỄN THANH VÂN
+- 🔗 Chi tiết bác sĩ: https://tamanhhospital.vn/chuyen-gia/nguyen-thanh-van/
+# GIỚI THIỆU
+- Bác sĩ Nguyễn Thanh Vâncó thâm niên 30 năm công tác trong ngành y, chuyên ngành nội khoa, truyền nhiễm.
+- Sau khi tốt nghiệp Bác sĩ Đa khoa tạiĐH Y Hà Nộinăm 1991, bác sĩ Nguyễn Thanh Vân trở thành bác sĩ điều trị khoa Nội tổng hợp A, BV Hữu Nghị, từ năm 1993. Qua 10 năm tận hiến với công việc, học hỏi không ngừng, bác sĩ Nguyễn Thanh Vân được bổ nhiệm làm Phó trưởng khoa Nội tổng hợp A.  Sau 19 năm làm tại khoa Nội tổng hợp A- BV Hữu Nghị, bác sĩ Nguyễn Thanh Vân  được điều động và bổ nhiệm làm Trưởng khoa Bệnh Nhiệt đới, Bệnh viện Hữu Nghị từ 08/2013.
+- Với 19 năm kinh nghiệm là bác sĩ điều trị và 10 năm ở vị trí quản lý kiêm bác sĩ điều trị, gần 30 năm trong nghề Tiến sĩ Nguyễn Thanh Vân được phong tặng danh hiệu Thầy thuốc ưu tú.
+- TTƯT. TS. BS Nguyễn Thanh Vân trở thành cái tên chuyên gia giỏi trong việc điều trị cho người cao tuổi, có bệnh lý nền, nhờ có tâm, uy tín trong tay nghề với số đông lượng bệnh nhân thăm khám và tin tưởng. Làm việc tại BV Hữu Nghị đa phần bệnh nhân lớn tuổi, là người có trình độ cao, hiểu biết sâu rộng và độ khó tính nhất định, nhưng bác sĩ Vân luôn được bệnh nhân hết lời khen ngợi.
+- TTƯT. TS. BS cũng được coi là “chuyên gia chẩn đoán” khi phân loại bệnh cực nhạy. Với tinh thần trách nhiệm cao trong công việc, bác sĩ Thanh Vân luôn nhận được sự đánh giá cao và tín nhiệm từ đồng nghiệp.
+- Hiện tại, bác sĩ Nguyễn Thanh Vân tiếp tục đầu quân choKhoa Nội Tổng hợp, BVĐK MedicalCare, Đà Nẵng. Với trình độ chuyên môn cao và sự hỗ trợ của kỹ thuật máy móc hiện đại tại BVĐK MedicalCare, bác sĩ đặt mục tiêu nâng cao chất lượng thăm khám và điều trị, để người bệnh hoàn toàn tin tưởng khi giao phó nhiệm vụ chăm sóc sức khỏe của mình cho bệnh viện MedicalCare.
+# THÀNH VIÊN TỔ CHỨC
+- Hội viên hội Truyền nhiễm, Hô hấp và Gan mật Việt Nam.
+# LĨNH VỰC CHUYÊN MÔN
+- Tiến sĩ – Bác sĩ chuyên ngành Nội – Truyền nhiễm.
+# DANH HIỆU, GIẢI THƯỞNG
+- Năm 2005 – 2012, Chiến sĩ thi đua cấp cơ sở của Bệnh viện Hữu Nghị
+- Năm 2014, Kỷ niệm chương vì sức khỏe nhân dân theo Quyết định số 2056/QĐ-BYT ngày 10/06/2014, của Bộ Y Tế
+- Năm 2017, Thầy thuốc Ưu tú theo Quyết định số 367/QĐ-CTN ngày 24/02/2017, của Chủ tịch nước CHXHCN Việt Nam
+- Năm 2004 – 2018, Bằng khen của Ban Bảo vệ, chăm sóc sức khỏe cán bộ TW
+# CÔNG TRÌNH NGHIÊN CỨU
+- Công trình “Nghiên cứu tình hình nhiễm khuẩn tiết niệu trên bệnh nhân phì đại lành tính tiền liệt tuyến” tại Bệnh viện Bạch Mai năm 2002.
+- Đề tài khoa học cấp Bộ Y tế “Nghiên cứu mức độ hoạt động của gen activation induced cytidine deaminase (AID) trong ung thư dạ dày và ung thư gan nguyên phát” năm 2011.
+- Đề tài cơ sở “Nghiên cứu tình trạng kiểm soát đường huyết và các yếu tố nguy cơ tim mạch cho bệnh nhân đái tháo đường typ 2” tại phòng khám A bệnh viện Hữu Nghị năm 2012.
+- Bài báo khoa học (là tác giả và đồng tác giả)
+- Năm 2005 “Ứng dụng của test 5 từ trong khám lâm sàng suy giảm nhận thức ở người có tuổi”.
+- Năm 2007 “Đánh giá bước đầu về đặc điểm lâm sàng suy giảm chức năng trí tuệ ở bệnh nhân sau nhồi máu não trên 60 tuổi”.
+- Năm 2008 “Ứng dụng một số trắc nghiệm thần kinh tâm lý trong chẩn đoán sa sút trí tuệ sau nhồi máu não ở bệnh nhân trên 60 tuổi”.
+- Năm 2008 “Liên quan giữa tổn thương hình ảnh học của não và tình trạng rối loạn nhận thức sau nhồi máu não”
+- Năm 2009 “Sa sút trí tuệ sau nhồi máu não và một số yếu tố nguy cơ”. Nguyễn Thanh Vân, Phạm Thắng, Lê Quang Cường, Tạ Thành Văn.
+# QUÁ TRÌNH ĐÀO TẠO
+- Năm 1998 – 2001, Thạc sĩ, Trường Đại học Y Hà Nội
+- Năm 2005 – 2009, Tiến sĩ Y học, Trường Đại học Y Hà Nội
+# KINH NGHIỆM CÔNG TÁC
+- 29 năm công tác tại Bệnh viện Hữu Nghị: 19 năm làm tại khoa Nội tổng hợp A   (từ 11/2003: được bổ nhiệm làm Phó Trưởng khoa Nội tổng hợp A); Từ 11/ 2012 chuyển sang khoa Bệnh Nhiệt đới – bệnh viện Hữu Nghị với chức danh bác sĩ điều trị – phụ trách khoa và được bổ nhiệm Trưởng khoa Bệnh Nhiệt đới- bệnh viện Hữu Nghị từ 08/2013
+- Từ năm 2023, bác sĩ khoa Nội Tổng hợp, Bệnh viện đa khoa MedicalCare, Đà Nẵng.
+- 👤 THS. BSNT NGUYỄN QUANG HUY
+- 🔗 Chi tiết bác sĩ: https://tamanhhospital.vn/chuyen-gia/nguyen-quang-huy/
+# GIỚI THIỆU
+- Sau khi tốt nghiệp Đại học Y Hà Nộichuyên ngành Bác sĩ Đa khoa, bác sĩ Nguyễn Quang Huy tiếp tục hoàn thành chương trình Bác sĩ Nội trú tại  trường. Mang theo tình yêu nghề, với mong muốn cháy bỏng được thăm khám, chăm sóc cho người bệnh, bác sĩ Quang Huy không ngừng trau dồi kiến thức, học hỏi kinh nghiệm chuyên môn từ các chuyên gia đầu ngành.
+- Hiện nay, ThS. BSNT Nguyễn Quang Huyđang công tác tạikhoa Nội Tổng hợp, BVĐK MedicalCare, Đà Nẵng, là một trong những bác sĩ trẻ giàu nhiệt huyết với nghề, dành được nhiều sự tin tưởng của người bệnh khi điều trị tại đây.
+# CÔNG TRÌNH NGHIÊN CỨU
+- Năm 2021, Thạc sĩ y khoa với đề tài nghiên cứu: Khảo sát một số yếu tố miễn dịch và tìm hiểu một số yếu tố liên quan ở bệnh nhân viêm thận Lupus.
+- Năm 2022, Báo cáo: Liên quan giữa kháng thể kháng Smith và một số đặc điểm lâm sàng, cận lâm sàng trên bệnh nhân viêm thận Lupus.
+# QUÁ TRÌNH ĐÀO TẠO
+- Năm 2019: Bác sĩ Đa khoa, Đại học Y Hà Nội.
+- Năm 2022: Bác sĩ nội trú, Đại học Y Hà Nội.
+- 👤 THS. BSNT NGUYỄN VŨ HỒNG VÂN
+- 🔗 Chi tiết bác sĩ: https://tamanhhospital.vn/chuyen-gia/nguyen-vu-hong-van/
+# GIỚI THIỆU
+- Bác sĩ Nguyễn Vũ Hồng Vân tốt nghiệp Bác sĩ đa khoa và hoàn thành khóa đào tạo bác sĩ nội trú chuyên ngành Truyền nhiễm và các bệnh nhiệt đới, Đại học Y Hà Nội.
+- Với nhiều kinh nghiệm trong chẩn đoán và điều trị bệnh truyền nhiễm, bác sĩ Hồng Vân luôn nhận được sự tin tưởng và hài lòng của người bệnh. Bên cạnh công việc chăm sóc bệnh nhân, bác sĩ Vân dành thời gian học hỏi, nỗ lực trau dồi kiến thức, tham gia nghiên cứu khoa học, các khóa đào tạo nhằm mang đến chất lượng dịch vụ tốt hơn nữa cho bệnh nhân khi thăm khám tại bệnh viện.
+- Hiện nay, ThS. BSNT Nguyễn Vũ Hồng Vânđang công tác tạikhoa Nội tổng hợp, BVĐK MedicalCare, Đà Nẵng.
+# CÔNG TRÌNH NGHIÊN CỨU
+- Bài báo khoa học:
+- Năm 2021: Dấu ấn HBcrAg huyết thanh trong diễn biến tự nhiên ở bệnh nhân viêm gan virus B mạn tại bệnh viện Bạch Mai, Tập 507 số 01 – 2021, Tạp chí Y học Việt Nam.
+- Năm 2021: Đặc điểm các dấu ấn HBV ở bệnh nhân nhiễm HBV mắc u lympho tại trung tâm huyết học và truyền máu Bệnh viện Bạch Mai, Tập 507 số 2 – 2021, Tạp chí Y học Việt Nam.
+- Năm 2022: Tương quan giữa nồng độ HBcrAg với tải lượng HBV – DNA huyết thanh ở bệnh nhân viêm gan virus B mạn tại Bệnh viện Bạch Mai, Số 3 – 2022, Tạp chí truyền nhiễm Việt Nam.
+- Năm 2022: Survey of Hepatitis B surface antibody concentration in patients examined and treated at the Center for Tropical Diseases – Bach Mai Hospital, Số 04 – 2022, Tạp chí truyền nhiễm Việt Nam.
+- Tham gia các hoạt động khoa học khác:
+- Năm 2021: Đề tài thạc sĩ: Khảo sát nồng độ HBcrAg ở bệnh nhân nhiễm virus viêm gan B mạn tại Bệnh viện Bạch Mai.
+- Năm 2022: Đồng tác giả và ban thư ký sách: Chẩn đoán và điều trị Covid 19, Chủ biên PGS. TS. BS Nguyễn Lân Hiếu.
+# QUÁ TRÌNH ĐÀO TẠO
+- Năm 2013 – 2019: Bác sĩ đa khoa, Đại học Y Hà Nội.
+- Năm 2019 – 2022: Bác sĩ nội trú chuyên ngành Truyền nhiễm và các bệnh nhiệt đới, Trường Đại học Y Hà Nội.
+# KINH NGHIỆM CÔNG TÁC
+- Từ 9/2019 –  9/2022: Tham gia chống dịch COVID-19 và chương trình khám viêm gan ở một số tỉnh.
+- Từ 9/2022 đến nay: Bác sĩ khoa Nội Tổng hợp, Bệnh viện Đa khoa MedicalCare, Đà Nẵng.
+- 👤 THS. BS. CKII NGUYỄN HOÀNG TUẤN VŨ
+- 🔗 Chi tiết bác sĩ: https://tamanhhospital.vn/chuyen-gia/nguyen-hoang-tuan-vu/
+# GIỚI THIỆU
+- Sinh ra trong gia đình có truyền thống về ngành Y, ThS. BS. CKII Nguyễn Hoàng Tuấn Vũluôn cố gắng học tập, nghiên cứu, trau dồi kiến thức, kinh nghiệm, trở thành một Bác sĩ có tâm, có tầm với người bệnh.
+- Bác sĩ Tuấn Vũtốt nghiệp Bác sĩ Y đa khoa tạiĐại học Y Dược TP. HC M vào năm 2001, sau đó tiếp tục gặt hái thành công trên con đường học thuật: tốt nghiệp Bác sĩ CKI – Nội trú Lão khoa (2005), Thạc sĩ Lão khoa (2010) và Bác sĩ CKII Lão khoa (2016) tại Đại học Y Dược TP. HCM.
+- Bác sĩ Tuấn Vũ từng tham gia công tác tại nhiều bệnh viện lớn, uy tín như ​​Bệnh viện Thống Nhất TP. HCM, Bệnh viện Hoàn Mỹ TP. HCM, Bệnh viện Nhân dân Gia Định TP. HCM. Đồng thời, Bác sĩ Tuấn Vũ còn là tác giả và tham gia thực hiện các đề tài Nghiên cứu khoa học, nhất là các đề tài về lão khoa, bệnh mạn tính ở người có tuổi…
+- Với bề dày kiến thức và 20 năm kinh nghiệm làm việc, Bác sĩ Tuấn Vũ luôn được bệnh nhân quý mến, đồng nghiệp kính trọng. Bác sĩ đang làm việc tại khoaNội tổng hợp, Bệnh viện Đa khoa MedicalCare, Đà Nẵng.
+# CÔNG TRÌNH NGHIÊN CỨU
+- Tác giả đề tài Khảo sát tình trạng tắc nghẽn đường dẫn khí bằng phế lưu lượng ký ở Bệnh nhân cao tuổi mắc COPD
+- Tham gia nghiên cứu đề tài Mô hình bệnh tật Khoa Lão, Bệnh viện Nhân Dân Gia Định
+- Tác giả đề tài Khảo sát tình trạng chỉ định thuốc không thích hợp và tương tác thuốc – thuốc ở người cao tuổi có nhiều bệnh mãn tính đồng mắc điều trị nội trú
+# QUÁ TRÌNH ĐÀO TẠO
+- Quá trình học tập
+- 2001: Tốt nghiệp Bác sĩ Y đa khoa tại Đại học Y Dược TP. HCM
+- 2005: Tốt nghiệp Bác sĩ CKI – Nội trú Lão khoa tại Đại học Y Dược TP. HCM
+- 2010: Tốt nghiệp Thạc sĩ Lão khoa tại Đại học Y Dược TP. HCM
+- 2016: Tốt nghiệp Bác sĩ CKII Lão khoa tại Đại học Y Dược TP. HCM
+- Kinh nghiệm công tác
+- 2001-2005: Bác sĩ Nội trú ​​Bệnh viện Thống Nhất TP. HCM
+- 2006: Bác sĩ Nội khoa Bệnh viện Hoàn Mỹ TP. HCM
+- 2006-2008: Bác sĩ điều trị khoa Hô hấp, Bệnh viện Nhân dân Gia Định TP. HCM
+- 2008-2021: Bác sĩ điều trị và Bác sĩ Phó trưởng khoa Lão học, Bệnh viện Nhân dân Gia Định TP. HCM
+- 08/2021-10/2021: Bác sĩ Trưởng khoa Covid A1, Bệnh viện Nhân dân Gia Định TP. HCM
+# DỊCH VỤ
+- Khoa Nội Tổng hợp, Hệ thống BVĐK MedicalCare kết hợp chặt chẽ với các chuyên khoa khác trong nội viện nhằm mang lại hiệu quả khám chữa bệnh cao nhất. Theo đó, các dịch vụ khám, tầm soát, chẩn đoán và điều trị bệnh lý nội khoa nổi bật bao gồm:
+- Nội hô hấp, Xét nghiệm, chẩn đoán sớm và bệnh lao phổi, Nội soi phế quản ống mềm chẩn đoán ung thư phổi, các đám mờ trên X-quang phổi chưa rõ nguyên nhân, các bệnh nhiễm trùng hô hấp. Sinh thiết phổi qua nội soi phế quản ống mềm, hoặc sinh thiết bằng kim qua thành ngực dưới sự hướng dẫn của CT để chẩn đoán nguyên nhân đối với các đám mờ ngoại vi trên X-quang phổi. Sinh thiết màng phổi chẩn đoán các bệnh màng phổi bằng kim hoặc qua nội soi màng phổi. Đo chức năng hô hấp chẩn đoán, đánh giá mức độ nặng của bệnh đối với các bệnh phổi (bệnh hen phế quản, bệnh phổi tắc nghẽn mạn tính, phân biệt tắc nghẽn đường thở trên và dưới, chẩn đoán hội chứng ngưng thở khi ngủ…). Soi phế quản lấy dị vật đường thở, điều trị một số tổn thương của đường thở. Đặt van phế quản một chiều điều trị khí thũng phổi trong bệnh phổi tắc nghẽn mạn tính qua nội soi phế quản ống mềm. Gây dính màng phổi điều trị tràn dịch màng phổi ác tính hoặc tràn khí màng phổi tự phát (nguyên phát hoặc thứ phát) và tái phát.
+- Xét nghiệm, chẩn đoán sớm và bệnh lao phổi
+- Nội soi phế quản ống mềm chẩn đoán ung thư phổi, các đám mờ trên X-quang phổi chưa rõ nguyên nhân, các bệnh nhiễm trùng hô hấp.
+- Sinh thiết phổi qua nội soi phế quản ống mềm, hoặc sinh thiết bằng kim qua thành ngực dưới sự hướng dẫn của CT để chẩn đoán nguyên nhân đối với các đám mờ ngoại vi trên X-quang phổi.
+- Sinh thiết màng phổi chẩn đoán các bệnh màng phổi bằng kim hoặc qua nội soi màng phổi.
+- Đo chức năng hô hấp chẩn đoán, đánh giá mức độ nặng của bệnh đối với các bệnh phổi (bệnh hen phế quản, bệnh phổi tắc nghẽn mạn tính, phân biệt tắc nghẽn đường thở trên và dưới, chẩn đoán hội chứng ngưng thở khi ngủ…).
+- Soi phế quản lấy dị vật đường thở, điều trị một số tổn thương của đường thở.
+- Đặt van phế quản một chiều điều trị khí thũng phổi trong bệnh phổi tắc nghẽn mạn tính qua nội soi phế quản ống mềm.
+- Gây dính màng phổi điều trị tràn dịch màng phổi ác tính hoặc tràn khí màng phổi tự phát (nguyên phát hoặc thứ phát) và tái phát.
+- Bệnh lý tim mạchTăng huyết ápChẩn đoán sớm suy timBệnh mạch vànhXơ vữa các mạch máuBệnh tim thiếu máu cục bộBệnh lý van timRối loạn nhịp không ảnh hưởng đến huyết động: rung nhĩ, ngoại tâm thu thất, nhĩ thưa, nhịp chậm xoang…Huyết áp thấpRối loạn chuyển hóa lipid máu.
+- Tăng huyết áp
+- Chẩn đoán sớm suy tim
+- Bệnh mạch vành
+- Xơ vữa các mạch máu
+- Bệnh tim thiếu máu cục bộ
+- Bệnh lý van tim
+- Rối loạn nhịp không ảnh hưởng đến huyết động: rung nhĩ, ngoại tâm thu thất, nhĩ thưa, nhịp chậm xoang…
+- Huyết áp thấp
+- Rối loạn chuyển hóa lipid máu.
+- Bệnh lý gan - mậtXuất huyết tiêu hóaTrĩLoét dạ dày tá tràngTrào ngược dạ dàyViêm dạ dày – ruộtCác rối loạn tiêu hóa cấpHội chứng lỵHội chứng đại tràng kích thích IBS Xét nghiệm đánh giá chức năng ganViêm gan cấp, mạn, áp xe gan, xơ ganViêm tụy cấp – mạn
+- Xuất huyết tiêu hóa
+- Trĩ
+- Loét dạ dày tá tràng
+- Trào ngược dạ dày
+- Viêm dạ dày – ruột
+- Các rối loạn tiêu hóa cấp
+- Hội chứng lỵ
+- Hội chứng đại tràng kích thích IBS
+- Xét nghiệm đánh giá chức năng gan
+- Viêm gan cấp, mạn, áp xe gan, xơ gan
+- Viêm tụy cấp – mạn
+- Bệnh lý thần kinhĐột quỵ não như nhồi máu não, xuất huyết nãoĐau đầu và đau nửa đầu mạn tínhRối loạn vận độngViêm não, màng não do virus, vi khuẩn…Bệnh não do tăng huyết ápViêm đa dây thần kinh ngoại biênĐau đầu vận mạch hoặc MigraineCác rối loạn lo âu, mất ngủSuy giảm trí nhớ AlzheimerParkinsonĐộng kinh
+- Đột quỵ não như nhồi máu não, xuất huyết não
+- Đau đầu và đau nửa đầu mạn tính
+- Rối loạn vận động
+- Viêm não, màng não do virus, vi khuẩn…
+- Bệnh não do tăng huyết áp
+- Viêm đa dây thần kinh ngoại biên
+- Đau đầu vận mạch hoặc Migraine
+- Các rối loạn lo âu, mất ngủ
+- Suy giảm trí nhớ Alzheimer
+- Parkinson
+- Động kinh
+- Bệnh huyết họcThiếu máu do thiếu sắtThiếu máu mạn tính ngoại viThiếu máu do xuất huyết giảm tiểu cầu
+- Thiếu máu do thiếu sắt
+- Thiếu máu mạn tính ngoại vi
+- Thiếu máu do xuất huyết giảm tiểu cầu
+- Bệnh cơ xương khớpLoãng xươngThoái hóa khớpCột sốngLupus ban đỏViêm mô tế bàoGout cấpViêm đa khớp dạng thấpBệnh da liễu hệ thốngĐau lưng cấp
+- Loãng xương
+- Thoái hóa khớp
+- Cột sống
+- Lupus ban đỏ
+- Viêm mô tế bào
+- Gout cấp
+- Viêm đa khớp dạng thấp
+- Bệnh da liễu hệ thống
+- Đau lưng cấp
+- Bệnh da liễu - hệ thốngZona thần kinh, thủy đậu bội nhiễmDị ứng mề đay
+- Zona thần kinh, thủy đậu bội nhiễm
+- Dị ứng mề đay
+- Bệnh nhiễm - bệnh lý khácSốt xuất huyếtSốt virusSốt rét
+- Sốt xuất huyết
+- Sốt virus
+- Sốt rét

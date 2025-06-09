@@ -1,0 +1,617 @@
+# Ung thư gan
+
+# Khoa: Khoa Ung bướu
+# Bác sĩ: TS.BS VŨ HỮU KHIÊM
+
+# Ung thư gan là gì?
+Ung thư gan là tình trạng các khối u ác tính phát sinh trong gan, dẫn đến việc sẽ phá hủy các tế bào gan và cản trở khả năng hoạt động bình thường của cơ quan quan trọng này..
+Ung thư ở gan có hai loại chính:
+• Ung thư gan nguyên phát: hình thành từ chính các tế bào trong gan.
+• Ung thư gan thứ phát: phát triển khi các tế bào ung thư từ cơ quan khác di căn đến gan như ung thư phổi, ung thư đại tràng, ung thư vú…
+
+# Phân loại ung thư gan nguyên phát
+Ung thư gan nguyên phát có thể bắt đầu như một khối u duy nhất phát triển trong gan, hoặc hình thành ở nhiều vị trí trong gan cùng một lúc, bao gồm: (2)
+
+Ung thư biểu mô tế bào gan
+Ung thư biểu mô tế bào gan (HepatoCellular Carcinoma – viết tắt là HCC) là loại ung thư phổ biến nhất, chiếm khoảng 75% các trường hợp. Phần lớn ung thư biểu mô tế bào gan thường xảy ra ở những người nhiễm viêm gan virus B hoặc C, hoặc xơ gan do rượu.
+
+
+Ung thư đường mật
+Ung thư đường mật (Cholangiocarcinoma), hay còn gọi là ung thư ống mật, hình thành từ các ống dẫn mật nhỏ. Những ống dẫn mật này mang mật đến túi mật và xuống ruột non để giúp tiêu hóa thức ăn.
+Khi ung thư hình thành ở các ống dẫn mật trong gan, nó được gọi là ung thư đường mật trong gan. Nếu hình thành ở các ống dẫn mật ngoài gan thì được gọi là ung thư đường mật ngoài gan.
+Ung thư đường mật chiếm khoảng 10 – 20% các trường hợp ung thư gan.
+
+U mạch máu ác tính
+U mạch máu gan ác tính là một dạng ung thư hiếm gặp, bắt nguồn từ các mạch máu của gan. Loại ung thư này có xu hướng tiến triển rất nhanh, vì vậy nó thường được chẩn đoán khi đã bước sang giai đoạn muộn.
+
+U nguyên bào gan
+Loại ung thư gan này cực kỳ hiếm gặp. Đa số các trường hợp bệnh đều xảy ra ở trẻ em, đặc biệt là những trẻ dưới 3 tuổi.
+Nếu được điều trị bằng phương pháp phẫu thuật và hóa trị, tiên lượng của những người mắc bệnh u nguyên bào gan có thể rất tốt. Nếu bệnh được phát hiện trong giai đoạn đầu, tỷ lệ sống thường cao hơn 90%.
+
+# Triệu chứng ung thư gan
+Hầu hết mọi người đều không xuất hiện dấu hiệu và triệu chứng trong giai đoạn đầu của ung thư gan nguyên phát. Các dấu hiệu rõ ràng thường đến ở giai đoạn muộn như:
+• Giảm cân không rõ nguyên nhân;
+• Ăn không ngon miệng;
+• Cảm giác nặng, đau tức hoặc tự sờ thấy khối vùng hạ sườn phải;
+• Buồn nôn và nôn;
+• Mệt mỏi, suy nhược cơ thể;
+• Chướng bụng;
+• Vàng da, vàng mắt, nước tiểu sẫm màu, phân nhạt màu;
+• Sốt.
+
+
+# Nguyên nhân gây bệnh ung thư gan
+Ung thư gan xảy ra khi các tế bào gan có sự thay đổi (đột biến) trong DNA. DNA của tế bào đảm nhận vai trò hướng dẫn cho mọi quá trình hóa học trong tế bào cơ thể. Đột biến DNA gây ra những thay đổi trong quá trình hướng dẫn này. Kết quả là các tế bào bắt đầu phát triển ngoài tầm kiểm soát, cuối cùng hình thành nên khối u – một khối tế bào ung thư. (3)
+Đôi khi, khối u ác tính ở gan phát triển từ một bệnh lý, chẳng hạn như viêm gan mạn tính. Trong một số trường hợp, bệnh xảy ra ở những người không có bệnh lý, khiến các bác sĩ cũng không thể xác định nguyên nhân gây bệnh.
+
+# Ai có nguy cơ mắc bệnh ung thư gan?
+Các yếu tố làm tăng nguy cơ mắc bệnh phát bao gồm:
+• Nhiễm HBV hoặc HCV mạn tính: Nhiễm virus viêm gan B (HBV) hoặc virus viêm gan C (HCV) mạn tính;
+• Xơ gan: Tình trạng xơ gan tiến triển và không thể phục hồi khiến mô sẹo hình thành trong gan;
+• Một số bệnh gan di truyền: Các bệnh về gan có thể làm tăng nguy cơ ung thư gan bao gồm bệnh ứ sắt (Hemochromatosis) và bệnh Wilson (bệnh rối loạn chuyển hóa đồng).
+• Bệnh đái tháo đường: Những người mắc chứng rối loạn đường huyết này có nguy cơ mắc ung thư gan cao hơn so với người không mắc bệnh.
+• Bệnh gan nhiễm mỡ không do rượu: Sự tích tụ chất béo trong gan là nguyên nhân làm tăng nguy cơ ung thư gan.
+• Tiếp xúc với aflatoxin: Aflatoxin là chất độc do nấm mốc sinh ra trên cây trồng được bảo quản kém. Cây trồng, chẳng hạn như ngũ cốc và các loại hạt, có thể bị nhiễm độc tố aflatoxin. Kết quả là, các loại thực phẩm làm từ chúng trở thành mầm bệnh nguy hiểm cho gan.
+• Uống rượu quá mức: Tiêu thụ nhiều hơn lượng rượu được cho phép trong nhiều năm có thể dẫn đến tổn thương gan không thể phục hồi, làm tăng nguy cơ ung thư gan.
+
+# Các giai đoạn ung thư gan
+Giai đoạn ung thư cho biết mức độ tiến triển của khối u trong cơ thể để có cách điều trị tốt nhất. Ung thư gan được chia làm 4 giai đoạn: I, II, III, IV. (4)
+
+Ung thư gan giai đoạn I
+Có một khối u duy nhất trong gan, chưa xâm lấn đến bất kỳ mạch máu nào trong gan.
+
+Ung thư gan giai đoạn II
+Một khối u duy nhất trong gan đã xâm lấn các mạch máu, hoặc nhiều khối u nằm trong gan nhưng có kích thước dưới 5cm.
+
+Ung thư gan giai đoạn III
+• Giai đoạn IIIA: Có nhiều khối u trong gan và ít nhất một khối u lớn hơn 5cm; chưa có di căn đến hạch hoặc cơ quan khác ngoài gan.
+• Giai đoạn IIIB: Có một hoặc nhiều khối u gan, xâm lấn vào một trong những mạch máu chính trong gan (tĩnh mạch cửa hoặc tĩnh mạch gan) hoặc xâm lấn vào phúc mạc, chưa có di căn đến hạch hoặc cơ quan khác ngoài gan.
+
+
+Ung thư gan giai đoạn IV
+• Giai đoạn IVA: Các khối u đã di căn vào các hạch bạch huyết gần gan, nhưng chưa đến những cơ quan ở xa.
+• Giai đoạn IVB: Khối u đã di căn đến các cơ quan ở xa như phổi, xương hoặc não.
+
+# Ung thư gan có nguy hiểm không?
+Bệnh ung thư gan nguy hiểm ở chỗ nó có thể dẫn đến một số biến chứng. Dễ nhận thấy nhất là tình trạng khối u gây tắc ống mật, tổn thương tế bào gan, làm rối loạn chức năng gan dẫn đến tích tụ chất độc trong cơ thể và các biến chứng khác.
+
+Thiếu máu
+Thiếu máu (số lượng hồng cầu thấp) là một biến chứng rất phổ biến khi gan bị ung thư. Nguyên nhân dẫn tới biến chứng này là do thiếu các yếu tố đông máu dẫn đến chảy máu. Tình trạng thiếu máu kéo dài có thể khiến người bệnh cảm thấy mệt mỏi, khó thở, nhịp tim nhanh, da xanh xao và choáng váng.
+
+Tắc nghẽn ống dẫn mật
+Mật được tạo ra trong gan. Các ống dẫn là “con đường” vận chuyển mật về túi mật và đến ruột non. Các khối u gan hoặc khối u ống mật có thể phát triển trong ống dẫn hoặc gần đó, dẫn đến tắc nghẽn ống mật. Khi ống dẫn bị tắc nghẽn sẽ gây nên những cơn đau ở vùng bụng trên bên phải, buồn nôn, nôn, vàng da và ngứa.
+
+Chảy máu
+Gan chịu trách nhiệm tạo ra các protein (yếu tố đông máu) giúp máu đông. Khi một phần lớn lá gan đã bị tế bào ung thư làm tổn hại, các protein đông máu không còn được sản xuất với số lượng đủ. Hệ quả là tình trạng xuất huyết có thể xảy ra (ngay cả với số lượng tiểu cầu bình thường) dẫn tới thiếu máu. Dấu hiệu đầu tiên của biến chứng này thường là chảy máu khi đánh răng hoặc chảy máu cam thường xuyên. Ở mức độ nghiêm trọng hơn, người bệnh có nguy cơ xuất huyết nội tạng.
+
+Giãn tĩnh mạch thực quản
+Một khối u trong gan là nguyên nhân khiến máu khó lưu thông qua các tĩnh mạch nhỏ ở thực quản về tĩnh mạch lớn, dần dần gây ra giãn tĩnh mạch. Khi những tĩnh mạch nhỏ bị vỡ dẫn đến chảy máu trong thực quản, gọi là xuất huyết do giãn tĩnh mạch thực quản, đe dọa tính mạng người bệnh nếu không được điều trị nhanh chóng. Tương tự, biến chứng này cũng có khả năng xảy ra ở dạ dày và ruột.
+
+Hội chứng gan thận
+Đây là tình trạng bệnh gan biến chứng sang thận do những thay đổi trong mạch máu khiến lượng máu đến thận giảm sút. Hội chứng gan thận rất phổ biến với bệnh nhân bị ung thư gan cũng như các bệnh lý gan khác. Chuyên gia ước tính, 40% những người bị xơ gan sẽ phát triển hội chứng này trong vòng 5 năm. Thật không may, những ai bị hội chứng gan thận thường không thể phục hồi trừ khi thực hiện ghép gan.
+
+Bệnh não gan
+Độc tố mà gan không thể loại bỏ sẽ di chuyển đến não gây mất trí nhớ, mất phương hướng, thay đổi tính cách và lú lẫn. Có nhiều cách để điều trị bệnh não gan, và tiên lượng phụ thuộc vào mức độ nặng nhẹ của khối u gan.
+
+# Phương pháp chẩn đoán
+Việc chẩn đoán ung thư gan bắt đầu bằng quá trình thăm khám tổng quát và hỏi về tiền sử bệnh. Hãy nói với bác sĩ nếu bạn có tiền sử uống rượu bia lâu ngày, bị nhiễm viêm gan B hoặc C mạn tính.
+Các xét nghiệm và quy trình chẩn đoán bao gồm:
+• Các xét nghiệm chức năng gan như đo nồng độ protein, albumin, men gan và bilirubin trong máu: giúp bác sĩ xác định tình trạng sức khỏe của gan.
+• Xét nghiệm các chỉ điểm khối u gan trong máu: AFP (alpha-fetoprotein), AFP-L3, PIVKA-II (prothrombin induced by the absence of vitamin K or antagonist-II) trong máu: Nếu kết quả tăng cao, khả năng ung thư gan khá cao.
+• Siêu âm ổ bụng, chụp CT ổ bụng hoặc MRI gan mật: giúp tạo ra hình ảnh chi tiết của gan và các cơ quan khác trong ổ bụng. Nhờ vậy, bác sĩ có thể xác định vị trí, kích thước của khối u đang phát triển, từ đó đánh giá xem liệu nó có di căn sang các cơ quan khác hay không.
+
+Phần lớn các trường hợp ung thư biểu mô tế bào gan (HCC) có thể được chẩn đoán xác định nếu người bệnh có hình ảnh khối u gan điển hình trên hình ảnh CT hoặc MRI, có tăng chỉ điểm ung thư gan trong máu (AFP), có hoặc không nhiễm viêm gan B/C mà không cần tiến hành sinh thiết u gan.
+Trong một số trường hợp cần thiết, để chẩn đoán, bác sĩ sẽ chỉ định sinh thiết gan. Dưới hướng dẫn của siêu âm hoặc CT, bác sĩ sẽ đưa kim qua thành bụng vào khối u ga và lấy mẫu mô gan nhỏ. Sau đó, mẫu mô được kiểm tra dưới kính hiển vi để tìm các tế bào ung thư. Sinh thiết gan cũng có thể được thực hiện bằng cách mổ nội soi ổ bụng. Một ống nhỏ, linh hoạt có gắn camera sẽ được đưa vào ổ bụng qua một vết rạch nhỏ. Camera cho phép bác sĩ quan sát rõ lá gan và tiến hành lấy mẫu mô một cách chính xác.
+Sau khi được chẩn đoán xác định là ung thư gan, bác sĩ sẽ xác định giai đoạn bệnh, từ đó đưa ra phác đồ điều trị phù hợp cũng như tiên lượng bệnh.
+
+# Điều trị khối u ác tính ở gan
+Việc điều trị ung thư gan bằng phương pháp nào sẽ do bác sĩ cân nhắc dựa trên các yếu tố: (5)
+• Số lượng, kích thước và vị trí của các khối u trong gan;
+• Chức năng gan;
+• Có bị xơ gan hay không;
+• Khối u có di căn đến hạch hoặc các cơ quan khác không.
+
+# Các phương pháp phổ biến dùng để điều trị ung thư gan bao gồm:
+
+Phẫu thuật
+Phẫu thuật cắt gan được thực hiện để loại bỏ phần gan có khối u. Phương pháp này thường được thực hiện khi tế bào ung thư chỉ giới hạn trong gan. Theo thời gian, phần mô gan khỏe mạnh còn lại sẽ phì đại lên và thay thế phần bị cắt bỏ.
+
+Ghép gan
+Một phần hoặc toàn bộ lá gan mang khối u gan sẽ được thay thế bằng phần gan khỏe mạnh từ người hiến tặng. Việc cấy ghép chỉ được tiến hành nếu ung thư chưa di căn sang các cơ quan khác. Sau phẫu thuật, người bệnh cần uống thuốc để phòng chống đào thải.
+
+Tiêm ethanol vào khối u gan
+Đối với phương pháp này, sau khi gây tê cho người bệnh, bác sĩ sẽ tiêm cồn tuyệt đối (ethanol) vào khối u gan có kích thước nhỏ hơn 3cm dưới hướng dẫn của siêu âm để tiêu diệt các tế bào ung thư.
+
+Đốt sóng cao tần u gan
+Bác sĩ sẽ đưa một kim dẫn sóng cao tần vào khối u gan qua thành bụng dưới hướng dẫn của siêu âm hoặc trong mổ để đốt các khối u gan có kích thước nhỏ hơn 3cm.
+
+Nút mạch hóa chất
+Đây là phương pháp điều trị phổ biến cho các bệnh nhân ung thư gan. Khối u gan được nuôi bằng động mạch gan. Dưới máy chụp số hóa xóa nền (DSA), bác sĩ đưa một ống thông qua động mạch đùi đến động mạch nuôi khối u gan, bơm hóa chất gắn hạt cầu vào khối u và nút tắc mạch máu này. Các tế bào u bị tiêu diệt do bị cắt nguồn máu tới nuôi và tác động của thuốc hóa chất.
+
+Nút mạch phóng xạ (còn gọi là xạ trị trong chọn lọc)
+Đây là phương pháp bơm trực tiếp các hạt vi cầu phóng xạ Y-90 (Yttrium 90) vào nhánh động mạch nuôi khối u gan. Các hạt vi cầu phóng xạ này gây tắc các vi mạch trong khối u và phát tia bức xạ tiêu diệt tế bào ung thư.
+
+Xạ trị ngoài
+Xạ trị là phương pháp sử dụng chùm tia bức xạ năng lượng cao chiếu vào khối u để tiêu diệt tế bào ung thư.
+Hoá trị/Thuốc điều trị đích/Thuốc miễn dịch
+Ở những người bệnh có khối u lớn, xâm lấn mạch máu hoặc di căn xa, các khối u tái phát sau phẫu thuật hoặc thất bại với các phương pháp điều trị khác, bác sĩ sẽ chỉ định điều trị toàn thân bằng thuốc hóa chất truyền tĩnh mạch, thuốc điều trị đích đường uống hoặc đường truyền, thuốc miễn dịch truyền tĩnh mạch. Phương pháp này giúp làm giảm sự phát triển của khối u và di căn.
+
+Chăm sóc giảm nhẹ
+Là các biện pháp can thiệp y tế giúp giảm các biến chứng của bệnh ung thư: giảm đau, truyền đạm nâng cao thể trạng…
+
+# Biện pháp phòng bệnh
+Tuy không thể ngăn ngừa ung thư gan tuyệt đối, nhưng việc tuân thủ các biện pháp sau sẽ giúp giảm nguy cơ mắc bệnh đáng kể:
+
+Tiêm vắc xin viêm gan B
+Cả trẻ em và người lớn đều nên tiêm vắc xin viêm gan B để phòng bệnh. Trẻ sơ sinh được khuyến cáo nên tiêm trong 24 giờ đầu sau sinh. Nếu trẻ được sinh ra từ mẹ nhiễm viêm gan B thì phải tiêm thêm 1 mũi huyết thanh phòng viêm gan B. Sau đó, trẻ cần được tiêm nhắc thêm 3 mũi nữa (trong vòng 1 năm kể từ mũi đầu tiên) để đạt hiệu quả phòng ngừa tối ưu. Người lớn, đặc biệt là đối tượng có nguy cơ nhiễm cao (chẳng hạn như những người lạm dụng thuốc tiêm tĩnh mạch) cũng cần được chủng ngừa (tiêm 3 mũi trong vòng 6 tháng).
+
+Thực hiện các biện pháp phòng tránh bệnh viêm gan C
+Không có thuốc chủng ngừa viêm gan C, nhưng bạn có thể giảm nguy cơ nhiễm bệnh bằng cách thực hiện những điều sau:
+• Có đời sống tình dục an toàn: Hãy bảo vệ bản thân và bạn tình bằng cách luôn sử dụng bao cao su mỗi lần quan hệ, không quan hệ cùng lúc với nhiều người, không quan hệ (dù có dùng bao cao su) với người đang hoặc nghi ngờ viêm gan hay bất kỳ bệnh lây truyền qua đường tình dục nào khác.
+• Không sử dụng ma túy, nhất là các loại ma túy thông qua đường tiêm như heroin hoặc cocaine.
+• Thận trọng khi xăm hoặc xỏ khuyên: Hãy đến nơi uy tín nếu bạn có ý định xỏ khuyên hoặc xăm hình. Điều này nhằm đảm bảo kim tiêm được sử dụng là vô trùng tuyệt đối.
+
+
+# Phòng ngừa xơ gan
+Bạn có thể giảm nguy cơ mắc bệnh xơ gan bằng cách:
+• Hạn chế uống rượu: Phụ nữ không nên uống quá 1 ly rượu mỗi ngày và nam giới không uống nhiều hơn 2 ly/ngày.
+• Duy trì cân nặng hợp lý: Tập thể dục 30 phút/ngày, ít nhất 5 ngày/tuần; tuân thủ chế độ ăn uống cân bằng (giảm tinh bột xấu, thức ăn chiên rán, đồ ngọt; tăng cường protein nạc, ngũ cốc nguyên hạt và rau củ quả) sẽ giúp bạn giữ được chỉ số cơ thể (BMI) trong giới hạn 18,5 – 22,9.
+
+
+Khám sàng lọc, phát hiện sớm ung thư
+Việc khám sàng lọc, khám sức khỏe định kỳ rất quan trọng nhằm phát hiện khối u ác tính ở giai đoạn sớm, có thể điều trị khỏi và giảm chi phí cho người bệnh, đặc biệt ở những người có nguy cơ cao: viêm gan B/C mạn tính, xơ gan…
+
+Dinh dưỡng cho người bệnh ung thư gan
+Chế độ ăn cho người ung thư gan đóng vai trò quan trọng trong quá trình điều trị. Một số lưu ý như sau:
+• Ăn thực phẩm tươi, tránh xa thực phẩm chế biến sẵn: Gan chịu trách nhiệm giải độc, thực phẩm chế biến sẵn lại chứa nhiều phụ gia và hóa chất. Thế nên, người bệnh nên tránh các loại thực phẩm này. Chưa hết, thực phẩm đã qua chế biến kỹ, chẳng hạn như thịt xông khói, xúc xích, giăm bông… cũng cần được loại khỏi thực đơn của bệnh nhân.
+• Tăng cường dùng gừng: Những người đang điều trị ung thư gan thường có cảm giác buồn nôn. Lúc này, gừng là gia vị giúp hóa giải cơn buồn nôn hiệu quả. Bạn có thể uống trà gừng, hỗn hợp gừng – mật ong hoặc thêm gừng làm phụ gia khi chế biến món ăn. Ngoài gừng, một số thực phẩm như bánh mì, bánh quy, trái cây, các loại hạt… cũng làm giảm cơn buồn nôn nhanh chóng.
+• Chia nhỏ bữa ăn: Người bệnh nên ăn 6 – 8 bữa nhỏ thay vì 3 bữa lớn/ngày. Việc chia nhỏ bữa ăn sẽ giúp lượng thức ăn nạp vào cơ thể mỗi bữa ít hơn, giúp cơ thể dễ hấp thụ hơn.
+• Khẩu phần ăn dinh dưỡng đầy đủ và đa dạng.
+• Lưu ý cách chế biến thực phẩm: Sẽ tốt cho sức khỏe hơn nhiều nếu bạn luộc hoặc hấp thức ăn thay vì nướng, chiên rán ở nhiệt độ cao.
+• Hạn chế rượu bia: Lá gan của bạn đã chịu không ít thương tổn. Chắc chắn, bạn không muốn làm nó tổn thương thêm nữa. Muốn vậy, hãy tránh xa rượu bia – tác nhân hàng đầu gây tổn thương lá gan của bạn.
+
+# Ung thư gan có thể gặp ở mọi độ tuổi, mọi giới tính. Do đó, ngoài việc duy trì lối sống lành mạnh, tiêm ngừa vắc xin đầy đủ, bạn cần chủ động khám sức khỏe tầm soát bệnh định kỳ để bảo vệ lá gan của mình ngay từ hôm nay.
+
+
+# THÔNG TIN KHOA KHOA UNG BƯỚU
+
+# THÔNG TIN GIỚI THIỆU
+- Theo nghiên cứu EIU đăng trên Sáng kiến Ung thư Thế giới, Việt Nam là quốc gia có tỷ lệ tử vong do ung thư hàng đầu châu Á, mặc dù tỷ lệ người mắc ung thư trên dân số không cao so với thế giới. Thực trạng này cho thấy, đa số người Việt chưa có thói quen tầm soát ung thư – điều kiện tiên quyết để giảm thiểu tỷ lệ tử vong do căn bệnh đáng sợ này. Bên cạnh đó, việc điều trị khi bệnh đã ở giai đoạn muộn, phác đồ điều trị chưa phù hợp với từng thể trạng bệnh nhân cũng như sự thiếu hụt các phương tiện y tế hiện đại cũng góp phần gia tăng số ca tử vong do ung thư ở nước ta.
+- Khoa Ung bướu BVĐK MedicalCare được đầu tư xây dựng theo tiêu chuẩn quốc tế, cung cấp các dịch vụ chăm sóc sức khỏe hàng đầu, áp dụng mô hình điều trị đa mô thức và cá thể hóa trong điều trị ung thư.
+- Để đáp ứng nhu cầu thực tế về điều trị toàn diện kết hợp dịch vụ chăm sóc người bệnh chuyên nghiệp, khoa Ung bướu BVĐK MedicalCare định hướng trở thành một trong những trung tâm tư vấn và điều trị ung thư hàng đầu trên địa bàn thành phố, giải quyết gánh nặng về bệnh tật ung thư tại TP. HCM và các khu vực lân cận, đồng thời giảm áp lực cho các bệnh viện tuyến công lập.
+- Khoa Ung bướu BVĐK MedicalCare được đầu tư trang thiết bị hiện đại, có đội ngũ y bác sĩ chuyên môn cao luôn hỗ trợ chăm sóc chuyên biệt cho từng bệnh nhân, hỗ trợ tiếp cận với các chuyên gia y tế hàng đầu ở nước ngoài, cập nhật nhanh các phác đồ điều trị tương đương với tiêu chuẩn thế giới, góp phần nâng cao chất lượng dịch vụ khám chữa bệnh cho người bệnh ung thư trong khu vực và người bệnh trở về từ các trung tâm y tế nước ngoài.
+- Khoa Ung bướu BVĐK MedicalCare đảm nhận các chức năng, nhiệm vụ sau:
+- Tư vấn, hướng dẫn tầm soát nhằm phát hiện và điều trị sớm bệnh lý ác tính trong cộng đồng.
+- Từng bước triển khai các dịch vụ khám chữa bệnh đa dạng, hợp lý để đáp ứng nhu cầu người bệnh.
+- Khám và điều trị một số bệnh lý ung bướu (lành tính và ác tính).
+- Tổ chức tiếp nhận, cấp cứu, khám, phát hiện, sàng lọc và điều trị, quản lý bệnh nhân ung thư từ các bệnh viện, phòng khám, trung tâm y tế trong và ngoài nước chuyển đến.
+- Phối hợp với các khoa khác (Ngoại, Sản, Chẩn đoán hình ảnh…), các chuyên khoa khác (Phẫu trị, Xạ trị …) để lập kế hoạch điều trị toàn diện, đa mô thức cho bệnh nhân ung thư; cập nhật và ứng dụng những tiến bộ về sinh học phân tử để xây dựng chiến lược cá thể hóa trong điều trị; cải thiện chất lượng sống cho người bệnh.
+- Điều trị đau và chăm sóc giảm nhẹ triệu chứng cho các bệnh nhân ung thư giai đoạn cuối vượt quá khả năng điều trị bằng phương pháp phẫu thuật, hóa chất, xạ trị.
+- Thực hiện tiêm truyền hóa chất, sử dụng thuốc trúng đích, thuốc miễn dịch để điều trị các bệnh lý ung thư.
+- Tham gia nghiên cứu khoa học, triển khai ứng dụng những tiến bộ khoa học để phục vụ khám chữa bệnh, phòng bệnh, phục hồi chức năng trong phòng, chống ung thư.
+- Trong tương lai, khoa Ung bướu BVĐK MedicalCare hướng tới mục tiêu:
+- Xây dựng và hoàn thiện các quy trình điều trị.
+- Hoàn thiện hệ thống hỗ trợ thông tin cho người bệnh.
+- Từng bước triển khai các dịch vụ khám chữa bệnh đa dạng, hợp lý để đáp ứng nhu cầu của người bệnh.
+- Học hỏi, cập nhật và ứng dụng các thông tin, kiến thức mới.
+- Tiếp tục đào tạo cả trong và ngoài nước để đảm bảo chất lượng khám chữa bệnh ngày càng tăng, cam kết luôn tạo được lòng tin và duy trì sự hài lòng nơi người bệnh.
+# PHƯƠNG PHÁP ĐIỀU TRỊ
+- Với vai trò phòng chống và điều trị các căn bệnh ung thư, khoa Ung bướu BVĐK MedicalCare luôn cập nhật các phác đồ điều trị mới theo hướng dẫn điều trị quốc tế, đồng thời sử dụng những trang thiết bị hiện đại bậc nhất, các loại thuốc mới lưu hành để áp dụng chữa trị cho bệnh nhân. Nhờ đó, rút ngắn thời gian thực hiện các quy trình tầm soát, chẩn đoán, điều trị, đem lại hiệu quả cao nhất và giúp người bệnh tận hưởng cuộc sống vui – ý nghĩa.
+- HỆ THỐNG CƠ SỞ VẬT CHẤT, TRANG THIẾT BỊ HIỆN ĐẠI
+- Bệnh viện Đa khoa MedicalCare đầu tư hệ thống cơ sở vật chất, trang thiết bị cao cấp, hiện đại giúp tầm soát và điều trị hiệu quả bệnh ung thư, ung bướu lành tính.
+- Hệ thống máy xét nghiệm sinh hóa – miễn dịch, huyết học, vi sinh, sinh học phân tử tiên tiến như: Roche Cobas system, Cobas 6500, Hệ thống máy xét nghiệm nước tiểu Roche Cobas u701, u601, u411; máy khí máu Roche Cobas b211…..
+- Hệ thống máy Siêu âm 3D đàn hồi Real time hiện đại nhất thế giới – SuperSonic Imagine Mach 30 – cung cấp nhiều thông tin giá trị như: độ cứng và vi mạch tân sinh trong sang thương, biến dạng cấu trúc…
+- Máy chụp cắt lớp vi tính (CT) SOMATOM Drive 2 với khả năng chụp 768 lát cắt trong một vòng quay, quét cắt lớp vi tính toàn thân chỉ từ 3 đến 4 giây, chụp nhanh và giảm liều tia tối đa, chỉ tương đương như một lần chụp X-quang ngực thông thường…
+- Máy chụp cộng hưởng từ (MRI) ứng dụng công nghệ “Ma trận sinh học toàn phần” (Đức), mang lại giá trị chẩn đoán cao vượt trội, giảm tiếng ồn lên đến 97% và rút ngắn 50% thời gian chụp so với quy trình chuẩn.
+- Hệ thống chụp nhũ ảnh kỹ thuật số cắt lớp (Digital Breast Tomosynthesis) hay còn gọi là nhũ ảnh 3D – Mammomat Inspiration (Siemens – Đức). Kỹ thuật này giúp tăng tỷ lệ phát hiện ung thư lên đến 40% và đồng thời cũng làm giảm tỷ lệ dương tính giả lên đến 40% với liều xạ sử dụng rất thấp.
+- Hệ thống X-quang kỹ thuật số treo trần với kỹ thuật chụp quét toàn thân chỉ trong 4 giây, hiệu quả gấp 3 lần so với máy chụp X-quang thông thường.
+- Hệ thống nội soi Fuji 7000 có khả năng phóng đại lên đến 140 lần giúp quan sát tất cả các tổn thương có kích thước rất nhỏ, khó nhìn bằng mắt thường.
+- Hệ thống nội soi Xion (Đức) giúp phát hiện sớm tổn thương trên dây thanh, chẩn đoán chính xác nguyên nhân khàn tiếng, đo rối loạn Giọng nói, Giọng hát và rối loạn Nuốt vùng hạ họng – miệng thực quản. Máy còn có chức năng PIET spectro giúp phát hiện cấu trúc khối u, sự tăng sinh mạch máu của khối u ác tính, định hướng sinh thiết khối u, giúp tầm soát Ung thư Vòm họng, Hốc mũi, Hạ họng – Thanh quản.
+- Hệ thống phẫu thuật nội soi 3D/4K ICG Rubina Karl Storz, dụng cụ phẫu thuật nội soi robot cầm tay cơ học… phẫu thuật nhẹ nhàng, ít xâm lấn.
+- Phòng pha hóa chất áp suất âm với máy pha chế cách ly vô trùng chuyên dụng theo tiêu chuẩn quốc tế (màng lọc ULPA có hiệu suất lọc 99.999% tạo vùng làm việc đạt chuẩn khí sạch ISO Class 3, phù hợp với tiêu chuẩn Dược điển Mỹ USP 797) bảo vệ an toàn cho dược sĩ lâm sàng khi pha thuốc, giảm thiểu tối đa nguy cơ nhiễm khuẩn của thuốc, kết hợp với quy trình chuẩn trong pha chế sẽ giúp cung cấp liều thuốc đạt độ chính xác cao, đảm bảo chất lượng và hiệu quả điều trị.
+- Ghế truyền hóa chất tiêu chuẩn Nhật Bản với thiết kế 3 động cơ thông minh giúp dễ dàng điều chỉnh độ cao, nâng gập linh hoạt, có bàn ăn gắn kèm đem lại sự thoải mái cho bệnh nhân. Đặc biệt, ghế có nhiều màu sắc nổi bật giúp khách hàng có nhiều sự lựa chọn màu sắc yêu thích của mình, mang đến cảm giác thoải mái, lạc quan hơn trong quá trình điều trị.
+- Mũ hạn chế rụng tóc giúp làm lạnh các lỗ chân lông trên tóc, hạn chế lượng thuốc di chuyển đến vị trí này, từ đó hạn chế rụng tóc – tình trạng thường thấy ở đa số bệnh nhân đang hóa trị.
+- Tủ cấp cứu di động tại khoa với đầy đủ dụng cụ y tế, bao gồm cả máy sốc điện, để phục vụ cho công tác cấp cứu người bệnh.
+- ĐIỀU TRỊ ĐA MÔ THỨC – CÁ THỂ HÓA – TOÀN DIỆN THEO PHÁC ĐỒ QUỐC TẾ
+- Bằng cách phối hợp nhiều phương pháp như phẫu thuật, hóa trị, liệu pháp nội tiết, liệu pháp trúng đích và miễn dịch, ghép tế bào gốc vào tủy xương…
+- Sử dụng các loại thuốc mới lưu hành, thuốc trúng đích, thuốc miễn dịch…; cập nhật và ứng dụng những tiến bộ về sinh học phân tử nhằm cá thể hóa, tăng hiệu quả điều trị và cải thiện chất lượng sống cho người bệnh.
+- Phối hợp chặt chẽ với các chuyên khoa như: Nội tổng quát, Nội soi – Phẫu thuật Nội soi tiêu hóa, Tiết niệu – Thận học, Sản Phụ khoa; Tai – Mũi – Họng; Hô hấp; Chẩn đoán hình ảnh, Xét nghiệm, Gây mê hồi sức – Điều trị đau và Chăm sóc giảm nhẹ… lập kế hoạch điều trị toàn diện.
+- Tùy theo tình trạng bệnh, nhu cầu về tâm lý – xã hội và khả năng theo đuổi việc điều trị của bệnh nhân để đưa ra phác đồ điều trị phù hợp, hiệu quả.
+- Phối hợp cùng chuyên khoa Tâm lý lâm sàng và Dinh dưỡng tư vấn tâm lý và chăm sóc dinh dưỡng cho bệnh nhân trước, trong và sau điều trị.
+# CHUYÊN GIA
+- 👤 BS TRẦN VƯƠNG THẢO NGHI
+- 🔗 Chi tiết bác sĩ: https://tamanhhospital.vn/chuyen-gia/tran-vuong-thao-nghi/
+# GIỚI THIỆU
+- Gần 20 năm gắn bó vớichuyên ngành Ung bướu, bác sĩ Trần Vương Thảo Nghiđã không biết bao nhiêu lần tạo nên những câu chuyện “cổ tích” ngoài đời thực, giúp người bệnh luôn tin rằng Ung thư không phải là dấu chấm hết.
+- Có kinh nghiệm “chinh chiến” trong các tình huống “ngàn cân treo sợi tóc”, đặc biệt với những ca bệnh khó, Bác sĩ Trần Vương Thảo Nghi đã góp phần cải thiện tình trạng bệnh, nâng cao chất lượng cuộc sống cho rất nhiều bệnh nhân. Chính kinh nghiệm và tuổi nghề đã trao cho Bác sĩ Thảo Nghi đôi mắt tinh anh để nhìn rõ tình trạng của người bệnh.
+- Chọn ngành y là một cái nghiệp cho cả cuộc đời, trước khi công tác tại Bệnh viện Đa khoa MedicalCare, Bác sĩ Trần Vương Thảo Nghi từng làm việc nhiều năm tại các bệnh viện chuyên khoa hàng đầu về Ung bướu trong và ngoài nước. “Khi tôi làm bác sĩ nội trú tại Pháp và được tiếp cận với các kỹ thuật, phương pháp điều trị ung thư ở nước bạn, tôi nhận thấy đó là một thách thức, khó khăn nhưng lại rất thú vị, và đó là điều thôi thúc tôi gắn bó với chuyên ngành ung bướu hơn nữa.”
+- Không chỉ đồng hành với người bệnh bằng kinh nghiệm và chuyên môn bài bản, Bác sĩ Thảo Nghi còn thấu hiểu, luôn luôn lắng nghe, chia sẻ với người bệnh như người thân trong gia đình. Chính vì vậy, bác sĩđược nhiều người bệnh yêu mến, quý trọng.
+- Bên cạnh công việc khám chữa bệnh, Bác sĩ Trần Vương Thảo Nghicòn thực hiện nhiều công trình nghiên cứu, báo cáo khoa học về hóa trị – điều trị Ung thư mang tính ứng dụng cao và không ngừng cập nhật những công nghệ điều trị ung thư tiên tiến nhất trên thế giới không chỉ điều trị hiệu quả mà còn góp phần chăm sóc giảm nhẹ cho người bệnh.
+# LĨNH VỰC CHUYÊN MÔN
+- Khám và điều trị một số bệnh lý ung bướu (lành tính và ác tính).
+- Lập kế hoạch điều trị toàn diện, đa mô thức cho bệnh nhân ung thư
+- Điều trị đau và chăm sóc giảm nhẹ triệu chứng cho các bệnh nhân ung thư giai đoạn cuối vượt quá khả năng điều trị bằng phương pháp phẫu thuật, hóa chất, xạ trị.
+- Tham gia nghiên cứu khoa học, triển khai ứng dụng những tiến bộ khoa học để phục vụ khám chữa bệnh, phòng bệnh, phục hồi chức năng trong phòng, chống ung thư.
+# CÔNG TRÌNH NGHIÊN CỨU
+- Hóa trị trong ung thư đại trực tràng di căn: khả năng tạo khoảng nghỉ trong điều trị? Eurocancer, XXIV Hội nghị lần 24, tháng 06-07/2004, Paris, Cộng hòa Pháp.
+- Ung thư thực quản do xạ trị (Sau khi xạ trị ung thư vú: Báo cáo 5 ca lâm sàng. Eurocancer, XXIV Hội nghị lần 24, tháng 06-07/2004, Paris, Cộng hòa Pháp).
+- Ung thư thực quản do xạ trị (Sau khi xạ trị ung thư vú: Báo cáo 5 ca lâm sàng. Acta Oncologica, 01/ 2007, volume 46, no. 8: 1184 – 1186, Stockholm, Thụy Điển).
+- Hóa xạ trị ung thư thực quản: Vai trò của phác đồ Folcis 2 đợt tân hỗ trợ: Pilot Study Wiley online library, Disease of the esophagus, Volume 23, issue 4, page 324-328, May 2010” online the 26th october 2009, Wiley periodicals, inc. and the international society for diseases of the esophagus.
+# QUÁ TRÌNH ĐÀO TẠO
+- 2002: Tốt nghiệp Bác sĩ Đa khoa, tại Đại học Y khoa Phạm Ngọc Thạch, TP. HCM
+- 2003 – 2005: Bác sĩ Nội trú chuyên ngành Ung Bướu (Hóa – Xạ trị) tại Đại học Rennes I – Cộng hòa Pháp
+# KINH NGHIỆM CÔNG TÁC
+- 10/2002 – 10/2003: Bác sĩ điều trị khoa Ung bướu, Bệnh viện Chợ Rẫy, TP. HCM
+- 11/2005 –  09/2008: Bác sĩ điều trị chính tại khoa Ung bướu, Bệnh viện Chợ Rẫy, TP. HCM
+- 11/2008 – 11/2016: Bác sĩ điều trị chính tại Khoa Ung bướu, Bệnh viện FV, TP. HCM
+- 12/2016 – 06/2019: Bác sĩ điều trị chính tại Phòng khám Ung bướu Singapore, Vietnam (VIMS) TP. HCM
+- 07/2019 – 10/2020: Trưởng khoa Ung bướu, Bệnh viện Quốc tế City, TP. HCM
+- 2020 – nay: Trưởng khoa Ung bướu, Bệnh viện Đa khoa MedicalCare, Đà Nẵng
+- 👤 TS. BS VŨ HỮU KHIÊM
+- 🔗 Chi tiết bác sĩ: https://tamanhhospital.vn/chuyen-gia/vu-huu-khiem/
+# GIỚI THIỆU
+- Với nhiều năm kinh nghiệm công tác tại những bệnh viện lớn về ung bướu, cùng kiến thức và kỹ năng thực hành y khoa thường xuyên được cập nhật theo xu hướng điều trị trên Thế giới, TS. BS Vũ Hữu Khiêm đã điều trị thành công nhiều trường hợp bệnh và dành được sự tín nhiệm cao của người bệnh.
+- Không chỉ dành thời gian cho công tác khám chữa bệnh, TS. BS Vũ Hữu Khiêm còn dành nhiều thời gian và tâm huyết cho việc nghiên cứu khoa học. Chính vì vậy, bác sĩ đã sở hữu rất nhiều nghiên cứu khoa học giá trị và nhiều tham gia viết nhiều cuốn sách đã được xuất bản và các bài báo đăng trên tạp chí trong nước và quốc tế. Tham gia vào các hiệp hội Ung thư lớn trên Thế giới như: Hiệp hội Ung thư Hoa Kỳ (ASCO), Hiệp hội Ung thư Châu Âu (ESMO), Hiệp hội phòng chống Ung thư phổi Quốc tế (IASLC) chính là lý do để TS. BS Vũ Hữu Khiêm thường xuyên được tiếp cận các kỹ thuật trong điều trị ung thư mới nhất trên Thế giới. Không những vậy, bác sĩ còn thường xuyên tham gia các khóa tập huấn và đạo tại tại các Quốc gia có nền Y học hàng đầu Thế giới để liên tục trau dồi và cập nhật các kiến thức mới, áp dụng cho điều trị tại Việt Nam.
+- Hiện tại, TS. BS Vũ Hữu Khiêm làm việc tại Bệnh viện Đa khoa MedicalCare, Đà Nẵng trên cương vị trưởng khoa Ung bướu.
+# THÀNH VIÊN TỔ CHỨC
+- Thành viên của Hiệp hội Ung thư Hoa Kỳ (ASCO)
+- Hiệp hội Ung thư Châu Âu (ESMO)
+- Hiệp hội phòng chống Ung thư phổi Quốc tế (IASLC)
+- Hiệp hội phòng chống Ung thư Việt Nam.
+# LĨNH VỰC CHUYÊN MÔN
+- Ung bướu và Y học hạt nhân.
+# CÔNG TRÌNH NGHIÊN CỨU
+- Các đề tài nghiên cứu khoa học đã tham gia:
+- Đánh giá giá trị của PET / CT trong chẩn đoán và lập kế hoạch xạ trị ung thư phổi
+- Ứng dụng kỹ thuật xạ trị điều biến liều với PET / CT mô phỏng trong điều trị ung thư vòm mũi họng
+- Các công trình khoa học (bài báo khoa học, báo cáo hội nghị khoa học đã công bố:
+- Ứng dụng kỹ thuật xạ trị điều biến liều trong điều trị ung thư tại Bệnh viện Bạch Mai, Hội Nghị Ung bướu Thành phố Hồ Chí Minh, tạp chí Y học thực hành, chuyên đề ung thư, 12-2009.
+- Application of PET/CT simulation in radiation planning at the Nuclear medicine and Oncology Center, Bachmai hospital, Hanoi, Vietnam. International Conference on Clinical PET and Molecular Nuclear Medicine, Vienna, Austria 8–11 November 2011.
+- Ứng dụng kỹ thuật PET/CT mô phỏng trong xạ trị ung thư tại Bệnh viện Bạch Mai, Hội nghị Ung bướu TP Hồ Chí Minh, tạp chí Y học thực hành, chuyên đề ung thư, 12-2012.
+- Kết quả xạ trị 3D và điều biến liều trong điều trị ung thư vòm có sử dụng kỹ thuật PET/CT mô phỏng tại Trung tâm Y học hạt nhân và Ung bướu Bạch Mai. Hội nghị khoa học Tai–Mũi-Họng toàn quốc lần thứ XIX, Tạp chí Y học Thực hành, tháng 10-2016.
+- Đánh giá kết quả điều trị u màng não bằng dao Gamma quay. Hội nghị khoa học quốc tế Mekong Sante lần thứ III, Trường Đại học Y Hà Nội, tháng 05 – 2012.
+- Ứng dụng kỹ thuật cấy hạt phóng xạ trong điều trị Ung thư tuyến tiền liệt tại Bệnh viện Bạch Mai. Hội nghị Ung bướu TP Hồ Chí Minh, tạp chí Y học thực hành, chuyên đề ung thư, 12-2015.
+- Đánh giá vai trò của PET/CT mô phỏng về việc phát hiện di căn hạch vùng trong xạ trị ung thư phổi không tế bào nhỏ. Tạp chí Y học thực hành năm 2015, số 29, 115-119.
+- Kết quả điều trị ung thư phổi không tế bào nhỏ bằng phác đồ phối hợp hóa chất và xạ trị với PET/CT mô phỏng. Tạp chí Y học thực hành năm 2015, số 29, 163-169.
+- Predictive Factors for Local Control and Survival in Patients with Cancer of Unknown Primary (CUP) Irradiated for Cerebral Metastases (2018), Anticancer Research, April 2018, 38 (4) 2415-2418; 2).
+- Predicting Survival After Whole-brain Irradiation for Cerebral Metastases in Patients with Cancer of the Bladder, In Vivo, May 2018, 32 (3) 633-636 3).
+- Đánh giá kết quả điều trị 1200 bệnh nhân u não và bệnh lý sọ não bằng phương pháp xạ phẫu Gamma quay tại Trung tâm Y học Hạt nhân và Ung bướu Bệnh viện Bạch Mai, tạp chí Y HỌC THÀNH PHỐ HỒ CHÍ MINH 2010.
+- Tham gia biên soạn nhiều cuốn sách lĩnh vực Ung thư, Y học hạt nhân như: Một số tiến bộ trong xạ trị ung thư và ứng dụng trong lâm sàng; Điều trị u não và một số bệnh lý sọ não bằng dao gamma quay; Kháng thể đơn dòng và phân tử nhỏ trong điều trị ung thư; Ứng dụng PET/CT trong ung thư; Hướng dẫn chẩn đoán và điều trị một số bệnh ung bướu (Bộ Y tế – tháng 4/2020)
+# CA BỆNH THÀNH CÔNG
+# QUÁ TRÌNH ĐÀO TẠO
+- 1994 – 2000: Bác sĩ Đa khoa trường Đại học Y Hà Nội.
+- 2001 – 2004: Bác sĩ nội trú chuyên ngành ung thư Đại học Y Hà Nội.
+- Năm 2017: Tiến sĩ chuyên ngành ung thư Đại học Y Hà Nội.
+- 2008 Tập huấn xạ trị ung thư tại KIRAM (Korea Insitute of Radiological and Medical Sciences), Hàn quốc.
+- 2012 Tập huấn về PET/CT tại Hàn Quốc
+- 2014 Tập huấn về kỹ thuật cấy hạt phóng xạ điều trị ung thư tuyến tiền liệt tại Mỹ
+- 2015 Tập huấn về Xạ trị ung thư IMRT, IGRT, SBRT tại Nhật Bản.
+- 2016 Tập huấn về Xạ trị ung thư tại Hàn Quốc.
+- 2017 Tập huấn về thực hành an toàn trong xạ trị tại London, Anh.
+- 2017 Tập huấn về Hóa trị ung thư tại Lubeck, Đức.
+# KINH NGHIỆM CÔNG TÁC
+- 2001 – 2004 Bác sĩ nội trú, chuyên ngành ung thư tại Bệnh viện K
+- 2005 – 2007 Bác sĩ ung bướu, Bệnh viện E.
+- 2007 đến 2020 Bác sĩ ung bướu, Bệnh viện Bạch Mai. Trưởng đơn nguyên Lồng Ngực – Tổng hợp Trung tâm Y Học Hạt nhân và Ung Bướu – Bệnh viện Bạch Mai.
+- 👤 TS. BS TRẦN HẢI BÌNH
+- 🔗 Chi tiết bác sĩ: https://tamanhhospital.vn/chuyen-gia/tran-hai-binh/
+# GIỚI THIỆU
+- Với thành tích xuất sắc tại Liên Bang Nga, ngay sau khi tốt nghiệp và trở về nước, bác sĩ Hải Bình đã trở thành Giảng viên, giáo vụ Bộ môn Y học hạt nhân, Đại học Y Hà Nội và công tác tại những bệnh viện lớn trên cương vị  Bác sĩ điều trị Y học hạt nhân và Ung thư.
+- Để phát triển và củng cố kiến thức của bản thân, ngoài cống hiến cho việc thăm khám và điều trị, bác sĩ Bình còn dành thêm thời gian và tâm huyết để tiếp tục học tập, nâng cao chuyên môn bằng cách tham gia các chương trình đào tạo chứng chỉ chuyên sâu về lĩnh vực Ung thư, Y học hạt nhân, Chẩn đoán hình ảnh ở trong nước và các nước như: Đức, Nhật Bản, Hàn Quốc… liên tục trong nhiều năm.
+- Với nền tảng kinh nghiệm nhiều năm trong nghề, bác sĩ Bình đã cùng cộng sự tham gia hợp tác nghiên cứu và cho ra đời hàng loạt công trình nghiên cứu về các kỹ thuật tiên tiến, phương pháp hiện đại ứng dụng trong điều trị ung thư được đăng tải trên Tạp chí Y học tại Việt Nam và nước ngoài.
+- TS. BS Trần Hải Bình cũng xuất sắc giành nhiều giải thưởng cao trong Hội thao Sáng tạo tuổi trẻ ngành Y tế và các Hội nghị khoa học công nghệ tuổi trẻ… Hành trình miệt mài tu nghiệp của TS. BS Trần Hải Bình chính là minh chứng sáng cho sự nỗ lực của người bác sĩ trẻ trên con đường chinh phục những thử thách mới.
+# DANH HIỆU, GIẢI THƯỞNG
+- 2011: Giải nhất Hội thao Sáng tạo tuổi trẻ ngành Y tế khu vực Hà Nội lần thứ XXIV
+- 2017: Giải nhì Hội thao Sáng tạo tuổi trẻ ngành Y tế khu vực Hà Nội lần thứ XXVII
+- 2018: Giải nhất Hội nghị khoa học công nghệ tuổi trẻ các trường Đại học Cao đẳng Y dược Việt Nam lần thứ XIX
+# CÔNG TRÌNH NGHIÊN CỨU
+- Nghiên cứu kỹ thuật chụp hình PET/CT trong chẩn đoán u nguyên phát, di căn và tái phát sau điều trị của ung thư phổi
+- Nghiên cứu ứng dụng kỹ thuật xạ trị điều biến liều (Intensity Modulated Radiation Therapy: IMRT) kết hợp hình ảnh PET/CT trong điều trị ung thư vòm mũi họng
+- Nghiên cứu ứng dụng kỹ thuật xạ trị trong, chọn lọc bằng hạt vi cầu phóng xạ resin Y-90 và kỹ thuật định lượng PIVKA-II, AFP, AFP-L3 trong điều trị ung thư biểu mô tế bào gan
+- “FDG PET/CT trong chẩn đoán giai đoạn ung thư vòm mũi họng” đăng trên Tạp chí Y học Việt Nam, 7(1), tr. 43-47 năm 2016
+- “FDG PET/CT mô phỏng trong lập kế hoạch xạ trị ung thư vòm” đăng trên Tạp chí Y học Việt Nam, 7(1), tr. 88-93 năm 2016
+- “Kết quả điều trị 60 bệnh nhân ung thư gan nguyên phát bằng xạ trị trong chọn lọc (SIRT) với hạt vi cầu phóng xạ tại bệnh viện Bạch Mai” đăng trên Tạp chí Y học Việt Nam, tập 459, số đặc biệt tháng 10, tr. 370-376 năm 2017
+- “Ứng dụng kỹ thuật PET/CT mô phỏng lập kế hoạch xạ trị ung thư tại Bệnh viện Bạch Mai” đăng trên Tạp chí Y học Việt Nam, tập 459, số đặc biệt tháng 10, tr. 429-438 năm 2017
+- “Efforts in the Formation and Development of Nuclear Medicine in Vietnam” năm 2019
+# QUÁ TRÌNH ĐÀO TẠO
+- 2008: Tốt nghiệp Bác sĩ Đa khoa Đại học Y Volgogarad tại Nga
+- 2009: Định hướng chuyên khoa chuyên ngành Ung thư, Đại học Y Hà Nội
+- 2010: Định hướng chuyên khoa chuyên ngành Y học hạt nhân, Đại học Y Hà Nội
+- 2011: Định hướng chuyên khoa chuyên ngành Chẩn đoán hình ảnh, Đại học Y Hà Nội
+- 2018: Nghiên cứu sinh chuyên ngành Điện quang và Y học hạt nhân, Học viện Quân Y
+- Từng tu nghiệp ở Đức, Nhật Bản, Hàn Quốc…
+# KINH NGHIỆM CÔNG TÁC
+- 2009 – 2020: Giảng viên, giáo vụ Bộ môn Y học hạt nhân, Đại học Y Hà Nội; Bác sĩ điều trị Y học hạt nhân và Ung thư, trưởng đơn nguyên đơn vị Chẩn đoán, trưởng đơn nguyên đơn vị 2, Trung tâm Y học hạt nhân và Ung bướu, Bệnh viện Bạch Mai
+- 👤 BS. CKII NGÔ TRƯỜNG SƠN
+- 🔗 Chi tiết bác sĩ: https://tamanhhospital.vn/chuyen-gia/ngo-truong-son/
+# GIỚI THIỆU
+- BS. CKII Ngô Trường Sơn có gần 20 năm kinh nghiệm điều trị ung thư và được đào tạo bài bản chuyên môn ở trong nước cũng như quốc tế. Sau khi tốt nghiệp chuyên ngành đa khoa tại Đại học Y Hà Nội – Ngôi trường đào tạo y khoa danh tiếng hàng đầu cả nước, bác sĩ Sơn tiếp tục hoàn thành xuất sắc khóa đào tạo bác sĩ nội trú và bác sĩ chuyên khoa II tại đây. Không dừng lại ở đó, với mong muốn học tập và cập nhật những phác đồ hiện đại nhất giúp người bệnh ung thư kiểm soát và điều trị hiệu quả, bác sĩ Sơn đã tham gia nhiều chương trình đào tạo nâng cao tại các quốc gia có nền y học phát triển như: Mỹ, Đan Mạch, Tây Ban Nha, Singapore…
+- Trong suốt quá trình công tác và học tập, bác sĩ đã áp dụng nhiều kỹ thuật công nghệ cao về xạ trị và hóa chất vào điều trị các bệnh lý ung thư. Cùng với công tác khám chữa bệnh bác sĩ Sơn còn tham gia đào tạo, giảng dạy, chỉ đạo tuyến, viết sách chuyên ngành và nghiên cứu khoa học. Nhờ thành tích xuất sắc trong công tác giảng dạy và điều trị bác sĩ Sơn nhận được nhiều bằng khen của lãnh đạo các cấp. Bác sĩ Sơn cũng luôn được người bệnh yêu quý bởi sự gần gũi và giản dị.
+- Không chỉ tham gia tích cực trong công tác điều trị, bác sĩ Sơn còn tham gia báo cáo tại nhiều hội nghị chuyên ngành và được áp dụng điều trị tại các cơ sở khám chữa bệnh lớn trên cả nước. Hiện tại bác sĩ Sơn đang công tác tạiKhoa Ung bướu, BVĐK MedicalCare, Đà Nẵng.
+# THÀNH VIÊN TỔ CHỨC
+- Thành viên tổ chức: Hội Ung Thư Việt Nam
+- Hiệp Hội Phòng Chống Ung Thư Quốc Tế (UICC)
+- Hiệp hội ung thư Hoa Kỳ (ASCO)
+- Hiệp hội Nội khoa Ung thư Châu Âu (ESMO)…
+# CÔNG TRÌNH NGHIÊN CỨU
+- 1. Nghiên cứu khoa học:
+- Năm 2007:Nghiên cứu ứng dụng dao Gamma quay (RGK) trong điều trị u tuyến yên nội sọ – Hội nghị Nội tiết và Đái tháo đường Quốc gia.
+- Năm 2007:Nghiên cứu kết quả hóa trị ung thư dạ dày tại Bệnh viện Bạch Mai, Tạp chí y học lâm sàng.
+- Năm 2008:Nghiên cứu ứng dụng dao Gamma quay (RGK) trong điều trị dị tật xương sống – Hội nghị Thần kinh học.
+- Năm 2008:Nghiên cứu kết quả ngắn hạn của điều trị ung thư phổi bằng Linac-CT Sim tại Khoa Y học Hạt nhân và Ung bướu, Bệnh viện Bạch Mai- Hội nghị X quang ASEAN lần thứ 14.
+- Năm 2008:Nghiên cứu ứng dụng dao Gamma quay (RGK) trong điều trị dị dạng mạch máu não – Hội nghị X quang ASEAN lần thứ 14.
+- Năm 2013:Những tiến bộ gần đây trong chẩn đoán và điều trị ung thư – Hội nghị ung bướu toàn quốc.
+- Năm 2014-2015:Nghiên cứu ứng dụng dao gamma quay điều trị u thân não, u màng não, u dây thần kinh số VIII và ung thư di căn não.
+- Năm 2014-2015:Nghiên cứu ứng dụng kỹ thuật xạ trị điều biến liều (Intensity Modulated Radiation Therapy: IMRT) kết hợp hình ảnh PET/CT trong điều trị ung thư vòm mũi họng.
+- 2. Sách:
+- Ứng dụng PET / CT trong điều trị Ung thư.
+- Hướng dẫn chẩn đoán và điều trị một số bệnh ung thư.
+- Hướng dẫn chẩn đoán và điều trị một số bệnh ung bướu.
+- 3. Nghiên cứu – Hội nghị khoa học:
+- Năm 2004:Đặc điểm lâm sàng của bệnh Scholein Henoch tại Bệnh viện Nhi Trung ương.
+- Năm 2007:Kết quả điều trị Sarcoma mô mềm tại Bệnh viện Ung bướu Trung ương Việt Nam.
+- Năm 2007-2013:Đánh giá kết quả điều trị 2200 bệnh nhân u não và các bệnh lý não bằng máy xạ phẫu dao Gamma quay tại Trung tâm Y học hạt nhân và Ung bướu – Bệnh viện Bạch Mai.
+- Năm 2015-2016:Đánh giá kết quả điều trị 100 bệnh nhân u màng não bằng xạ phẫu dao Gamma quay tại Trung tâm Ung bướu – Y học hạt nhân – Bệnh viện Bạch Mai.
+- Năm 2018-2021:Đánh giá kết quả hóa trị bổ trợ trước ung thư vú giai đoạn II, III ở phụ nữ mãn kinh năm tại Bệnh viện Bạch Mai, Bệnh viện K.
+# QUÁ TRÌNH ĐÀO TẠO
+- Năm 1997-2003:Bác sĩ đa khoa tại Trường Đại học Y Hà Nội.
+- Năm 2003-2004:Bác sĩ định hướng chuyên khoa ung thư trường Đại học Y Hà Nội.
+- Năm 2004-2007:Bác sĩ nội trú khóa 28 chuyên ngành ung thư tại Trường Đại học Y Hà Nội.
+- Năm 2008:Chứng chỉ An toàn bức xạ trong Y học hạt nhân và Xạ trị; Chứng chỉ đào tạo SPECT, SPECT/CT, PET, PET/CT.
+- Năm 2010:Chứng nhận tham gia Liên đoàn Huyết học Asean và Hiệp hội Huyết học Malaysia tại Malaysia.
+- Năm 2011:Chứng nhận tham gia Cuộc họp Tích hợp Liệu pháp Mục tiêu của Người Xuất sắc (TIME) tại Hồng Kông- Trung Quốc.
+- Năm 2012:Chứng nhận tham gia Những tiến bộ trong quản lý HCC ở Châu Á; Chứng nhận tham gia NCIS Brachy Symposium tại Singapore.
+- Năm 2015:Chứng nhận tham gia Diễn đàn trao đổi ABC Châu Á tại Hồng Kông; Chứng nhận tham gia Hội nghị thượng đỉnh về Ung thư Châu Á Thái Bình Dương APOS tại Malaysia; Chứng nhận tham gia ESMO Châu Á tại Singapore; Chứng chỉ đào tạo về Xạ trị trong Ung thư tại Bệnh viện Đại học Lubeck, Cộng hòa Liên bang Đức; Chứng chỉ đào tạo về Hệ thống Gamma Xoay Las Vegas, Nevada 89118, Hoa Kỳ.
+- Năm 2016:Chứng nhận tham gia ESMO 2016 tại Copenhagen, Đan Mạch
+- Năm 2017:Chứng nhận tham gia hội nghị ASCO 2017 tại Chicago, Hoa Kỳ; Chứng nhận tham gia hội nghị ung thư Châu Á Thái Bình Dương lần thứ 24, Seoul, Hàn Quốc; Chứng nhận tham gia hội nghị ESMO 2017 tại Singapore; Chứng nhận tham gia hội nghị ung bướu Thành phố Hồ Chí Minh 2017 tại Việt Nam.
+- Năm 2018:Chứng nhận tham gia hội nghị chuyên đề về ung thư đường tiêu hóa năm 2018 tại San Francisco, Hoa Kỳ; Chứng nhận tham gia hội nghị ung thư Vú Châu Âu 2018 tại Barcelona, ​​Tây Ban Nha.
+- Năm 2019-2021:Học Bác sĩ Chuyên khoa II chuyên ngành ung thư tại Trường Đại học Y Hà Nội.
+# KINH NGHIỆM CÔNG TÁC
+- Năm 2008-2021:Bác sĩ điều trị tại Trung tâm Y học hạt nhân và Ung bướu Bệnh viện Bạch Mai.
+- Từ T7/2021- T6/2022:Phụ trách chuyên môn khoa Xạ trị tại Bệnh viện E.
+- Từ T6/2022 – Nay:Bác sĩ điều trị tại BVĐK MedicalCare, Đà Nẵng.
+- 👤 THS. BS NGUYỄN THÀNH TRUNG
+- 🔗 Chi tiết bác sĩ: https://tamanhhospital.vn/chuyen-gia/ths-bs-nguyen-thanh-trung/
+# GIỚI THIỆU
+- Tốt nghiệp Bác sĩ Đa khoa Đại học Y dược Thái Nguyên, ThS. BS Nguyễn Thành Trungtheo đuổi chuyên ngành Ung thư tại Đại học Y Hà Nội. Sau khi nhận bằng Thạc sĩ Ung thư, Bác sĩ Thành Trung về công tác tại chuyên khoa Ung bướu của các bệnh viện đa khoa lớn. Với kinh nghiệm hơn 10 năm khám chữa bệnh, Bác sĩ Thành Trung đã điều trị thành công cho rất nhiều trường hợp ung thư, kể cả những trường hợp bước sang giai đoạn muộn.
+- Song song với công tác khám chữa bệnh, ThS. BS Nguyễn Thành Trung còn thực hiện nhiều đề tài nghiên cứu, trong đó nổi bật nhất là đề tài “Đánh giá kết quả bước đầu Hóa – Xạ trị đồng thời ung thư vòm mũi họng giai đoạn II-IIIB tại Bệnh viện Đa khoa tỉnh Phú Thọ”. Hiện tại, Bác sĩ Thành Trung công tác tại khoa Nội, Bệnh viện Đa khoa MedicalCare, Đà Nẵng với vai trò Bác sĩ chuyên khoa ung bướu.
+# CÔNG TRÌNH NGHIÊN CỨU
+- Đánh giá kết quả bước đầu Hóa – Xạ trị đồng thời ung thư vòm mũi họng giai đoạn II-IIIB tại Bệnh viện Đa khoa tỉnh Phú Thọ (2011- 4/2015)
+# QUÁ TRÌNH ĐÀO TẠO
+- 2003 – 2009: Bác sĩ đa khoa, Đại học Y dược Thái Nguyên
+- 2009 – 2010: Bác sĩ định hướng Ung thư, Đại học Y Hà Nội
+- 2013 – 2015: Thạc sĩ Ung thư, Đại học Y Hà Nội
+# KINH NGHIỆM CÔNG TÁC
+- 8/2009 – 12/2016: Trung tâm Ung Bướu, Bệnh viện Đa khoa tỉnh Phú Thọ
+- 3/2017 – 01/2018: Trung tâm Ung Bướu, Bệnh viện Đa khoa Quốc tế Vinmec
+- 3/2018 – 4/2019: Khoa Khám Bệnh, Bệnh viện Đa khoa Phương Đông
+- 2019 – nay: Khoa Nội, Bệnh viện Đa khoa MedicalCare, Đà Nẵng
+- 👤 BS. CKII PHẠM ĐỨC LỘC
+- 🔗 Chi tiết bác sĩ: https://tamanhhospital.vn/chuyen-gia/pham-duc-loc/
+# GIỚI THIỆU
+- BSCKII Phạm Đức Lộccó gần 30 năm kinh nghiệm trong lĩnh vực Nội khoa ung bướu và Y học hạt nhân tại nhiều đơn vị uy tín.
+- Trong quá trình học tập, công tác, bác sĩ Lộc thường xuyên cập nhật và áp dụng các kiến thức phác đồ điều trị mới nhất trong nước cũng như quốc tế vào phục vụ cho công tác điều trị. Bên cạnh đó, bác sĩ Lộc tích cực tham gia nhiều công trình nghiên cứu khoa học cấp cơ sở, cấp nhà nước và đạt được danh hiệu chiến sỹ thi đua của Bộ Quốc phòng trao tặng.
+- Với chuyên môn dày dặn và trái tim nhân hậu của người thầy thuốc, bác sĩ Lộc luôn nhận được sự tín nhiệm từ đồng nghiệp. Ngoài ra, sự gần gũi, yêu thương người bệnh và tinh thần không quản ngại khó khăn của bác sĩ Lộc chính là “điểm tựa vững chắc” cho người bệnh khi gặp vấn đề sức khỏe. Hiện tại, bác sĩ Lộc đang công tác tại Khoa Ung bướu, BVĐK MedicalCare, Đà Nẵng.
+# THÀNH VIÊN TỔ CHỨC
+- Hội Ung thư Việt Nam
+- Hội Nội tiết Việt Nam
+- Hiệp hội Phòng chống Ung thư quốc tế (UICC)
+- Hiệp hội Phòng chống Ung thư Hoa Kỳ (ASCO)
+- Hiệp hội Nội khoa Ung thư Châu Âu (ESMO)
+- Hiệp hội Phòng chống Ung thư Châu Á Thái Bình Dương (APCC)
+# CÔNG TRÌNH NGHIÊN CỨU
+- Xác định kích thước tuyến giáp người Việt Nam bình thường bằng siêu âm và xạ hình
+- Điều trị phẫu thuật kết hợp xạ trị áp sát cho bệnh nhân ung thư trực tràng
+- Nghiên cứu điều trị giảm đau bệnh ung thư di căn xương bằng P-32 hoặc chiếu xạ ngoài kết hợp bisphosphonate
+- Xạ hình Tc-99m-MDP phát hiện di căn xương ở bệnh nhân ung thư điều trị tại khoa YHHN- BV 103
+- Biến đổi CEA ở 30 bệnh nhân ung thư đại tràng được điều trị bằng phẫu thuật hóa chất
+- Điều trị giảm đau bằng chiếu xạ kết hợp bisphosphonate ở bệnh nhân ung thư di căn xương
+- Xạ hình 99m Tc-MDP phát hiện ung thư di căn xương tại Bệnh viện K từ 1/2010 – 6/2012
+- Biến đổi nồng độ CEA huyết thanh ở bệnh nhân ung thư đại tràng sau phẫu thuật và hóa trị
+- Nghiên cứu điều trị giảm đau ở bệnh nhân ung thư di căn xương bằng P-32 và chiếu xạ ngoài kết hợp bisphosphonate
+- Vai trò của xạ hình xương trong chẩn đoán và điều trị ung thư xương nguyên phát
+- Kết quả điều trị hóa chất phác đồ FOLFOX4 trên bệnh nhân ung thư đại tràng sau phẫu thuật tại Bệnh viện Quân y 103
+- Nghiên cứu điều trị giảm đau bệnh nhân ung thư bằng P-32 và chiếu xạ ngoài kết hợp bisphosphonate
+- Biến đổi nồng độ CEA, CA 19-9 ở bệnh nhân ung thư dạ dày được điều trị hóa chất
+# QUÁ TRÌNH ĐÀO TẠO
+- 1986 – 1992: Bác sĩ Đa khoa, Học viện Quân Y
+- 1996 – 1998: Bác sĩ chuyên khoa I, Học viện Quân Y
+- 2008 – 2010: Bác sĩ chuyên khoa II, Học Viện Quân Y
+# KINH NGHIỆM CÔNG TÁC
+- 1992 – 2019: Công tác tại Khoa Ung bướu và Y học hạt nhân Học Viện Quân Y
+- 👤 BS. CKII TRẦN THỊ THIÊN HƯƠNG
+- 🔗 Chi tiết bác sĩ: https://tamanhhospital.vn/chuyen-gia/tran-thien-huong/
+# GIỚI THIỆU
+- Sau khi tốt nghiệp Bác sĩ Đa khoa vào năm 1998, Bác sĩ Trần Thị Thiên Hương tiếp tục học chuyên khoa Ung thư tại Đại học Y dược TP. HCM. Song song thời gian này, bác sĩ Thiên Hương cũng công tác tại Bệnh viện Ung bướu TP. HCM.
+- Hơn 22 năm học tập, công tác và thực hiện nhiều công trình nghiên cứu khoa học chuyên sâu, bác sĩ Trần Thị Thiên Hương đã ứng dụng những tiến bộ mới nhất vào quy trình thăm khám, nâng cao hiệu quả điều trị và phục hồi chức năng cho bệnh nhân ung thư. Nhờ đó, nhiều bệnh nhân ung thư khỏi bệnh; bên cạnh đó những trường hợp phát hiện bệnh ở giai đoạn trễ hay tái phát, di căn xa thì sự sống được kéo dài thêm nhiều năm với chất lượng sống ổn định.
+- “Niềm hạnh phúc của tôi là sau hơn 10 năm gặp lại bệnh nhân ung thư mình điều trị vẫn sống vui khỏe và bình an, hay những bệnh nhân trẻ tuổi mắc bệnh ung thư vú sau điều trị đã lập gia đình và sinh con khỏe mạnh. Tất cả những điều đó chính là động lực thôi thúc tôi luôn cố gắng học hỏi để có thể tiếp tục ứng dụng kiến thức vào thực tiễn thăm khám và điều trị, giúp bệnh nhân ung thư có thể sống lâu, sống khỏe và sống hạnh phúc”.
+- Hiện BS. CKII Trần Thị Thiên Hương đang công tác tại khoa Ung bướu, Bệnh viện Đa khoa MedicalCare, Đà Nẵng.
+# THÀNH VIÊN TỔ CHỨC
+- Hội Ung thư Việt Nam
+# LĨNH VỰC CHUYÊN MÔN
+- Khám và điều trị một số bệnh ung bướu lành tính
+- Khám và điều trị nội khoa bệnh ung thư
+- Chăm sóc giảm nhẹ bệnh nhân ung thư
+- Tham gia nghiên cứu khoa học, ứng dụng những tiến bộ khoa học để phục vụ khám chữa bệnh, phục hồi chức năng trong phòng chống bệnh ung thư
+# DANH HIỆU, GIẢI THƯỞNG
+- Chiến sĩ thi đua cấp cơ sở các năm 2009, 2011, 2013, 2015, 2017, 2019 và 2020
+# CÔNG TRÌNH NGHIÊN CỨU
+- Các công trình nghiên cứu được đăng trên Tạp chí Y học TP. HCM:
+- Sarcôm phần mềm, dịch tễ học, chẩn đoán và điều trị (2003)
+- Điều trị ung thư vú giai đoạn III (2010)
+- Đánh giá hiệu quả phối hợp Bevacizumab trong điều trị ung thư đại trực tràng tiến xa (2018)
+- Bước đầu đánh giá hiệu quả của hóa trị kết hợp ức chế kép Pertuzumab và Trastuzummab trong điều trị trước mổ bệnh ung thư vú HER2 (+) (2020)
+- Tham gia nghiên cứu thử nghiệm lâm sàng ngẫu nhiên mù đơn đa trung tâm đánh giá các thông số dược động học, tính an toàn và hiệu quả của sản phẩm NNG-TMAB (trastuzumab) khi kết hợp Docetaxel trên bệnh nhân ung thư vú tái phát hoặc di căn, dương tính với HER2, (2019 – 2021) tại Bệnh viện Ung bướu TP. HCM
+# QUÁ TRÌNH ĐÀO TẠO
+- 1998: Tốt nghiệp Bác sĩ Đa khoa, Trung tâm Đào tạo và Bồi dưỡng Cán bộ Y tế TP. HCM
+- 2002: Tốt nghiệp Bác sĩ chuyên khoa I Ung bướu, Trường Đại học Y Dược TP. HCM
+- 2009: Tốt nghiệp Bác sĩ chuyên khoa II Ung thư, Trường Đại học Y Dược TP. HCM
+- Tham dự đầy đủ các Hội thảo Ung thư hàng năm của TP. HCM
+- Tham dự Hội nghị Best of ASCO tại Philippines năm 2010
+- Tham dự Hội nghị ESMO Ung thư đường tiêu hóa tại Tây Ban Nha năm 2011
+- Tham dự Hội nghị ESMO Asia Ung thư đại trực tràng tại TP. HCM năm 2012
+- Tham dự Hội nghị Ung thư vú tại Bồ Đào Nha năm 2013
+- Tham dự Hội nghị Ung thư gan châu Á Thái Bình Dương lần thứ 4, APPLE tại Hàn Quốc năm 2013
+- Tham dự Hội nghị tranh luận trong Ung thư vú (CoBRA) tại Úc năm 2015
+- Tham dự Hội nghị ESMO Asia tại Singapore các năm 2016, 2019
+- Tham dự Hội nghị ASCO tại Hoa Kỳ năm 2017
+- Tham dự Lớp tập huấn ngắn ngày về Ung thư đường niệu tại Singapore năm 2019
+- Tham dự hội nghị các châu lục về ung thư đường tiêu hóa, tiền liệt tuyến tại Áo năm 2019
+# KINH NGHIỆM CÔNG TÁC
+- 1999 – 2000: Bác sĩ luân khoa, Bệnh viện Ung bướu TP. HCM
+- 2001 – 2021: Bác sĩ điều trị khoa Nội tuyến vú, tiêu hóa, gan, niệu, Bệnh viện Ung bướu TP. HCM
+- 2021 – nay: Bác sĩ khoa Ung bướu, Bệnh viện Đa khoa MedicalCare, Đà Nẵng
+- 👤 THS. BSNT TRẦN NGỌC HẢI
+- 🔗 Chi tiết bác sĩ: https://tamanhhospital.vn/chuyen-gia/tran-ngoc-hai/
+# GIỚI THIỆU
+- ThS. BSNT Trần Ngọc Hảilà bác sĩ chuyên khoa Y học hạt nhân và Ung Bướu. BS Hải đã có thâm niên công tác gần 20 năm, được đào tạo bài bản về chuyên ngành Y học hạt nhân và Ung bướu tại trong và ngoài nước. Trong suốt quá trình đào tạo, nghiên cứu, làm việc, bác sĩ Hải đã áp dụng nhiều công nghệ cao về xạ trị và hóa chất vào điều trị đưa lại nhiều lợi ích cho người bệnh. Với những cống hiến cho ngành Y học, bác sĩ Hải nhận được nhiều bằng khen từ lãnh đạo các cấp trong công tác bảo vệ sức khỏe nhân dân.
+- Bên cạnh việc học tập và công tác, bác sĩ Hải còn tham gia nghiên cứu khoa học với chủ đề Nghiên cứu điều trị bệnh lý ung thư đường tiêu hóa bằng hóa xạ trị có sử dụng PET/CT mô phỏng.
+- Với sự tận tâm và chu đáo, bác sĩ Hải luôn là chỗ dựa vững chắc cho bệnh nhân và người nhà trong suốt quá trình thăm khám, điều trị. Hiện tại, bác sĩ Hải đang công tác tại Khoa Ung bướu, BVĐK MedicalCare, Đà Nẵng.
+# THÀNH VIÊN TỔ CHỨC
+- Hội Ung thư Việt Nam
+- Hiệp hội Phòng chống Ung thư Quốc tế (UICC)
+- American Society of clinical Oncology (ASCO)
+- Hiệp hội Nội khoa Ung thư Châu  Âu (ESMO)
+# DANH HIỆU, GIẢI THƯỞNG
+- Năm 2009: Danh hiệu sáng tạo tuổi trẻ trong lĩnh vực y tế
+- Nhiều năm liền được bằng khen của lãnh đạo Bệnh viện và Bộ Y tế
+# CÔNG TRÌNH NGHIÊN CỨU
+- Nghiên cứu khoa học: Nghiên cứu điều trị bệnh lý ung thư đường tiêu hóa bằng hóa xạ trị có sử dụng PET/CT mô phỏng
+- Sách: Hướng dẫn chẩn đoán và điều trị một số bệnh ung thư
+- Nghiên cứu – Hội nghị khoa học: Các Hội nghị khoa học chuyên ngành toàn quốc
+# QUÁ TRÌNH ĐÀO TẠO
+- Năm 1994 – 2000:  Bác sĩ Đa Khoa, Đại Học Y Hà Nội
+- Năm 2001 – 2014: Bác sĩ Nội trú chuyên ngành Ung thư, Đại Học Y Hà Nội
+# KINH NGHIỆM CÔNG TÁC
+- 2006 – 2020: Bác sĩ điều trị tại Trung tâm Y học Hạt nhân và Ung bướu Bệnh viện Bạch Mai
+- 2021 – Nay: Bác sĩ Ung bướu, Khoa Ung bướu – BVĐK MedicalCare, Đà Nẵng
+- 👤 THS. BSNT BÙI THỊ NGA
+- 🔗 Chi tiết bác sĩ: https://tamanhhospital.vn/chuyen-gia/bui-thi-nga/
+# GIỚI THIỆU
+- ThS. BSNT Bùi Thị Ngatốt nghiệp bác sĩ Đa khoa tại Đại học Y Hà Nội và tiếp tục theo học Thạc sĩ chuyên ngành Ung bướu tại đây. Với kinh nghiệm đã được tích lũy trong quá trình đào tạo và công tác tại các bệnh viện uy tín, bác sĩ Nga đã được nhiều người bệnh tin tưởng gửi gắm sức khỏe.
+- Thấu hiểu và đồng cảm những khó khăn của người bệnh khi phải chiến đấu với bệnh ung thư, bác sĩ Nga luôn là điểm tựa tinh thần đồng hành cùng người bệnh đi tìm “tia sáng ở cuối đường hầm”.
+- Bác sĩ Nga chia sẻ “Bệnh nhân ung thư là những người nhạy cảm và dễ tổn thương, với những người mất mát quá nhiều thứ như vậy, chúng tôi không chỉ đơn thuần lên phác đồ điều trị mà còn cần tiếp thêm nghị lực giúp người bệnh an tâm điều trị và có thêm nhiều niềm tin vào cuộc sống”.
+- Hiện tại bác sĩ Nga đang công tác tại Khoa Ung bướu, BVĐK MedicalCare, Đà Nẵng. Được sự hỗ trợ của đội ngũ bác sĩ trong khoa, bác sĩ Nga đã tham gia điều trị cho nhiều ca bệnh khó, phức tạp giúp người bệnh giảm triệu chứng và kéo dài tiên lượng sống.
+# QUÁ TRÌNH ĐÀO TẠO
+- Từ 2010 – 2016: Bác sĩ đa khoa tại Đại học Y Hà Nội
+- Từ 2016 – 2019: ThS. BSNT tại Đại học Y Hà Nội
+# KINH NGHIỆM CÔNG TÁC
+- Từ 2019 – 2020: Bác sĩ điều trị, Tư vấn di truyền trong Ung thư tại Trường ĐH Y Hà Nội và Trung tâm Y Học Hạt Nhân và Ung Bướu, Bệnh viện Bạch Mai.
+- Từ 2020 – 2021: Bác sĩ Tư vấn Di truyền trong Ung thư, Sản khoa, Nhi khoa tại BVĐK Medlatec.
+- Từ cuối năm 2021 – Nay: Bác sĩ điều trị tại Khoa Ung Bướu – Bệnh viện Đa khoa MedicalCare, Đà Nẵng.
+- 👤 THS. BS LƯU THẢO NGỌC
+- 🔗 Chi tiết bác sĩ: https://tamanhhospital.vn/chuyen-gia/luu-thao-ngoc/
+# GIỚI THIỆU
+- ThS. BS Lưu Thảo Ngọclà bác sĩ có nhiều kinh nghiệm trong khám và điều trị các bệnh lý ung thư như: Ung thư vú, ung thư trực tràng, ung thư cổ tử cung… bằng hoá trị, xạ trị. Tốt nghiệp Đại học Y Hà Nội chuyên ngành Đa khoa sau đó bác sĩ Ngọc tiếp tục ghi danh vào Đại Học Y Dược Thành phố Hồ Chí Minh để hoàn thành chương trình Thạc sĩ chuyên ngành ung thư.
+- Với mong muốn đóng góp vào sự nghiệp chăm sóc sức khỏe nhân dân, bác sĩ Ngọc không ngừng học hỏi, nâng cao kiến thức chuyên môn, tham gia các khóa đào tạo chuyên sâu, đặc biệt tiếp cận với các phương pháp điều trị tân tiến trên thế giới hiện nay như điều trị nhắm trúng đích, điều trị miễn dịch.
+- Ngay sau khi tốt nghiệp, bác sĩ Ngọc đã lựa chọn công tác tạiBVĐK MedicalCare– Cơ sở y tế uy tín trong điều trị các bệnh lý ung thư. Tại đây, bác sĩ Ngọc cùng các đồng nghiệp điều trị thành công cho nhiều ca bệnh khó và hiếm gặp.
+# THÀNH VIÊN TỔ CHỨC
+- Hội Ung thư Việt Nam
+- Hiệp hội Phòng chống Ung thư quốc tế (UICC)
+- Hiệp hội Phòng chống Ung thư Hoa Kỳ (ASCO)
+- Hiệp hội Nội khoa Ung thư Châu Âu (ESMO)
+- Hiệp hội Phòng chống Ung thư Châu Á Thái Bình Dương (APCC)
+# CÔNG TRÌNH NGHIÊN CỨU
+- 2016: Đánh giá hiệu quả giảm đau trong ung phổi di căn xương bằng photpho phóng xạ P-32.
+- 2020: Đánh giá đáp ứng của hoá trị tân hỗ trợ ung thư buồng trứng giai đoạn tiến xa với phác đồ phối hợp Taxane và Platinum.
+# QUÁ TRÌNH ĐÀO TẠO
+- 2016: Tốt nghiệp Bác sĩ Đa khoa tại Đại Học Y Hà Nội.
+- 2022: Tốt nghiệp Thạc sĩ Ung Thư tại Đại Học Y Dược Thành phố Hồ Chí Minh.
+# KINH NGHIỆM CÔNG TÁC
+- 2022 – Nay: Bác sĩ ung bướu, BVĐK MedicalCare, Đà Nẵng.
+- 👤 THS. BS ​​NGUYỄN TIẾN SỸ
+- 🔗 Chi tiết bác sĩ: https://tamanhhospital.vn/chuyen-gia/nguyen-tien-sy/
+# GIỚI THIỆU
+- Tốt nghiệp Bác sĩ Đa khoa, Đại học Y Dược TP. HCM, bác sĩ ​​Nguyễn Tiến Sỹ tiếp tục theo học Thạc sĩ chuyên khoa ung bướu ngay tại ngôi trường này và công tác tại khoa Ung bướu, Bệnh viện Thành phố Thủ Đức.
+- Song song với công tác khám chữa bệnh, ThS. BS ​​Nguyễn Tiến Sỹ không ngừng học hỏi, nâng cao kiến thức chuyên môn, tham gia các khóa đào tạo chuyên sâu ở các bệnh viện trong và ngoài nước như bệnh viện Chợ Rẫy, bệnh viện Cựu Chiến binh Cao Hùng – Đài Loan, đồng thời tiếp cận với các phương pháp điều trị tân tiến trên thế giới hiện nay như điều trị nhắm trúng đích, điều trị miễn dịch. ThS. BS ​​Nguyễn Tiến Sỹ còn thực hiện một số đề tài nghiên cứu khoa học tại Đại học Y Dược TP. HCM, Viện Di Truyền học.
+- ThS. BS Nguyễn Tiến Sỹ có nhiều kinh nghiệm trong thăm khám, lập kế hoạch điều trị đa mô thức cho các bệnh lý ung thư, điều trị đau và chăm sóc giảm nhẹ cũng như tham gia nghiên cứu khoa học, triển khai ứng dụng những tiến bộ khoa học trong công tác phòng ngừa và điều trị bệnh ung thư.
+- Hiện tại, ThS. BS Nguyễn Tiến Sỹ đang công tác tạikhoa Ung bướu, Bệnh viện Đa khoa MedicalCare, Đà Nẵng.
+# THÀNH VIÊN TỔ CHỨC
+- Hội Ung thư Việt Nam
+- Hiệp hội Phòng chống Ung thư Quốc tế (UICC)
+- Hiệp hội Phòng chống Ung thư Hoa Kỳ (ASCO)
+- Hiệp hội Nội khoa Ung thư Châu Âu (ESMO)
+- Hiệp hội Phòng chống Ung thư Châu Á – Thái Bình Dương (APCC)
+# CÔNG TRÌNH NGHIÊN CỨU
+- 2020: Đề tài NCKH “Vai trò của chụp cắt lớp vi tính trong đánh giá trước phẫu thuật ung thư cổ tử cung giai đoạn xâm lấn sớm” do Đại học Y Dược TP. HCM nghiệm thu.
+- 2022: Đề tài NCKH “Đề tài nghiên cứu ứng dụng ctDNA trong theo dõi tái phát ở Ung thư đại trực tràng” do Viện Di truyền học nghiệm thu.
+# QUÁ TRÌNH ĐÀO TẠO
+- 1. Bằng cấp
+- 2011 – 2017: Bác sĩ Đa khoa, Đại học Y Dược TP. HCM
+- 2018 – 2020: Thạc sĩ chuyên khoa Ung bướu, Đại học Y Dược TP. HCM
+- 2. Chứng chỉ
+- 10/2017 – 4/2018: Khóa học theo chương trình đào tạo liên tục, chuyên ngành Ung bướu, Trung tâm Ung bướu, Bệnh viện Chợ Rẫy.
+- 4/2019: Khóa tập huấn về ứng dụng AI trong điều trị, Bệnh viện Cựu Chiến binh Cao Hùng, Đài Loan.
+- 3/2022: Khóa tập huấn về điều trị ung thư phổi, Bệnh viện Cựu Chiến binh Cao Hùng, Đài Loan.
+# KINH NGHIỆM CÔNG TÁC
+- 1. Kinh nghiệm công tác
+- 11/2018 – 2/2023: Bác sĩ điều trị, khoa Ung bướu, Bệnh viện Thành phố Thủ Đức.
+- 3/2023 – nay: Bác sĩ điều trị, khoa Ung bướu, Bệnh viện Đa khoa MedicalCare, Đà Nẵng
+- 2. Lĩnh vực chuyên môn
+- Khám và điều trị các bệnh lý ung thư.
+- Lập kế hoạch điều trị toàn diện, đa mô thức cho bệnh nhân ung thư.
+- Điều trị đau và chăm sóc giảm nhẹ triệu chứng cho bệnh nhân ung thư.
+- Tham gia nghiên cứu khoa học, triển khai ứng dụng những tiến bộ khoa học trong công tác phòng ngừa và điều trị bệnh ung thư.
+- 👤 BS. CKI ​​VŨ TRẦN MINH NGUYÊN
+- 🔗 Chi tiết bác sĩ: https://tamanhhospital.vn/chuyen-gia/vu-tran-minh-nguyen/
+# GIỚI THIỆU
+- Sau khi tốt nghiệp Bác sĩ Đa khoa, Đại học Y Phạm Ngọc Thạch, bác sĩ ​​Vũ Trần Minh Nguyên tiếp tục theo học Bác sĩ chuyên khoa I, chuyên ngành Ung thư tại Đại học Y Dược TP. HCM. Sau đó tham gia khám chữa bệnh tại các bệnh viện lớn như Bệnh viện Ung Bướu TP. HCM, ​​Bệnh viện Đa khoa Xuyên Á, Bệnh viện Đại học Y Dược TP. HCM.
+- Bên cạnh công tác khám chữa bệnh, BS. CKI Vũ Trần Minh Nguyên còn tham gia các khóa đào tạo chuyên sâu tại các bệnh viện lớn trong và ngoài nước như các khóa đào tạo về Y học giảm nhẹ tại Bệnh viện Ung Bướu TP. HCM và Trung tâm Chăm sóc Giảm nhẹ, Đại học Y khoa Harvard; Siêu âm tổng quát tại Đại học Y Dược TP. HCM.
+- BS. CKI Vũ Trần Minh Nguyên có nhiều kinh nghiệm lập kế hoạch điều trị đa mô thức cho các bệnh lý ung thư, điều trị đau và chăm sóc giảm nhẹ cũng như tham gia nghiên cứu khoa học về phòng ngừa và điều trị bệnh ung thư.
+- Hiện tại, BS. CKI Vũ Trần Minh Nguyên đang công tác tạikhoa Ung bướu, Bệnh viện Đa khoa MedicalCare, Đà Nẵng.
+# QUÁ TRÌNH ĐÀO TẠO
+- 1. Bằng cấp
+- 2007 – 2013: Bác sĩ Đa khoa, Đại học Y khoa Phạm Ngọc Thạch
+- 2015 – 2017: Bác sĩ chuyên khoa I, chuyên ngành Ung thư, Đại học Y Dược TP. HCM
+- 2. Chứng chỉ
+- 8/2015 – 12/2015: Clinical Fellowship in Palliative Medicine, Bệnh viện Ung bướu TP. HCM và Trung tâm Chăm sóc Giảm nhẹ Đại học Y khoa Harvard
+- 11/2016 – 5/2017: Giáo dục và Thực hành Chăm sóc Giảm nhẹ (PCEP), Trung tâm Chăm sóc Giảm nhẹ Đại học Y khoa Harvard
+- 10/2020 – 5/2021: Siêu âm tổng quát thực hành, Đại học Y Dược TP. HCM
+# KINH NGHIỆM CÔNG TÁC
+- 1. Kinh nghiệm công tác
+- 1/2014 – 7/2015: Bác sĩ luân khoa, các khoa lâm sàng Nội – Xạ – Ngoại phẫu thuật tuyến giáp, Bệnh viện Ung bướu TP. HCM
+- 7/2015 – 1/2019: Bác sĩ điều trị, khoa Chăm sóc Giảm nhẹ, Bệnh viện Ung bướu TP. HCM
+- 7/2019 – 6/2020: Bác sĩ điều trị Nội Ung bướu, khoa Ung bướu, Bệnh viện Đa khoa Xuyên Á, Củ Chi
+- 6/2020 – 11/2020: Bác sĩ phụ trách khoa Ung bướu, Bệnh viện Đa khoa Xuyên Á, Tây Ninh
+- 11/2020 – 12/2022: Bác sĩ hợp tác, khoa Ung bướu, Bệnh viện Đa khoa Xuyên Á, Củ Chi
+- 2/2022 – 1/2023: Bác sĩ điều trị, khoa Lão – Chăm sóc Giảm nhẹ, Bệnh viện Đại học Y Dược TP. HCM
+- 2. Lĩnh vực chuyên môn
+- Khám và điều trị các bệnh lý ung thư
+- Lập kế hoạch điều trị toàn diện, đa mô thức cho bệnh nhân ung thư
+- Điều trị đau và chăm sóc giảm nhẹ cho bệnh nhân ung thư
+# DỊCH VỤ
+- Khoa Ung bướu BVĐK MedicalCare cung cấp các dịch vụ:Tư vấn, hướng dẫn tầm soát nhằm phát hiện và điều trị sớm bệnh lý ung bướu ác tính. Khám và điều trị một số bệnh lý ung bướu (lành tính và ác tính). Tiếp nhận, cấp cứu, khám, sàng lọc và điều trị, quản lý bệnh nhân ung thư từ các bệnh viện, phòng khám, trung tâm y tế trong và ngoài nước chuyển đến. Thực hiện tiêm truyền hóa chất, sử dụng thuốc trúng đích, thuốc miễn dịch để điều trị các bệnh lý ung thư. Điều trị đau và chăm sóc giảm nhẹ triệu chứng cho các bệnh nhân ung thư giai đoạn cuối vượt quá khả năng điều trị đặc hiệu. KHÁC BIỆT KHI ĐIỀU TRỊ UNG THƯ TẠI KHOA UNG BƯỚU Hệ thống phòng VIP điều trị trong ngày với đầy đủ máy móc, tiện nghi hiện đại như ghế truyền hóa chất có bàn ăn, đảm bảo sự riêng tư của mỗi người bệnh, hệ thống tivi truyền hình cáp phục vụ nhu cầu giải trí, giúp bệnh nhân thư giãn trong quá trình điều trị. Ngoài ra, còn có thiết bị kết nối nhân viên y tế 24/24, hệ thống khí y tế và các thiết bị cấp cứu bố trí ngay tại khu điều trị. Việc lấy máu xét nghiệm, cấp phát thuốc và phục vụ bữa ăn đều được bố trí ngay tại khoa nhằm đảm bảo tính riêng tư, thuận tiện cho người bệnh. Phòng hóa trị được thiết kế 4 mặt đều là cửa kính cho bệnh nhân cảm thấy không bị gò bó, có thể nhìn thấy cảnh vật và thế giới xung quanh, thêm yêu cuộc sống giúp quá trình điều trị đạt hiệu quả tối ưu. Đồng thời, thiết kế này sẽ giúp “thu hẹp” khoảng cách giữa bệnh nhân với bác sĩ và nhân viên y tế, hỗ trợ theo dõi và luôn đồng hành cùng bệnh nhân. Khu nội trú được thiết kế và bài trí theo tiêu chuẩn cao cấp với đầy đủ đồ dùng cá nhân, minibar, tivi màn hình LED, internet, thiết bị kết nối nhân viên y tế 24/24, hệ thống khí y tế và các thiết bị cấp cứu bố trí ngay tại giường…Nhân viên chăm sóc chuyên nghiệp, tận tâm khi người bệnh khám, điều trị tại bệnh viện. Tư vấn, hỗ trợ miễn phí qua tổng đài, website, fanpage…
+- Khoa Ung bướu BVĐK MedicalCare cung cấp các dịch vụ:
+- Tư vấn, hướng dẫn tầm soát nhằm phát hiện và điều trị sớm bệnh lý ung bướu ác tính.
+- Khám và điều trị một số bệnh lý ung bướu (lành tính và ác tính).
+- Tiếp nhận, cấp cứu, khám, sàng lọc và điều trị, quản lý bệnh nhân ung thư từ các bệnh viện, phòng khám, trung tâm y tế trong và ngoài nước chuyển đến.
+- Thực hiện tiêm truyền hóa chất, sử dụng thuốc trúng đích, thuốc miễn dịch để điều trị các bệnh lý ung thư.
+- Điều trị đau và chăm sóc giảm nhẹ triệu chứng cho các bệnh nhân ung thư giai đoạn cuối vượt quá khả năng điều trị đặc hiệu.
+- KHÁC BIỆT KHI ĐIỀU TRỊ UNG THƯ TẠI KHOA UNG BƯỚU
+- Hệ thống phòng VIP điều trị trong ngày với đầy đủ máy móc, tiện nghi hiện đại như ghế truyền hóa chất có bàn ăn, đảm bảo sự riêng tư của mỗi người bệnh, hệ thống tivi truyền hình cáp phục vụ nhu cầu giải trí, giúp bệnh nhân thư giãn trong quá trình điều trị. Ngoài ra, còn có thiết bị kết nối nhân viên y tế 24/24, hệ thống khí y tế và các thiết bị cấp cứu bố trí ngay tại khu điều trị.
+- Việc lấy máu xét nghiệm, cấp phát thuốc và phục vụ bữa ăn đều được bố trí ngay tại khoa nhằm đảm bảo tính riêng tư, thuận tiện cho người bệnh.
+- Phòng hóa trị được thiết kế 4 mặt đều là cửa kính cho bệnh nhân cảm thấy không bị gò bó, có thể nhìn thấy cảnh vật và thế giới xung quanh, thêm yêu cuộc sống giúp quá trình điều trị đạt hiệu quả tối ưu. Đồng thời, thiết kế này sẽ giúp “thu hẹp” khoảng cách giữa bệnh nhân với bác sĩ và nhân viên y tế, hỗ trợ theo dõi và luôn đồng hành cùng bệnh nhân.
+- Khu nội trú được thiết kế và bài trí theo tiêu chuẩn cao cấp với đầy đủ đồ dùng cá nhân, minibar, tivi màn hình LED, internet, thiết bị kết nối nhân viên y tế 24/24, hệ thống khí y tế và các thiết bị cấp cứu bố trí ngay tại giường…
+- Nhân viên chăm sóc chuyên nghiệp, tận tâm khi người bệnh khám, điều trị tại bệnh viện.
+- Tư vấn, hỗ trợ miễn phí qua tổng đài, website, fanpage…
+# THÀNH TÍCH NỔI BẬT
+- Theo nghiên cứu EIU đăng trên Sáng kiến Ung thư Thế giới, Việt Nam là quốc gia có tỷ lệ tử vong do ung thư hàng đầu châu Á, mặc dù tỷ lệ người mắc ung thư trên dân số không cao so với thế giới. Thực trạng này cho thấy, đa số người Việt chưa có thói quen tầm soát ung thư – điều kiện tiên quyết để giảm thiểu tỷ lệ tử vong do căn bệnh đáng sợ này. Bên cạnh đó, việc điều trị khi bệnh đã ở giai đoạn muộn, phác đồ điều trị chưa phù hợp với từng thể trạng bệnh nhân cũng như sự thiếu hụt các phương tiện y tế hiện đại cũng góp phần gia tăng số ca tử vong do ung thư ở nước ta.
+- Khoa Ung bướu BVĐK MedicalCare được đầu tư xây dựng theo tiêu chuẩn quốc tế, cung cấp các dịch vụ chăm sóc sức khỏe hàng đầu, áp dụng mô hình điều trị đa mô thức và cá thể hóa trong điều trị ung thư.
+- Để đáp ứng nhu cầu thực tế về điều trị toàn diện kết hợp dịch vụ chăm sóc người bệnh chuyên nghiệp, khoa Ung bướu BVĐK MedicalCare định hướng trở thành một trong những trung tâm tư vấn và điều trị ung thư hàng đầu trên địa bàn thành phố, giải quyết gánh nặng về bệnh tật ung thư tại TP. HCM và các khu vực lân cận, đồng thời giảm áp lực cho các bệnh viện tuyến công lập.
+- Khoa Ung bướu BVĐK MedicalCare được đầu tư trang thiết bị hiện đại, có đội ngũ y bác sĩ chuyên môn cao luôn hỗ trợ chăm sóc chuyên biệt cho từng bệnh nhân, hỗ trợ tiếp cận với các chuyên gia y tế hàng đầu ở nước ngoài, cập nhật nhanh các phác đồ điều trị tương đương với tiêu chuẩn thế giới, góp phần nâng cao chất lượng dịch vụ khám chữa bệnh cho người bệnh ung thư trong khu vực và người bệnh trở về từ các trung tâm y tế nước ngoài.
+- Khoa Ung bướu BVĐK MedicalCare đảm nhận các chức năng, nhiệm vụ sau:
+- Tư vấn, hướng dẫn tầm soát nhằm phát hiện và điều trị sớm bệnh lý ác tính trong cộng đồng.
+- Từng bước triển khai các dịch vụ khám chữa bệnh đa dạng, hợp lý để đáp ứng nhu cầu người bệnh.
+- Khám và điều trị một số bệnh lý ung bướu (lành tính và ác tính).
+- Tổ chức tiếp nhận, cấp cứu, khám, phát hiện, sàng lọc và điều trị, quản lý bệnh nhân ung thư từ các bệnh viện, phòng khám, trung tâm y tế trong và ngoài nước chuyển đến.
+- Phối hợp với các khoa khác (Ngoại, Sản, Chẩn đoán hình ảnh…), các chuyên khoa khác (Phẫu trị, Xạ trị …) để lập kế hoạch điều trị toàn diện, đa mô thức cho bệnh nhân ung thư; cập nhật và ứng dụng những tiến bộ về sinh học phân tử để xây dựng chiến lược cá thể hóa trong điều trị; cải thiện chất lượng sống cho người bệnh.
+- Điều trị đau và chăm sóc giảm nhẹ triệu chứng cho các bệnh nhân ung thư giai đoạn cuối vượt quá khả năng điều trị bằng phương pháp phẫu thuật, hóa chất, xạ trị.
+- Thực hiện tiêm truyền hóa chất, sử dụng thuốc trúng đích, thuốc miễn dịch để điều trị các bệnh lý ung thư.
+- Tham gia nghiên cứu khoa học, triển khai ứng dụng những tiến bộ khoa học để phục vụ khám chữa bệnh, phòng bệnh, phục hồi chức năng trong phòng, chống ung thư.
+- Trong tương lai, khoa Ung bướu BVĐK MedicalCare hướng tới mục tiêu:
+- Xây dựng và hoàn thiện các quy trình điều trị.
+- Hoàn thiện hệ thống hỗ trợ thông tin cho người bệnh.
+- Từng bước triển khai các dịch vụ khám chữa bệnh đa dạng, hợp lý để đáp ứng nhu cầu của người bệnh.
+- Học hỏi, cập nhật và ứng dụng các thông tin, kiến thức mới.
+- Tiếp tục đào tạo cả trong và ngoài nước để đảm bảo chất lượng khám chữa bệnh ngày càng tăng, cam kết luôn tạo được lòng tin và duy trì sự hài lòng nơi người bệnh.
+🔹

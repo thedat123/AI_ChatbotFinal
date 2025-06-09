@@ -1,0 +1,34 @@
+# Core libraries for data processing and machine learning
+numpy>=1.21.0
+torch>=1.10.0
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.2  # Hoặc faiss-gpu nếu bạn sử dụng GPU
+qdrant-client>=1.3.0
+
+# Text processing and NLP
+underthesea>=1.3.5
+rank-bm25>=0.2.2
+
+# Google Gemini API
+google-generativeai>=0.3.0
+
+# Asynchronous programming and database
+aioodbc>=0.3.3
+pyodbc>=4.0.32  # Cần cho aioodbc để kết nối SQL Server
+
+# Data validation and serialization
+pydantic>=1.10.0
+
+# File handling and logging
+pickle-mixin>=1.0.2
+
+# Asynchronous runtime
+asyncio>=3.4.3  # Thường đã có sẵn trong Python 3.7+
+
+# Logging
+logging>=0.4.9.6  # Thường đã có sẵn trong Python
+
+# FastAPI and server
+fastapi>=0.103.0  # Core FastAPI framework for API development
+uvicorn>=0.23.2   # ASGI server to run FastAPI
+starlette>=0.27.0  # Foundation for FastAPI, includes middleware like CORS

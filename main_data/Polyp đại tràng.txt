@@ -1,0 +1,623 @@
+# Polyp đại tràng
+
+# Khoa: Trung tâm Nội soi & Phẫu thuật nội soi tiêu hóa
+# Bác sĩ: TTƯT.TS.BS PHẠM HỮU TÙNG
+
+# Polyp đại tràng là gì?
+Polyp là khối u lồi trong lòng đại trực tràng, được hình thành do sự tăng sinh quá mức niêm mạc đại trực tràng. Trên thực tế, có nhiều khối nhô lên nhìn bề ngoài rất giống polyp nhưng không phải polyp như u cơ, u mỡ…Polyp là một thuật ngữ chung, không đặc hiệu, sử dụng cho bất cứ khối u nào nằm lồi lên trên bề mặt đại trực tràng. Phần lớn các polyp ở dạng u lành tính; tuy nhiên vẫn có một tỷ lệ nhất định có thể tiến triển thành ung thư đại tràng, có thể gây tử vong. Vì lý do này nên bạn cần được theo dõi định kỳ nếu có polyp đại tràng. (2)
+
+# Các loại polyp đại tràng
+Không phải bệnh polyp đại tràng nào cũng giống nhau. Polyp đại tràng được chia thành 2 loại chính là tăng sản và u tuyến.
+• Tăng sản: Đây là loại polyp không có nguy cơ trở tiến triển sang giai đoạn ác tính thành ung thư. Polyp tăng sản thường nhỏ (kích thước dưới 5mm), hay nằm ở vị trí cuối trực tràng hoặc đại tràng sigma.
+• U tuyến: Phần lớn trường hợp ung thư đại tràng là từ loại polyp này (tuy nhiên không phải tất cả u tuyến đều gây nguy hiểm). Polyp u tuyến càng có kích thước lớn thì nguy cơ trở thành ung thư càng cao. Dựa vào mô hình phát triển mà u tuyến được chia nhỏ ra thành các loại nhỏ hơn như: (3)
+
+• Polyp u tuyến ống (tubular adenoma): thường gặp nhất, chiếm tỉ lệ khoảng 80%, thường kích thước ít khi lớn hơn 25 mm, bề mặt tương đối láng và thường có cuống. Về vi thể, cuống polyp được phủ bởi lớp niêm mạc đại tràng bình thường, bên trong là mô đệm sợi liên kết-mạch máu xuất phát từ lớp dưới niêm mạc. Phần đầu polyp được tạo bởi biểu mô ruột tăng sản và loạn sản, tạo thành các ống tuyến méo mó sắp xếp chen chúc với nhau, tế bào tuyến có nhân tăng sắc. Khoảng 20- 25% các polyp u tuyến ống có thành phần dạng nhánh, sự hiện diện của thành phần nhánh làm cho polyp dễ trở thành ung thư. Xuất độ trở thành ung thư là 3-5% cho các polyp u tuyến ống nói chung.
+
+• Polyp u tuyến nhánh (villous adenoma): chiếm tỉ lệ 5-15%, có trên 75% cấu trúc nhánh thì được gọi là polyp u tuyến nhánh. Chủ yếu gặp ở trực tràng (50- 55%), đại tràng chậu hông (30%) và đại tràng xuống (10%). Polyp u tuyến nhánh có thể có kích thước lớn trên 3cm (có thể đạt đến 100mm), sần sùi như bông cải và không có cuống. Về vi thể, polyp u tuyến nhánh tạo bởi biểu mô ruột tăng sản và loạn sản, tạo thành các cấu trúc dạng nhánh giống nhung mao ruột. Polyp u tuyến nhánh là tổn thương tiền ung thư: 10% các u có ung thư tại chỗ và 25-40% có ung thư xâm nhập.
+
+• Polyp u tuyến ống-nhánh (tubulo-villous adenoma): chiếm 5-15%, là dạng hỗn hợp của hai loại trên. Polyp có kích thước thay đổi, có cuống hoặc không có cuống. Thành phần nhánh chiếm tỉ lệ khoảng từ 25-75%, có thể có hình thái của ung thư xâm nhập thành phần nhánh.
+
+• Polyp u tuyến răng cưa: có cấu trúc răng cưa gần giống với polyp tăng sinh nhưng có tế bào loạn sản, có khả năng tiến triển thành ung thư đó là: SSL (sessile serrated lesions), TSA (traditional serrated adenoma). SSL hay gặp ở đại tràng lên, các polyp này có bề ngoài giống như đám mây, thường bằng phẳng, có thể phủ lớp nhầy trên bề mặt. Về mặt mô học, SSL chứa các bất thường về cấu trúc, tăng sinh đáng kể và thường xuyên biểu hiện loạn sản. SSL nên cắt bỏ hoàn toàn, tuy nhiên do đường viền không rõ ràng, cần cẩn thận để đảm bảo loại bỏ hoàn toàn polyp qua nội soi. TSA thường gặp ở trực tràng, đại tràng sigma và có thể có cuống hoặc không cuống. TSA có loạn sản tế bào nhưng thường nhẹ.
+
+
+# Nguyên nhân gây ra polyp đại tràng
+Nguyên nhân gây polyp đại tràng chính xác vẫn chưa được xác định nhưng sự phân chia và phát triển tế bào nhiều hơn bình thường được xem là lý do chính. Cụ thể polyp là kết quả của những thay đổi di truyền trong tế bào niêm mạc đại tràng ảnh hưởng đến chu kỳ sống của tế bào bình thường. (1)
+Yếu tố này có liên quan tới một số vấn đề dưới đây:
+• Tuổi tác: Hầu hết những người bị polyp đại tràng ở lứa tuổi từ 50 trở lên
+• Tiền sử gia đình: Nếu trong gia đình có người bị bệnh polyp đại tràng hoặc ung thư đại tràng thì bạn cũng có nguy cơ mắc bệnh. Càng nhiều thành viên trong gia đình mắc bệnh thì nguy cơ bạn gặp phải càng cao.
+• Hút thuốc và uống rượu quá mức: Thường xuyên uống rượu – hút thuốc hoặc kết hợp cả 2 làm tăng nguy cơ phát triển polyp đại tràng.
+• Một số rối loạn di truyền: Một số ít người bị polyp đại tràng có liên quan tới hội chứng Gardner (hội chứng đa polyp gia đình), hội chứng Lynch (một căn bệnh làm tăng nguy cơ mắc nhiều loại ung thư, trong đó có cả ở ruột), Polyposis vị thành niên (bệnh gây ra nhiều khối u lành tính trong ruột) hay hội chứng Peutz-Jeghers (bệnh gây ra polyp ruột, làm tăng nguy cơ ung thư đại tràng),…
+• Béo phì, lười vận động và tiêu thụ nhiều chất béo: Đây cũng là các yếu tố làm tăng nguy cơ bệnh.
+• Chủng tộc: Những người Mỹ gốc Phi có nguy cơ tiến triển ung thư đại tràng cao hơn bình thường
+
+
+# Dấu hiệu polyp đại tràng
+Hầu hết người bị polyp đại tràng không có triệu chứng rõ rệt nào cho tới khi thăm khám y tế. Ngoài ra nếu có xuất hiện các biểu hiện polyp đại tràng dưới đây thì không ít người lại nhầm lẫn qua các vấn đề tiêu hóa khác. Do đó để giảm nguy cơ bỏ qua bệnh, bạn nên đi kiểm tra sức khỏe càng sớm càng tốt nếu gặp phải: (5)
+• Chảy máu trực tràng: Đây không chỉ là một trong các dấu hiệu của bệnh polyp đại tràng mà nó còn có thể là biểu hiện của bệnh trĩ hoặc tình trạng rách hậu môn.
+• Phân có màu bất thường: Polyp đại tràng có thể khiến phân có thể có màu đen hoặc xuất hiện các tơ máu – dấu hiệu của tình trạng chảy máu trong đại tràng. Tuy nhiên sự thay đổi màu sắc của phân cũng có liên quan tới một số loại thực phẩm hoặc thuốc/ thực phẩm chức năng.
+• Thay đổi thói quen đi tiêu: Táo bón hoặc tiêu chảy kéo dài bất thường, không thuyên giảm là biểu hiện cảnh báo nguy cơ đang có u polyp, nặng hơn là ung thư đại tràng.
+• Đau bụng: Người bị polyp đại tràng có thể thường xuyên thấy đau quặn bụng do bệnh gây tắc nghẽn một phần ruột.
+• Thiếu máu: Chảy máu polyp có thể diễn ra âm thầm trong thời gian dài gây sụt giảm lượng sắt cần thiết cho cơ thể; kéo theo sự giảm bớt các tế bào hồng cầu vận chuyển oxy. Điều này khiến người bệnh hay cảm thấy mệt mỏi và khó thở.
+
+
+# Biện pháp chẩn đoán polyp đại tràng
+Để ngăn ngừa nguy cơ ung thư đại trực tràng, việc chẩn đoán và phát hiện sớm các polyp là điều rất quan trọng. Các xét nghiệm tầm soát polyp đại tràng bao gồm:
+• Nội soi đại tràng: Giúp quan sát tình trạng bên trong đại tràng. Nội soi có khả năng loại bỏ hầu hết các polyp để kiểm tra nguy cơ ung thư.
+• Chụp cắt lớp CT: Phương pháp này còn được gọi là nội soi đại tràng ảo nhằm chụp ảnh đại tràng từ bên ngoài. Cách chẩn đoán này không thể lấy polyp. Nếu có dấu hiệu bất thường nào thì người bệnh sẽ cần nội soi đại tràng thường xuyên.
+• Nội soi đại tràng sigma: Xét nghiệm này tương tự như nội soi đại tràng nhưng không quá phức tạp. Nếu người bệnh có polyp thì nội soi đại tràng sigma có thể loại bỏ được.
+• Xét nghiệm phân: Đây là xét nghiệm DNA trong phần kiểm tra sự thay đổi gen. Nếu xét nghiệm có vấn đề, người bệnh sẽ cần phải nội soi.
+
+# Điều trị polyp đại tràng
+Tùy vào loại polyp đại tràng được phát hiện mà bác sĩ sẽ lựa chọn một trong số các biện pháp loại bỏ dưới đây:
+• Cắt polyp trong lúc nội soi: Trong quá trình nội soi đại tràng, bác sĩ sẽ sử dụng kẹp hoặc thòng lọng (snare) để cắt polyp. Nếu kích thước polyp quá lớn không thể xử lý theo cách trên thì bác sĩ sẽ tiêm một loại chất lỏng bên dưới để nâng và cô lập khối polyp khỏi mô xung quanh sau đó cắt polyp…Có thể cắt polyp bằng nhiều kỹ thuật khác nhau tùy vào kích thước polyp.
+• Phẫu thuật xâm lấn tối thiểu: Đối với những polyp đại tràng quá lớn hay không thể loại bỏ an toàn trong lúc nội soi thì sẽ cần tới phẫu thuật xâm lấn tối thiểu. Lúc này người bệnh sẽ được đưa vào ổ bụng một dụng cụ gọi là phẫu thuật nội soi để loại bỏ phần ruột có polyp.
+• Cắt bỏ đại tràng: Nếu người bệnh có tình trạng di truyền như polyposis tuyến gia đình thì có khả năng cần phẫu thuật cắt bỏ một phần hoặc toàn bộ đại tràng.
+
+Sau khi được cắt bỏ, các loại polyp đại tràng sẽ được gửi đi làm xét nghiệm mô bệnh học, phân tích mẫu mô đánh giá mức độ nghịch sản của polyp và bờ cắt có còn tế bào u hay không.
+Ngoài ra một khi đã có polyp đại tràng thì có nguy cơ không nhỏ sau này bạn cũng gặp thêm polyp. Do đó trong quá trình điều trị người bệnh sẽ được tư vấn nên làm thêm các xét nghiệm sàng lọc sau này. Thời điểm và tần suất làm xét nghiệm dựa trên số lượng, kích thước và kết quả phân tích kết hợp thêm các yếu tố nguy cơ khác. Cụ thể là:
+• Trong 5-10 năm: Khi có 1 hoặc 2 u tuyến nhỏ
+• Trong 3 đến 5 năm: Có từ 3 hoặc 4 u tuyến
+• Trong 3 năm: Nếu có 5-10 u tuyến, kích thước u tuyến lớn hơn 10mm hoặc là một số loại u tuyến nhất định
+• Trong vòng 6 tháng đến 1 năm: Khi có > 10 polyp u tuyến hoặc 1 khối u kích thước lớn hoặc u tuyến cần phải cắt bỏ từng phần
+
+
+# Bị polyp đại tràng có nguy hiểm không?
+Bởi nguy cơ ung thư nên polyp đại tràng không phải là tình trạng bệnh lý mà chúng ta có thể xem nhẹ. Tốt hơn hết cần kiểm tra và phát hiện sớm cũng như thực hiện loại bỏ polyp càng sớm càng tốt.
+
+# Phòng ngừa bệnh polyp đại tràng
+Cách phòng ngừa bệnh polyp đại tràng tốt nhất là thường xuyên tầm soát và loại bỏ polyp khi có. Ngoài ra chúng ta có thể giảm bớt nguy cơ gặp phải polyp đại tràng nhờ vào các thói quen lành mạnh như sau:
+• Tăng cường trái cây, rau xanh, các loại đậu, ngũ cốc giàu chất xơ vào chế độ ăn hằng ngày.
+• Duy trì cân nặng khỏe mạnh, vóc dáng cân đối; nên giảm cân nếu thừa cân hoặc béo phì
+• Không ăn quá nhiều các loại thịt đỏ như thịt bò, thịt lợn, thịt dê, thịt cừu,…
+• Tập thể dục với cường độ vừa phải, đều đặn mỗi ngày
+• Không lạm dụng bia rượu, thuốc lá
+• Tham khảo ý kiến bác sĩ về việc bổ sung canxi và vitamin D hoặc dùng aspirin thường xuyên để giảm tỷ lệ ung thư đại tràng
+
+# Polyp đại tràng thường không có triệu chứng rõ ràng. Để phát hiện polyp đại tràng cần phải làm các xét nghiệm tầm soát thường xuyên, chẳng hạn như nội soi, vì các polyp đại tràng được phát hiện ở giai đoạn đầu thường có thể được loại bỏ một cách an toàn.
+
+
+# THÔNG TIN KHOA TRUNG TÂM NỘI SOI & PHẪU THUẬT NỘI SOI TIÊU HÓA
+
+# THÔNG TIN GIỚI THIỆU
+- Theo thống kê của Globocan năm 2020, mỗi năm Việt Nam có khoảng 182.563 ca mắc mới và 122.690 ca tử vong do ung thư. Ước tính, cứ 100.000 người thì có 159 người chẩn đoán mắc ung thư mới và 106 người tử vong do ung thư, thường gặp nhất là ung thư dạ dày, ung thư thực quản và ung thư đại trực tràng.
+- Ung thư đường tiêu hóa có thể chữa khỏi hoàn toàn nếu được phát hiện sớm và can thiệp điều trị kịp thời, đúng cách. Việc thực hiện nội soi tiêu hóa được xem là phương pháp tiên tiến nhất giúp phát hiện sớm các yếu tố nguy cơ, can thiệp kịp thời, ngăn chặn biến chứng nguy hiểm, đặc biệt là nguy cơ đe dọa tính mạng.
+- Hội tụ đầy đủ những yếu tố tiên quyết của một trung tâm nội soi tiêu hóa chất lượng với đội ngũ chuyên gia hàng đầu bao gồm các bác sĩ Ngoại tiêu hóa, Nội tiêu hóa và Nội soi tiêu hóa, hệ thống máy móc trang thiết bị hiện đại hàng đầu thế giới, áp dụng phác đồ điều trị tiên tiến, hiệu quả…, Trung tâm Nội soi & Phẫu thuật nội soi tiêu hóa, Bệnh viện Đa khoa MedicalCare là trung tâm đầu tiên tại Việt Nam cung cấp các dịch vụ nội soi và phẫu thuật nội soi tiêu hóa cao cấp với tiêu chítận tâm – an toàn – hiệu quả – ít xâm lấn – chi phí hợp lý.
+# THIẾT BỊ
+Trung tâm Nội soi & Phẫu thuật Nội soi Tiêu hóa, Bệnh viện Đa khoa MedicalCare được đầu tư xây dựng khang trang theo mô hình hiện đại, bố trí hệ thống kiểm soát chất lượng đạt chuẩn quốc tế, đảm bảo các yêu cầu về mặt kỹ thuật và điều kiện vô khuẩn tại phòng nội soi và phẫu thuật.
+Hệ thống trang thiết bị, máy móc được nhập khẩu đồng bộ từ các quốc gia tiên tiến như hệ thống nội soi Fuji 7000, hệ thống phẫu thuật nội soi 3D4K ICG Rubina Karl Storz, đặc biệt là dụng cụ phẫu thuật robot cầm tay cơ học … cho phép Trung tâm Nội soi & Phẫu thuật Nội soi Tiêu hóa, Bệnh viện Đa khoa MedicalCare tự tin làm chủ các kỹ thuật nội soi và phẫu thuật nội soi hiện đại, khắc phục tối đa những nhược điểm của các phương pháp truyền thống, đem đến kết quả điều trị tốt nhất cho bệnh nhân.
+# Hệ thống nội soi Fuji 7000
+Sự xuất hiện của hệ thống nội soi Fuji 7000 đến từ thương hiệu Fujifilm (Nhật Bản) được xem là thành tựu to lớn của kỹ thuật nội soi trên thế giới. Dây soi 7000 được trang bị công nghệ hình ảnh mới nhất, có khả năng phóng đại lên đến 140 lần giúp quan sát tất cả các tổn thương có ở đường tiêu hóa, kể cả những tổn thương có kích thước nhỏ và phức tạp mà mắt thường không thể nhận ra.
+# Hệ thống phẫu thuật nội soi 3D4K ICG RubinaKarlStorz
+3D4K ICG Rubina là hệ thống phẫu thuật nội soi hiện đại nhất hiện nay, tích hợp các công nghệ hình ảnh đỉnh cao nhất, gồm: hình ảnh 3 chiều 2 kênh độc lập, có thể mô phỏng theo cơ chế của mắt người cho cảm nhận chân thực nhất; độ phân giải 4K, công nghệ huỳnh quang ICG overlay có hình ảnh sắc nét, màu sắc vô cùng trung thực giúp đánh giá và xác định tình trạng các cơ quan túi mật, hạch bạch huyết, hệ thống mạch máu…, phát hiện bất thường và điều trị các bệnh lý chính xác nhất.
+# Dụng cụ phẫu thuật nội soi Robot cầm tay cơ học
+Trung tâm Nội soi & Phẫu thuật nội soi tiêu hóa tại BVĐK MedicalCare là đơn vị đầu tiên tại Đông Nam Á đưa vào sử dụng dụng cụ phẫu thuật robot cầm tay cơ học kết hợp với hệ thống phẫu thuật nội soi 3D4K ICG Rubina, giúp tiếp cận các vị trí giải phẫu ở không gian hẹp và góc khuất dễ dàng hơn, do đó hạn chế làm chấn thương mô lành xung quanh, giúp các thao tác phẫu thuật chính xác, nhanh chóng, thuận lợi, giảm thời gian phẫu thuật.
+# PHƯƠNG PHÁP ĐIỀU TRỊ
+- Trung tâm Nội soi & Phẫu thuật Nội soi Tiêu hóa, Bệnh viện Đa khoa MedicalCare quy tụ đội ngũ giáo sư, bác sĩ là những chuyên gia hàng đầu có kiến thức chuyên môn sâu rộng và kinh nghiệm thực tiễn về các kỹ thuật điều trị hiện đại. Nhờ đó, người bệnh sẽ được thăm khám, chẩn đoán, tư vấn và điều trị với những phác đồ hiệu quả nhất, đem đến kết quả điều trị tốt nhất, loại bỏ khả năng gây biến chứng và rút ngắn thời gian điều trị, người bệnh hồi phục nhanh chóng.
+- Kỹ thuật nội soi
+- Trung tâm Nội soi & Phẫu thuật Nội soi Tiêu hóa, Bệnh viện Đa khoa MedicalCare triển khai các kỹ thuật nội soi theo tiêu chuẩn quốc tế không đau – không biến chứng – nhanh hồi phục, gồm:
+- Nội soi chẩn đoán các bệnh lý đường tiêu hóa như thực quản, dạ dày, tá tràng, đại – trực tràng.
+- Nội soi điều trị bệnh lý đường tiêu hóa như cắt polyps, cắt ung thư sớm, nong bóng điều trị co thắt tâm vị; nong hẹp miệng nối đường tiêu hóa; đặt stent cho những ung thư quá chỉ định phẫu thuật; chích, kẹp clip, cột cầm máu ổ loét, tĩnh mạch giãn.
+- Nội soi mật tụy ngược dòng điều trị sỏi đường mật, đặt stent đường mật điều trị hẹp lành hay ác tính.
+- Lấy dị vật đường tiêu hóa
+- Kỹ thuật phẫu thuật điều trị
+- Điểm nổi bật trong các kỹ thuật phẫu thuật điều trị áp dụng tại Trung tâm Nội Soi & Phẫu Thuật Nội Soi Tiêu Hóa chính là phẫu thuật ít xâm lấn bởi hệ thống nội soi hiện đại 3D/4K/ICG kết hợp với dụng cụ phẫu thuật Robot cầm tay cơ học. Nhờ đó, hiệu quả của việc điều trị được nâng cao, rút ngắn thời gian điều trị, giảm chi phí cho người bệnh so với các kỹ thuật khác.
+- Các kỹ thuật phẫu thuật điều trị được triển khai gồm:
+- Phẫu thuật điều trị các bệnh lý thực quản: U lành và ác tính (ung thư), túi thừa, co thắt tâm vị, trào ngược dạ dày-thực quản, thực quản Barrett …
+- Phẫu thuật các bệnh lý dạ dày tá tràng: U lành và ác tính, béo phì, khâu thủng dạ dày, tá tràng cấp cứu…
+- Phẫu thuật các bệnh lý ruột: U lành và ác tính đại-trực tràng, cắt đoạn ruột điều trị u ruột non, cắt đoạn ruột điều trị biến chứng của túi thừa đại tràng, phẫu thuật điều trị sa trực tràng, cắt ruột thừa,…
+- Hậu môn: Cắt trĩ Longo, laser; cắt rò laser…
+- Thoát vị: Phẫu thuật điều trị thoát vị hoành, bụng, bẹn
+- Gan-mật-tụy: Cắt túi mật, mở ống mật chủ lấy sỏi, nang ống mật chủ, cắt chóp nang gan, cắt gan do ung thư, cắt tụy do u, phẫu thuật sỏi tụy, cắt lách
+- Trong quá trình thực hiện phẫu thuật, người bệnh được theo dõi các sinh hiệu liên tục để phát hiện kịp thời các vấn đề liên quan đến hô hấp hoặc tim mạch nếu có.
+# CHUYÊN GIA
+- 👤 TS. BS ĐỖ MINH HÙNG
+- 🔗 Chi tiết bác sĩ: https://tamanhhospital.vn/chuyen-gia/do-minh-hung/
+# GIỚI THIỆU
+- TS. BS Đỗ Minh Hùngđã có gần 30 năm kinh nghiệm chẩn đoán và điều trị các bệnh lý tiêu hóa, đặc biệt là chuyên ngành Tiêu hóa – Gan mật. Với hàng chục năm làm việc tại các bệnh viện lớn như Bệnh viện Bình Dân, Bệnh viện FV, Bệnh viện AIH, Bệnh viện Vinmec,…Bác sĩ Đỗ Minh Hùngđã giúp hàng ngàn bệnh nhân được chẩn đoán sớm và điều trị kịp thời các bệnh lý tiêu hóa từ đơn giản đến phức tạp.
+- Sau khi tốt nghiệp chuyên ngànhbác sĩđa khoa tại trường Đại học Y Dược TP. HCM, năm 2004, bác sĩ Đỗ Minh Hùng nhận bằng Thạc sĩ về Ngoại tổng quát của trường này. Năm 2015, bác sĩ Đỗ Minh Hùng tiếp tục bảo vệ thành công luận án Tiến sĩ Ngoại tiêu hóa, cũng tại trường đại học này.
+- Không chỉ học tập và nghiên cứu trong nước, bác sĩ Đỗ Minh Hùng còn tham gia nhiều khóa đào tạo chuyên môn ở nước ngoài. Đây là nền tảng để bác sĩ thực hiện hàng chục công trình nghiên cứu khoa học có giá trị, trở thành cơ sở để giảng dạy và đào tạo cho các thế hệ y bác sĩ hiện tại và tương lai. Bác sĩ Đỗ Minh Hùng từng là giảng viên trường Đại học Y khoa Phạm Ngọc Thạch, đồng thời tham gia công tác giảng dạy tại Trung tâm Huấn luyện Phẫu thuật nội soi Ngoại Tổng quát, Bệnh viện Bình Dân TP. HCM.
+- Bác sĩ Đỗ Minh Hùng có thế mạnh đặc biệt trong phẫu thuật ít xâm lấn điều trị các bệnh lý tiêu hóa, đặc biệt là ung thư đường tiêu hóa (thực quản, dạ dày, đại trực tràng); Phẫu thuật nội soi điều trị bệnh lý béo phì và chuyển hóa. Bác sĩ là thành viên Hội Ngoại khoa và Hội Phẫu thuật nội soi Việt Nam. Bác sĩ thường xuyên tham gia nhiều hội nghị ngoại khoa về nội soi và phẫu thuật nội soi trong nước cũng như thế giới.
+- TS. BS Đỗ Minh Hùngtừng đảm nhận vị trí Phó khoa điều hành khoa Ngoại tiêu hóa, Bệnh viện Bình Dân TP. HCM, Trưởng khoa Ngoại tổng quát Bệnh viện FV, Trưởng khoa Ngoại Tổng hợp Bệnh viện AIH và Trưởng khoa Ngoại Tổng hợp bệnh viện Vinmec Central Park, Phó trưởng tiểu ban Ngoại hệ thống bệnh viện Vinmec. Với kinh nghiệm nhiều năm trong lĩnh vực Ngoại khoa tổng quát, điều trị ít xâm lấn, đặc biệt trong chuyên ngành Tiêu hóa, bác sĩ luôn ấp ủ thành lập Trung tâm Nội soi – Phẫu thuật Nội soi Tiêu hóa.
+- Đây là trung tâm đầu tiên tại Việt nam nhằm thống nhất trong tầm soát, phát hiện, chẩn đoán và điều trị hiệu quả nhất với kỹ thuật ít xâm lấn nhất cho các bệnh lý ống tiêu hóa. Hiện tại, TS. BS Đỗ Minh Hùng là Giám đốcTrung tâm Nội soi và Phẫu thuật Nội soi Tiêu hóa – Bệnh viện Đa khoa MedicalCare, Đà Nẵng.
+# THÀNH VIÊN TỔ CHỨC
+- Hội Ngoại khoa và Hội Phẫu thuật nội soi Việt Nam
+# CÔNG TRÌNH NGHIÊN CỨU
+- Đỗ Minh Hùng (2005): Đánh giá hiệu quả điều trị bệnh lý co thắt tâm vị – thực quản bằng phương pháp nong bóng hơi Rigiflex (đề tài cấp cơ sở, luận văn tốt nghiệp cao học 2002)
+- Dương Văn Hải, Đỗ Minh Hùng, Văn Tần (1996): Sơ kết 2 năm điều trị ngoại khoa ung thư đường mật chính. Sách Khoa học Kỹ thuật bệnh viện Bình Dân số 8. Trang 32-47
+- Dương Văn Hải, Đỗ Minh Hùng, Văn Tần (1996): Sơ kết 2 năm điều trị ngoại khoa ung thư túi mật. Sách Khoa học Kỹ thuật bệnh viện Bình Dân số 8. Trang 106-108
+- Phạm Xuân Hội, Nguyễn Ngọc Tuấn, Bùi Mạnh Côn, Đỗ Minh Hùng, Nguyễn An, Lê Thành Hiệp (1998): Điều trị cấp cứu cầm máu các ổ loét dạ dày tá tràng bằng phương pháp chích Polidocanol + Adrenalin qua nội soi. Sách Khoa học Kỹ thuật bệnh viện Bình Dân số 9. Trang 61-69
+- Phạm Xuân Hội, Nguyễn Ngọc Tuấn, Lê Thị Khen, La Chí Hải, Bùi Mạnh Côn, Đỗ Minh Hùng, Lê Thành Hiệp (1998): Nhận xét sơ bộ tình hình nhiễm Helicobacter Pylori ở bệnh nhân soi dạ dày (100 trường hợp). Sách Khoa học Kỹ thuật bệnh viện Bình Dân số 9. Trang 195-200
+- Nguyễn Ngọc Tuấn, Phạm Xuân Hội, Lê Quang Quốc Ánh, Châu Quốc Sử, Đỗ Minh Hùng (2000): Điều trị nội soi xuất huyết tiêu hóa do vỡ dãn tĩnh mạch thực quản. Sách Khoa học Kỹ thuật bệnh viện Bình Dân số 10. Trang 163-168
+- Đỗ Minh Hùng, Đỗ Bá Hùng, Hồ Ngọc Quế (2006): Đánh giá hiệu quả điều trị bệnh lý co thắt tâm vị -thực quản bằng phương pháp nong bóng hơi Rigiflex. Sách Y học TP. HCM, phụ bản hội nghị bệnh viện Bình Dân. Trang 297-305
+- Đỗ Minh Hùng, Nguyễn Cao Cương, Trần Trung Hiếu (2009): Phẫu thuật nội soi cắt nang ống mật chủ ở người lớn. Nhân 3 trường hợp. Sách Y học thực hành TP. HCM – 2009
+- Nguyễn Phúc Minh, Đỗ Minh Hùng, Nguyễn Mạnh Dũng, Hoàng Vĩnh Chúc, Lê Quang Nghĩa (2010): Kết quả cắt đại tràng qua nội soi ổ bụng. Sách Y học TP. HCM, phụ bản hội nghị bệnh viện Bình Dân. Trang 247-249
+- Nguyễn Mạnh Dũng, Nguyễn Phúc Minh, Đỗ Minh Hùng, Hoàng Vĩnh Chúc, Lê Quang Nghĩa (2010): Kết quả điều trị ung thư trực tràng tại bệnh viện Bình Dân. Sách Y học TP. HCM, phụ bản hội nghị bệnh viện Bình Dân. Trang 250-252
+- Đỗ Minh Hùng, Nguyễn Cao Cương, Trần Trung Hiếu (2010): Phẫu thuật nội soi cắt nang ống mật chủ ở người lớn. Nhân 3 trường hợp. Sách Y học TP. HCM, phụ bản hội nghị bệnh viện Bình Dân. Trang 310-314
+- Trần Trung Hiếu, Đỗ Minh Hùng, Nguyễn Cao Cương, Lương Thanh Tùng (2010): Phẫu thuật nội soi điều trị sỏi ống mật chủ. Sách Y học TP. HCM, phụ bản hội nghị bệnh viện Bình Dân. Trang 374-380
+- Dương Văn Hải, Đỗ Minh Hùng, Văn Tần (2010): Đặc điểm lâm sàng và chỉ định phẫu thuật các tổn thương dạng polyp của túi mật. Sách Y học TP. HCM, phụ bản hội nghị bệnh viện Bình Dân. Trang 381-387
+- Polypoid Lessions of The Gallbladder: Clinical Characteristics And Operative Indications – Vienamese Journal of Hepatology 2010
+- Do Minh Hung: ELSA meeting 2010. Laparoscopic Resection of Adult Choledochal Cyst.
+- Đỗ Minh Hùng, Dương Bá Lập (2012): Cắt dạ dày bán phần nạo hạch với phẫu thuật nội soi hỗ trợ điều trị ung thư dạ dày tiến triển. Sách Y học TP. HCM, phụ bản hội nghị bệnh viện Bình Dân. Trang 129-136
+- Đỗ Minh Hùng, Nguyễn Phúc Minh, Trần Trung Hiếu (2012): Phẫu thuật nội soi cắt nang ống mật chủ ở người lớn. Sách Y học TP. HCM, phụ bản hội nghị bệnh viện Bình Dân. Trang 77-83
+- Đỗ Minh Hùng, Dương Bá Lập (2012): Phẫu thuật cắt dạ dày bán phần với nội soi hỗ trợ điều trị ung thư dạ dày tiến triển. Phẫu thuật nội soi và nội soi Việt Nam, Hội nghị khoa học ngoại khoa toàn quốc, số đặc biệt, tập 2, số 1. Trang 53-59
+- Đỗ Minh Hùng, Nguyễn Phúc Minh (2012): Phẫu thuật nội soi cắt nang ống mật chủ ở người lớn – nối ống gan hỗng tràng Roux-en-Y. Phẫu thuật nội soi và nội soi Việt Nam, Hội nghị khoa học ngoại khoa toàn quốc, số đặc biệt, tập 2, số 2. Trang 55-60
+- Dương Bá Lập, Đỗ Minh Hùng (2012): Phẫu thuật nội soi cắt đại tràng qua một vết rạch da. Đề tài nghiên cứu tại bệnh viện Bình Dân.
+- Đỗ Minh Hùng (2013): Biến chứng sớm của phẫu thuật nội soi cắt nang ống mật chủ ở người lớn. Báo cáo hội nghị Nội soi và Phẫu thuật nội soi toàn quốc tại Cần Thơ.
+- Đỗ Minh Hùng (2013): Những điểm kỹ thuật của phẫu thuật nội soi cắt nang ống mật chủ ở người lớn. Báo cáo hội nghị Nội soi và Phẫu thuật nội soi toàn quốc tại Cần Thơ.
+- Đỗ Minh Hùng, Dương Bá Lập, Phan Thanh Tuấn, Vũ Ngọc Anh Tuấn (2013): Kết quả phẫu thuật cắt dạ dày bán phần với nội soi hỗ trợ nạo vét hạch D2 điều trị ung thư dạ dày tiến triển. Báo cáo hội nghị Nội soi và Phẫu thuật nội soi toàn quốc tại Cần Thơ.
+- Đỗ Minh Hùng, Dương Bá Lập (2013): U tế bào thần kinh Schwannoma ở thực quản: Báo cáo 1 trường hợp phẫu thuật nội soi lồng ngực hỗ trợ. Báo cáo hội nghị Nội soi và Phẫu thuật nội soi toàn quốc tại Cần Thơ.
+- Đỗ Minh Hùng (2013): Những điểm kỹ thuật của phẫu thuật nội soi cắt nang ống mật chủ ở người lớn. Y học TP. Hồ Chí Minh, 7 (6): 304-310.
+- Đỗ Minh Hùng (2013): Biến chứng sớm của phẫu thuật nội soi cắt nang ống mật chủ ở người lớn. Y học TP. Hồ Chí Minh, 7 (6): 311-315.
+- Đỗ Minh Hùng, Dương Bá Lập, Phan Thanh Tuấn (2015): Phẫu thuật nội soi điều trị u vách thực quản. Báo cáo hội nghị Nội soi và Phẫu thuật nội soi toàn quốc tại Huế.
+- Đỗ Minh Hùng, Phan Thanh Tuấn, Nguyễn Phú Hữu, Trần Văn Minh Tuấn, Trần Đỗ Anh Vũ (2015): Kết quả sớm phẫu thuật nội soi ngực bụng cắt thực quản nạo hạch hai vùng với tư thế nằm sấp. Báo cáo hội nghị Nội soi và Phẫu thuật nội soi toàn quốc tại Huế.
+- Đỗ Minh Hùng, Dương Bá Lập, Phan Thanh Tuấn, Nguyễn Phú Hữu, Trần Văn Minh Tuấn, Vũ Ngọc Anh Tuấn (2015): Kết quả phẫu thuật cắt dạ dày bán phần với nội soi hỗ trợ nạo vét hạch D2 điều trị ung thư dạ dày tiến triển. Báo cáo hội nghị Nội soi và Phẫu thuật nội soi toàn quốc tại Huế.
+- Đỗ Minh Hùng (2015): Phẫu thuật nội soi tạo hình lại miệng nối ống gan – hỗng tràng vì hẹp sau cắt nang ống mật chủ nội soi: Báo cáo một trường hợp. Báo cáo hội nghị Nội soi và Phẫu thuật nội soi toàn quốc tại Huế.
+- Đỗ Minh Hùng, Phan Thanh Tuấn (2016): Kết quả bước đầu điều trị thoát vị khe thực quản bằng phẫu thuật nội soi. Báo cáo khoa học tại bệnh viện Bình Dân.
+- Trần Đỗ Anh Vũ, Đỗ Minh Hùng (2016): Hiệu quả của bơm CO2 áp lực thấp vào khoang màng phổi kèm thông khí hai phổi trong phẫu thuật cắt thực quản nội soi lồng ngực tư thế nằm sấp. Báo cáo khoa học tại bệnh viện Bình Dân.
+# QUÁ TRÌNH ĐÀO TẠO
+- 1994: Bác sĩ Y khoa hệ dài hạn, chuyên ngành đa khoa, Đại học Y Dược TP. HCM
+- 2004: Thạc sĩ Y học, chuyên ngành Ngoại tổng quát, Đại học Y Dược TP. HCM
+- 2015: Tiến sĩ Y học, chuyên ngành Ngoại Tiêu hóa, Đại học Y Dược TP. HCM
+- 2006: Tham gia lớp tập huấn phẫu thuật nội soi đại trực tràng tại bệnh viện Chợ Rẫy
+- 2007: Tham gia khóa huấn luyện phẫu thuật nội soi điều trị béo phì tại National University Hospital Singapore
+- 2008: Tham gia lớp huấn luyện phẫu thuật nội soi gan mật nâng cao tại bệnh viện Đại học Y Dược TP. HCM
+- 2012: Tham gia lớp huấn luyện phẫu thuật nội soi cắt đại trực tràng tại Center of Excellent Advanced Laparoscopic Colorectal Surgery, Đài Loan
+- 2017: Tham gia tập huấn phẫu thuật cắt trĩ bằng laser tại Pondok Indah Puri Indah hospital, Indonesia
+- 2018: Tham gia học tập tại Joshep’s Hospital and Dignity health St. Joshep’s Hospital and Medical Center, đặc biệt về lĩnh vực béo phì và chuyển hóa
+- 2018: Tham gia tập huấn phẫu thuật nội soi cắt tuyến giáp qua ngã miệng tại Police General Hospital, Bangkok, Thailand
+- Tham gia nhiều hội nghị ngoại khoa về nội soi và phẫu thuật nội soi trong nước và thế giới
+# KINH NGHIỆM CÔNG TÁC
+- 1995 – 2007: Bác sĩ nội soi tiêu hóa, Bác sĩ điều trị khoa Ngoại Gan Mật, bệnh viện Bình Dân
+- 2007 – 2009: Bác sĩ điều trị khoa ngoại kỹ thuật cao, bệnh viện Bình Dân
+- 2009 – 2010: Bác sĩ điều trị khoa ngoại Tiêu Hóa, bệnh viện Bình Dân
+- 2010 – 2014: Phó khoa ngoại Tiêu hóa, bệnh viện Bình Dân
+- 2014 – 7/2016: Phó trưởng khoa điều hành khoa ngoại Tiêu hóa, bệnh viện Bình Dân
+- 8/2016 – 1/2018: Trưởng khoa Ngoại Tổng quát – Lồng ngực – Mạch máu, bệnh viện FV
+- 3/2018 – 7/2019: Trưởng khoa Ngoại Tổng hợp, bệnh viện Quốc tế Mỹ
+- 8/2019 – 7/2020: Trưởng khoa Ngoại Tổng hợp, bệnh viện Vinmec Central Park, Phó trưởng tiểu ban Ngoại, hệ thống bệnh viện Vinmec
+- 8/2020 – nay: Giám đốc Trung tâm Nội soi – Phẫu thuật Nội soi Tiêu hóa, bệnh viện đa khoa MedicalCare, Đà Nẵng
+- Cựu giáo vụ, giảng viên chính của Trung tâm huấn luyện phẫu thuật nội soi Ngoại tổng quát bệnh viện Bình Dân
+- Cựu giảng viên thỉnh giảng bộ môn Ngoại đại học Y khoa Phạm Ngọc Thạch
+- 👤 TTƯT. TS. BS PHẠM HỮU TÙNG
+- 🔗 Chi tiết bác sĩ: https://tamanhhospital.vn/chuyen-gia/pham-huu-tung/
+# GIỚI THIỆU
+- TTƯT. TS. BS Phạm Hữu Tùng– Phó Giám ĐốcTrung tâm Nội soi và Phẫu thuật nội soi tiêu hóaBệnh viện Đa khoa MedicalCare, Đà Nẵng
+- Tốt nghiệp bác sĩ đa khoa tại Đại học Y Dược TP HCM, năm 2001, bác sĩ Tùng về công tác tại khoa Nội soi, Bệnh viện Chợ Rẫy và gắn bó với đơn vị này từ đó đến 2022. Nhờ sự năng nổ nhiệt tình trong công việc và khả năng chuyên môn vững vàng, chỉ sau 2 năm công tác, ông được bổ nhiệm làm Phó trưởng khoa Nội soi. Quá trình công tác, ông đã hoàn thành chương trình Thạc sĩ chuyên ngành Nội tổng quát năm 2008 và chương trình tiến sĩ chuyên ngành Nội khoa năm 2018.
+- Sau nhiều năm gắn bó với khoa Nội soi – Bệnh viện Chợ Rẫy, TTƯT. TS. BS Phạm Hữu Tùng hiện đang tiếp tục công tác tại Trung tâm Nội soi & Phẫu thuật nội soi tiêu hóa, Bệnh viện Đa Khoa MedicalCare, Đà Nẵngvới vai trò Trưởng khoa Nội soi tiêu hóa và hiện tại là Phó Giám đốc của Trung tâm.
+- Với châm ngôn sống và làm việc: “Phải đam mê thì mới thành công”, bác sĩ Phạm Hữu Tùng đã cống hiến cho nghề y bằng cả tấm lòng nhiệt huyết và niềm đam mê nghề nghiệp. Trong suốt những năm công tác, bác sĩ Phạm Hữu Tùng đã nhận được nhiều bằng khen, danh hiệu cao quý do UBND tỉnh, Bộ Y Tế, Thủ tướng chính phủ và Nhà nước phong tặng.
+# LĨNH VỰC CHUYÊN MÔN
+- TS. BS Phạm Hữu Tùng có hơn 20 năm kinh nghiệm trong Tiêu hóa và nội soi tiêu hóa. Tham gia học tập và tập huấn tại các nước như Nhật Bản, Hàn Quốc, Thái Lan, Singapore…và nhiều hội nghị chuyên ngành về nội soi tiêu hóa.
+- Thực hiện nhiều kỹ thuật nội soi trong chẩn đoán và điều trị bệnh lý đường tiêu hóa gan mật tụy như:
+- – Nội soi tầm soát, chẩn đoán và điều trị các bệnh lý đường tiêu hóa, gan – mật – tụy– Thực hiện các thủ thuật nội soi điều trị: Nong hẹp đường tiêu hóa, cắt polyp đường tiêu hóa, cắt hớt niêm mạc ống tiêu hóa (ESD), thắt tĩnh mạch thực quản, chích Histoacryl điều trị giãn tĩnh mạch tâm – phình vị, mở thông dạ dày ra da, chích cầm máu, kẹp clip cầm máu, đốt cầm máu, đốt APC…– Nội soi mật tụy ngược dòng (ERCP): Lấy sỏi, tán sỏi đường mật, đặt stent đường mật-tụy, spyGlas…– Nội soi siêu âm (EUS) đánh giá các tổn thương u dưới niêm, các bệnh lý mật tụy, chọc hút kim nhỏ (FNA), dẫn lưu nang giả tụy, nang tụy hoại tử…
+# DANH HIỆU, GIẢI THƯỞNG
+- Bản thân luôn nâng cao tinh thần học hỏi, ứng dụng những kỹ thuật mới cùng đồng nghiệp nâng cao chất lượng y tế tại bệnh viện, đồng thời trực tiếp là chủ nhiệm của nhiều đề tài khoa học cấp cơ sở và tham gia, cộng sự nhiều công trình nghiên cứu khác.
+- Cùng với thành tích của đơn vị, TS. BS Phạm Hữu Tùngđã vinh dự được nhận bằng khen của Thủ tướng Chính phủ năm 2011; của Bộ Y tế năm 2008, 2010, 2013, 2015, 2016, 2018; của UBND tỉnh Bạc Liêu năm 2011, UBND tỉnh Cà Mau năm 2015, UBND Thành phố Hồ Chí Minh năm 2018. Ngoài ra, ông được công nhận là “Chiến sĩ thi đua cấp Bộ” năm 2010, 2018 và có nhiều năm là “Chiến sĩ thi đua cấp cơ sở”. Đặc biệt, năm 2017, ông là một trong các cá nhân tiêu biểu của Bệnh viện Chợ Rẫy được Nhà nước phong tặng danh hiệu cao quý “Thầy thuốc Ưu tú”.
+# QUÁ TRÌNH ĐÀO TẠO
+- 1. Bằng cấp
+- – Bác sĩ đa khoa tổng quát tạiTrường Đại học Y dược TP. HCM(1999)– Thạc sĩ Y học nội khoa tại Trường Đại học Y dược TP. HCM (2008)– Tiến sĩ Y học nội khoa tạiHọc viện Quân Y(2018)
+- 2. Chứng chỉ
+- – Lâm sàng Nội tiêu hóa tại Bệnh viện Chợ Rẫy (2000)– Nội soi siêu âm tại Hội Nội soi Châu Á (2009-2019)– Nội soi Mật tụy ngược dòng Bệnh viện Chợ Rẫy(2016)– Nội soi điều trị tại Bệnh viện Chợ Rẫy (2017)– Nội soi đại tràng tại Bệnh viện Chợ Rẫy (2017)– Nội soi dạ dày – tá tràng tại Bệnh viện Chợ Rẫy (2000)
+# KINH NGHIỆM CÔNG TÁC
+- Hơn 20 năm làm việc ở vị trí Phó khoa tại Khoa Nội soi – Bệnh viện Chợ rẫy
+- 👤 BS. CKII NGUYỄN QUỐC THÁI
+- 🔗 Chi tiết bác sĩ: https://tamanhhospital.vn/chuyen-gia/nguyen-quoc-thai/
+# GIỚI THIỆU
+- BS. CKII Nguyễn Quốc Tháilà một trong những chuyên gia đầu ngành trong lĩnh vực Ngoại tổng quát và Phẫu thuật Nội soi Tiêu hóa tại Việt Nam. Với nền tảng chuyên môn vững chắc và bề dày kinh nghiệm thực tiễn, bác sĩ Quốc Thái đã không ngừng nâng cao chất lượng điều trị, tiên phong trong áp dụng các kỹ thuật hiện đại, mang lại hiệu quả điều trị tối ưu cho nhiều người bệnh mắc các bệnh lý tiêu hóa từ nhẹ đến phức tạp.
+- Sau khi tốt nghiệp Bác sĩ Đa khoa tại Đại học Y Dược TP. HCM, bác sĩ Quốc Thái tiếp tục hoàn thành các chương trình đào tạo chuyên sâu như Bác sĩ Nội trú, Chuyên khoa I và Chuyên khoa II – Ngoại tổng quát tại trường. Ngoài ra, bác sĩ Quốc Thái còn nhận nhiều chứng chỉ uy tín trong nước và quốc tế, khẳng định tay nghề vững chắc và kiến thức chuyên sâu trong lĩnh vực Ngoại khoa như: Chứng chỉ Cắt tuyến giáp mổ mở và nội soi do Bệnh viện Nội tiết Trung Ương cấp (2011); Chứng chỉ quốc tế về Phẫu thuật Nội soi Tiêu hóa thuộc Sáng kiến “Vành đai và Con đường” tại Bệnh viện Xiangya, Đại học Trung Nam, Trung Quốc (2024)…
+- Với sự tận tâm và nỗ lực không ngừng, bác sĩ Quốc Thái đã nhận được danh hiệu “Chiến sĩ thi đua cấp cơ sở” trong hai năm liên tiếp 2021 và 2022 do UBND TP. HCM trao tặng (2023). Bên cạnh đó, bác sĩ Quốc Thái còn có nhiều đóng góp lớn trong nghiên cứu khoa học, nổi bật là các chủ đề như: Tai biến và biến chứng sớm phẫu thuật nội soi cắt nối máy điều trị ung thư trực tràng và Kết quả sớm của phẫu thuật cắt dạ dày do ung thư được nuôi ăn sớm đường miệng.
+- Trước khi đảm nhiệm vai trò Trưởng khoa Ngoại tiêu hóa tại Bệnh viện Đa khoa MedicalCare, Đà Nẵng, bác sĩ Quốc Thái từng công tác tại các bệnh viện quốc tế uy tín như Bệnh viện Pháp Việt (FV) và Bệnh viện Vinmec Central Park. Tại đây, bác sĩ Quốc Thái đã trực tiếp thăm khám và điều trị, thực hiện nhiều ca phẫu thuật khó, tìm lại sức khỏe và cải thiện chất lượng sống cho nhiều người bệnh.
+- Hiện, BS. CKII Nguyễn Quốc Thái là Trưởng khoa Ngoại tiêu hóa, Trung tâm Nội soi và Phẫu thuật Nội soi Tiêu hóa, Bệnh viện Đa khoa MedicalCare, Đà Nẵng.
+# LĨNH VỰC CHUYÊN MÔN
+- Ngoại tiêu hóa
+# DANH HIỆU, GIẢI THƯỞNG
+- Chiến sĩ thi đua cấp cơ sở 02 năm liên tục 2021 & 2022, UBND TP. HCM (2023)
+# CÔNG TRÌNH NGHIÊN CỨU
+- Tai biến và biến chứng sớm phẫu thuật nội soi cắt nối máy điều trị ung thư trực tràng – Luận văn tốt nghiệp Nội trú 2006
+- Kết quả sớm của phẫu thuật cắt dạ dày do ung thư được nuôi ăn sớm đường miệng – Luận án tốt nghiệp chuyên khoa II
+# QUÁ TRÌNH ĐÀO TẠO
+- 1. Quá trình đào tạo
+- 2006: Bác sĩ Đa khoa, Đại học Y Dược TP. HCM
+- 2009: Bác sĩ nội trú, Chuyên khoa I – Ngoại tổng quát, Đại học Y Dược TP. HCM
+- 2017: Chuyên khoa II – Ngoại tổng quát, Đại học Y Dược TP. HCM
+- 2. Chứng chỉ chuyên môn
+- Chứng chỉ Cắt tuyến giáp mổ mở và nội soi, Bệnh viện Nội tiết Trung Ương (2011)
+- Chứng chỉ quốc tế về Phẫu thuật Nội soi Tiêu hóa thuộc sáng kiến “Vành đai và con đường”, Bệnh viện Xiangya, Đại học Trung Nam, Trung Quốc (2024)
+# KINH NGHIỆM CÔNG TÁC
+- 2010 – 2017: Bác sĩ Ngoại tổng quát, Bệnh viện Pháp Việt TP. HCM
+- 2017 – 2020: Bác sĩ Ngoại tổng quát, Bệnh viện Vinmec Central Park TP. HCM
+- 2020 – nay: Trưởng khoa Ngoại tiêu hóa, Bệnh viện Đa khoa MedicalCare, Đà Nẵng
+- 👤 TS. BS PHẠM CÔNG KHÁNH
+- 🔗 Chi tiết bác sĩ: https://tamanhhospital.vn/chuyen-gia/pham-cong-khanh/
+# GIỚI THIỆU
+- Sau khi tốt nghiệp Đại học Y Dược Cần Thơ (2004), Bác sĩ Phạm Công Khánh tiếp tục tham gia đào tạo Bác sĩ nội trú và Bác sĩ Chuyên khoa I (2008), Thạc sĩ Y học (2012), Tiến sĩ Y học (2021) tại trường Đại học Y Dược TP. HCM. Hiện, TS. BS Phạm Công Khánhlà một trong những chuyên gia hàng đầu tại Việt Nam với 18 năm kinh nghiệm trong lĩnh vực Tiêu hóa, đặc biệt về phẫu thuật nội soi tiêu hóa – gan mật, nội soi tiêu hóa chẩn đoán & can thiệp, ung thư sớm đường tiêu hóa, cắt dưới niêm mạc – ESD, ERCP, nội soi siêu âm – EUS, POEM…
+- Không chỉ hoàn thành tốt trong công việc, Tiến sĩ Phạm Công Khánh dành nhiều thời gian để học tập, đạt hơn 50 chứng chỉ chuyên ngành tại nhiều môi trường đào tạo hàng đầu trong nước và quốc tế như Bệnh viện Đại học Y Dược TP. HCM, Bệnh viện Chợ Rẫy, Đại học Y khoa Oita – Nhật Bản, Đại học Y khoa Nagoya – Nhật Bản, Bệnh viện Đại học Y khoa Chulalongkorn – Thái Lan, Thabo Crown Prince Hospital – Thái Lan, Medical Korea Academy – Hàn Quốc, AIG Hospitals – Ấn Độ…
+- Với kinh nghiệm chuyên môn cao và không ngừng cập nhật những tiến bộ trong lĩnh vực Tiêu hóa trên thế giới, Tiến sĩ Phạm Công Khánh đã giúp cho nhiều bệnh nhân sớm tiếp cận những kỹ thuật, phương pháp mới, từ đó tối ưu hóa phác đồ điều trị và góp phần cho sự phát triển của nền Y học Việt Nam. Hiện nay, Tiến sĩ Phạm Công Khánh là Bác sĩ Nội soi duy nhất tại Việt Nam được đào tạo chương trình Fellowship Quốc tế về kỹ thuật siêu âm nội soi (EUS) mang lại nhiều giá trị quan trọng trong việc chẩn đoán và điều trị bệnh lý đường tiêu hoá và gan – mật – tuỵ.
+- Tiến sĩ Phạm Công Khánh tham gia giảng dạy, nghiên cứu, viết sách nhằm thúc đẩy cho sự tiến bộ của nền giáo dục y khoa nước nhà, khẳng định vị thế của Việt Nam trước bạn bè quốc tế. Đến nay, Tiến sĩ đã có 30 báo cáo nghiên cứu khoa học tại các hội nghị chuyên ngành nội soi lớn tại Việt Nam, Hàn Quốc, Trung Quốc, Thái Lan… với vai trò chủ tọa và báo cáo viên. Hơn 15 đề tài được đăng tải trên các Tạp chí chuyên ngành như Tạp chí Y học TP. HCM, Tạp chí Y Dược học Cần Thơ, Tạp chí Y Dược học… trong đó, 03 báo cáo đăng tải trên các Tạp chí quốc tế uy tín Endoscopy, Clinical Endoscopy, HPB. 03 quyển sách về ung thư đại tràng (2018), ung thư trực tràng (2020), chẩn đoán & điều trị ung sớm đường tiêu hóa trên nội soi (dự kiến 2023) công bố và lưu hành bởi Nhà xuất bản Y Học.
+- Tiến sĩ Phạm Công Khánh từng đảm nhiệm vị trí Phó Trưởng khoa Nội soi tại Bệnh viện Đại học Y Dược TP. HCM từ năm 2015 và bác sĩ tham vấn của nhiều bệnh viện lớn tại TP. HCM như Bệnh Viện Quân y 7A, Bệnh viện Đại học Y Dược Hoàng Anh Gia Lai, Bệnh viện Hoàn Mỹ Sài Gòn… đồng thời là thành viên các Hiệp hội, Tổ chức về Nội soi tiêu hóa như Tổ chức Nội soi thế giới (WEO), Hoa Kỳ, Thái Lan và Việt Nam.
+- Hiện, TS. BS Phạm Công Khánh là Trưởng khoa Gan – Mật – Tụy, Trung tâm Nội soi và Phẫu thuật nội soi tiêu hóa, Bệnh viện Đa khoa MedicalCare, Đà Nẵng.
+# THÀNH VIÊN HIỆP HỘI
+- Thành viên Hội Nội soi Hoa Kỳ (ASGE – American Society for Gastrointestinal Endoscopy) (2014)
+- Thành viên Hội Ngoại khoa Việt Nam (2017)
+- Thành viên Hội Nội soi và Phẫu thuật nội soi Việt Nam (2018)
+- Thành viên Hội Nội soi Thái Lan (TAGE – Thai Association for Gastrointestinal Endoscopy) (2018)
+- Ủy viên BCH Liên chi Hội Nội soi tiêu hóa Việt Nam (VFDE) (2022)
+- Thành viên Tổ chức Nội soi thế giới (WEO – World Endoscopy Organization) (2022)
+# CHUYÊN KHOA
+- Ngoại tiêu hóa – Gan mật
+- Nội soi tiêu hóa chẩn đoán và can thiệp
+# DANH HIỆU, GIẢI THƯỞNG
+- Best oral presentation, KDDW (2019)
+- Thành tích xuất sắc trong công tác phòng, chống dịch Covid-19 tại TP. HCM, UBND TP. HCM (2021)
+# CÔNG TRÌNH NGHIÊN CỨU
+- Nghiên cứu đặc điểm lâm sàng, giá trị của chẩn đoán hình ảnh và phương pháp phẫu thuật điều trị u nhầy ruột thừa, Tạp chí Y học TP. HCM (2008)
+- Đánh giá tính khả thi và hiệu quả của phẫu thuật cắt túi mật nội soi ngả âm đạo phối hợp ngả bụng tối thiểu, Tạp chí Y học TP. HCM (2010)
+- Phẫu thuật nội soi điều trị GIST dạ dày: kết quả sớm, Tạp chí Y học TP. HCM (2011)
+- Phẫu thuật nội soi điều trị Ung thư trực tràng: kết quả 3 năm, Tạp chí Y học TP. HCM (2011)
+- Khảo sát kết quả của chụp cắt lớp điện toán vùng bụng đánh giá giai đoạn Ung thư dạ dày, Tạp chí Y học TP. HCM (2012)
+- Phẫu thuật nội soi cắt tuyến giáp điều trị bướu giáp nhân lành tính: 20 trường hợp đầu tiên, Tạp chí Y học TP. HCM (2012)
+- Vai trò của cộng hưởng từ trong đánh giá giai đoạn Ung thư trực tràng, Tạp chí Y học TP. HCM (2012)
+- Đánh giá kết quả của chụp cắt lớp điện toán trong đánh giá nguyên nhân đau bụng cấp, Tạp chí Y học TP. HCM (2013)
+- Hiệu quả của nội soi mật tụy ngược dòng với gây mê nội khí quản trong điều trị sỏi ống mật chủ ở người cao tuổi, Tạp chí Y học TP. HCM (2014)
+- Cường cận giáp nguyên phát: đặc điểm bệnh lý, kết quả phẫu thuật điều trị, Tạp chí Y học TP. HCM (2017)
+- U sau phúc mạc: đặc điểm bệnh lý, kết quả phẫu thuật, Tạp chí Y học TP. HCM (2017)Nhân 1 trường hợp có khí tự nhiên trong khoang phúc mạc, Tạp chí Y học TP. HCM (2017)
+- Đánh giá kết quả nội soi mật tụy ngược dòng điều trị viêm đường mật cấp mức độ vừa và nặng, Tạp chí Y học TP. HCM (2017)
+- Đánh giá kết quả nội soi mật tụy ngược dòng điều trị hẹp đường mật, Tạp chí Y học TP. HCM (2017)
+- Cộng hưởng từ đánh giá giai đoạn ung thư trực tràng đoạn giữa và dưới được phẫu thuật triệt để, Tạp chí Y Dược học Cần Thơ (2017)
+- Mối liên quan giữa cộng hưởng từ trực tràng với đại thể và vi thể của ung thư trực tràng đoạn giữa và dưới được phẫu thuật triệt để, Tạp chí Y Dược học Cần Thơ (2020)
+- The practical approach to acute cholecystitis: Early cholecystectomy or alternatives?, Clinical Endoscopy (2020)
+- Trisegmantal biliary drainage in malignant hilar biliary obstruction by combination of ERCP and EUS-BD (CERES) including EUS-HGS and EUS-HDS, Endoscopy (2020)
+- EUS-FNB for organoids development of pancreas tissue: A pilot study, EUS SUMMIT 2019, Asan Medical Center, Seoul, Korea (2019)
+- EUS-guided pancreatic ductal adenocarcinoma organoid creation, KDDW 2019, Seoul, Korea (2019)
+- Consensus guidelines on the role of cholangioscopy to diagnose indeterminate biliary stricture, HPB (2022)
+- Báo cáo trong và ngoài nước:
+- Mid-term results of laparoscopic intersphincteric resection for very low rectal cancer, ELSA (2009)
+- EUS-FNB for organoids development of pancreas tissue: A pilot study, EUS SUMMIT, Asan Medical Center, Seoul, Korea (2019)
+- EUS-guided pancreatic ductal adenocarcinoma organoid creation, KDDW, Seoul, Korea (2019)
+- Các phương pháp làm tăng tỉ lệ phát hiện polyp đại tràng, VFDE (2022)
+- Nội soi chẩn đoán và điều trị ung thư sớm đường tiêu hóa tại Việt Nam: Thực trạng và giải pháp, Bệnh viện Hoàn Mỹ (2022)
+- Detection and management early gastric cancer in Viet Nam, First Global Conference Live stream, Vedkang, China (2022)
+- Laterally spreading tumor: Evaluation and Management, First 101 Laparo-Endoscopic Conference 2022, Thailand (2022)
+- Vai trò của nội soi siêu âm trong dẫn lưu túi mật, VGES (2022)
+- Điều trị tổn thương LST đại tràng bằng kỹ thuật cắt toàn thành đại tràng qua nội soi: Nhân 3 trường hợp, Hội nghị tiêu hóa toàn quốc (2022)
+- Tham gia đóng góp các đầu sách chuyên ngành
+- Ung thư đại tràng (chủ biên: PGS. TS Nguyễn Hoàng Bắc), Nhà xuất bản Y học (2018)
+- Ung thư trực tràng (chủ biên: TS. BS Nguyễn Hữu Thịnh), Nhà xuất bản Y học (2020)
+- Chẩn đoán và điều trị ung thư sớm đường tiêu hóa trên nội soi (sách biên dịch), Nhà xuất bản Y học (dự kiến 2023)
+# QUÁ TRÌNH ĐÀO TẠO
+- 1. Quá trình đào tạo
+- 1998 – 2004: Bác sĩ Y khoa, Đại học Y Dược Cần Thơ
+- 2005 – 2008: Bác sĩ nội trú Ngoại tổng quát, Đại học Y Dược TP. HCM
+- 2005 – 2008: Bác sĩ Chuyên khoa I Ngoại tổng quát, Đại học Y Dược TP. HCM
+- 2010 – 2012: Thạc sĩ Y học, Đại học Y Dược TP. HCM
+- 2014 – 2021: Tiến sĩ Y học, Đại học Y Dược TP. HCM
+- 2. Chứng chỉ chuyên môn
+- 2.1 Chứng chỉ Ngoại tiêu hóa – Gan mật
+- Điều trị thoát vị, Bệnh viện Đại học Y Dược TP. HCM (2008)
+- Phẫu thuật nội soi nâng cao: sỏi đường mật, Bệnh viện Đại học Y Dược TP. HCM (2008)
+- Phẫu thuật nội soi cắt tuyến giáp, Viện nội tiết Trung ương (2010)
+- Chẩn đoán và điều trị ung thư tế bào gan, Bệnh viện Đại học Y Dược TP. HCM (2011)
+- Ung thư đại trực tràng: quan điểm nạo hạch và điều trị đa mô thức, Bệnh viện Đại học Y Dược TP. HCM (2016)
+- Chẩn đoán và điều trị ung thư đại trực tràng, Bệnh viện Đại học Y Dược TP. HCM (2017)
+- Điều trị ung thư đại trực tràng, Bệnh viện Đại học Y Dược TP. HCM (2018)
+- Ung thư trực tràng: Tiến bộ trong chẩn đoán và điều trị, Bệnh viện Đại học Y Dược TP. HCM (2020)
+- 2.2 Chứng chỉ Nội soi chẩn đoán và can thiệp
+- Nội soi dạ dày, Bệnh viện Đại học Y Dược TP. HCM (2008)
+- Nội soi đại tràng và nội soi điều trị, Bệnh viện Đại học Y Dược TP. HCM (2008)
+- Nội soi tiêu hóa, APSDE (2010)
+- Advanced therapy endoscopy, REI Vietnam (2011)
+- Train the Trainer in Colonoscopy, AIG, Hyderabad, India (2013)
+- Nội soi mật tụy ngược dòng, Bệnh viện Chợ Rẫy (2015)
+- Nội soi chẩn đoán và điều trị ung thư dạ dày sớm, Đại học Y Dược TP. HCM (2016)
+- Cập nhật kiến thức Nội soi chẩn đoán và điều trị ung thư dạ dày sớm, Đại học Y Dược TP. HCM (2016)
+- From Basic to advanced ERCP and EUS, APSDE – VFDE (2016)
+- ANBIG NBI, ANBIG – VFDE (2016)
+- Advances in diagnostic and therapeutic endoscopy, Nagoya University – UMC (2017)
+- Nội soi siêu âm, EUS TAP – VFDE (2017)
+- Nội soi siêu âm cơ bản, VFDE –Bệnh viện Chợ Rẫy(2018)
+- Siêu âm nội soi cơ bản, VFDE (2018)
+- Therapeutic endoscopy (POEM & ESD), APSDE (2018)
+- An toàn bức xạ, Viện ứng dụng công nghệ thông tin và bức xạ (2020)
+- 2.3 Chứng chỉ Quốc tế
+- Phẫu thuật nội soi cắt dạ dày, Đại học Y khoa Oita, Nhật Bản (2011)
+- Chẩn đoán và điều trị ung thư sớm dạ dày – đại trực tràng bằng kỹ thuật cắt dưới niêm mạc (ESD), ERCP, EUS, Đại học Y khoa Nagoya, Nhật Bản (2017)
+- Nội soi mật tụy ngược dòng, siêu âm nội soi, Bệnh viện Đại học Y khoa Chulalongkorn, Siriraj, Rajavithi, Bangkok, Thailand (2018)
+- Fellowship về siêu âm nội soi (EUS) – Hiện tại là Bác sĩ nội soi duy nhất tại Việt Nam được đào tạo chuyên sâu về kỹ thuật này, Đại học Y khoa Chulalongkorn, Bangkok, Thailand (2019)
+- Surgical skill education, Hepatobiliary and Pancreatic surgery, Medical Korea Academy (2021)
+- Surgical skill education, Gastrointestinal surgery, Medical Korea Academy (2021)
+- Surgical skill education, Colorectal surgery, Medical Korea Academy (2021)
+- Endoscopic skill education, Medical Korea Academy (2021)
+- Siêu âm nội soi can thiệp nâng cao (Advanced EUS), Thabo Crown Prince Hospital, Thabo, Nong Khai, Thailand (2022)
+- Basic Surgical skill education, Hepatobiliary and Pancreatic surgery, Medical Korea Academy (2022)
+- Advanced Surgical skill education, Hepatobiliary and Pancreatic surgery, Medical Korea Academy (2022)
+- Basic Surgical skill education, Gastrointestinal surgery, Medical Korea Academy (2022)
+- Advanced Surgical skill education, Gastrointestinal surgery, Medical Korea Academy (2022)
+- Surgical skill education, Colorectal surgery, Medical Korea Academy (2022)
+- Endoscopic skill education, Medical Korea Academy (2022)
+- 2.4 Chứng chỉ quản lý
+- Quản lý cấp trung, PACE (2014)
+- Giám đốc nhân sự (CHRO), PACE (2020)
+- Quản lý cấp phòng (tương đương quản lý cấp cao), Viện Y tế Công cộng TP. HCM (2021)
+- Quản lý bệnh viện, Đại học Y Dược TP. HCM – Sở Y tế TP. HCM (2021)
+- 2.5 Chứng chỉ Đào tạo – Nghiên cứu khoa học
+- Thực hành y học chứng cứ, Bệnh viện Đại học Y Dược TP. HCM (2008)
+- Nghiên cứu khoa học và viết dự án, Viện Karolinska (Thụy Điển) phối hợp với Đại học Y Dược TP. HCM (2010)
+- Cách viết đề cương trong nghiên cứu khoa học, Hội Y học TP. HCM (2011)
+- Cách viết bài báo khoa học, Đại học Y Dược TP. HCM (2011)
+- Phương pháp nghiên cứu khoa học, Viện Y tế Công cộng TP. HCM (2014)
+- Đào tạo giảng viên nội soi, APSDE – VFDE (2016)
+- Bồi dưỡng nghiệp vụ sư phạm, Học viện Quản lý giáo dục (2020)
+- Phương pháp giảng dạy và lượng giá lâm sàng dựa trên năng lực, Đại học Y Dược TP. HCM (2021)
+# KINH NGHIỆM CÔNG TÁC
+- 2011 – nay: Bác sĩ tham vấn Ngoại khoa và Nội soi, Bệnh viện Đại học Y Dược Hoàng Anh Gia Lai
+- 2008 – 2015: Bác sĩ điều trị, khoa Ngoại Tiêu hóa – Gan mật, Bệnh viện Đại học Y Dược TP. HCM
+- 2008 – 2015: Giảng viên Trung tâm huấn luyện Phẫu thuật nội soi (Laparoscopic surgery), Bệnh viện Đại học Y Dược TP. HCM
+- 2008 – nay: Giảng viên và quản lý chương trình đào tạo Trung tâm huấn luyện Nội soi, Bệnh viện Đại học Y Dược TP. HCM
+- 2015 – nay: Phó Trưởng khoa Nội soi, khoa Nội soi – khoa Ngoại Tiêu hóa – Gan mật, Bệnh viện Đại học Y Dược TP. HCM
+- 2018 – nay: Bác sĩ tham vấn và thực hiện kỹ thuật cao về nội soi (ESD, ERCP), Bệnh viện Hoàn Mỹ Sài Gòn
+- 2020 – nay: Bác sĩ tham vấn về Nội soi, Bệnh viện Quân Y 7A – Cục Hậu cần Quân khu 7
+- 01/2023 – nay: Bác sĩ tham vấn và thực hiện kỹ thuật cao về nội soi (ESD/ERCP) tại Bệnh viện Becamex Bình Dương.
+- 👤 THS. BS. CKII LÊ THANH QUỲNH NGÂN
+- 🔗 Chi tiết bác sĩ: https://tamanhhospital.vn/chuyen-gia/le-thanh-quynh-ngan/
+# GIỚI THIỆU
+- ThS. BS. CKII Lê Thanh Quỳnh Ngâncó 20 năm kinh nghiệm trong chẩn đoán, điều trị các bệnh lý về gan (viêm gan cấp, mạn, xơ gan, ung thư gan) và các bệnh tiêu hóa (viêm đại tràng, hội chứng ruột kích thích, nhiễm vi khuẩn HP…).
+- Bên cạnh công tác khám chữa bệnh, bác sĩ Ngân cũng thực hiện các công trình nghiên cứu, các bài báo chuyên môn đăng trên Tạp chí Y học TP. HCM. Ngoài ra, bác sĩ cũng tham gia nhiều khóa huấn luyện chuyên môn trong nước và quốc tế như khóa học về rối loạn vận động tại Thái Lan, Malaysia; đạt các chứng chỉ về nội khoa, viêm ruột mạn và tiêu hóa tại Hàn Quốc Singapore, Thái Lan và Malaysia; có nhiều bài viết đăng báo và báo cáo quốc tế…
+- Bác sĩ Ngân hiện đang đảm nhận chức vụ Trưởng khoa Nội tiêu hóa, Trung tâm Nội soi & Phẫu thuật nội soi tiêu hóa, Bệnh viện Đa Khoa MedicalCare, Đà Nẵngvà Phòng khám Đa khoa MedicalCare Quận 7.
+# LĨNH VỰC CHUYÊN MÔN
+- Chẩn đoán và điều trị các bệnh lý nội tổng quát, nội tiêu hóa như:
+- Viêm gan cấp và mạn tính, gan nhiễm mỡ, viêm gan tự miễn, xơ gan, ung thư ganTrào ngược dạ dày thực quản (GERD), xuất huyết tiêu hóa, khó tiêu chức năng, chẩn đoán và tiệt trừ HP, viêm loét dạ dày tá tràng…Hội chứng ruột kích thích (IBS), viêm đại tràng cấp và mạn tính (IBD), viêm tụy cấp và mạn tính
+- Viêm gan cấp và mạn tính, gan nhiễm mỡ, viêm gan tự miễn, xơ gan, ung thư gan
+- Trào ngược dạ dày thực quản (GERD), xuất huyết tiêu hóa, khó tiêu chức năng, chẩn đoán và tiệt trừ HP, viêm loét dạ dày tá tràng…
+- Hội chứng ruột kích thích (IBS), viêm đại tràng cấp và mạn tính (IBD), viêm tụy cấp và mạn tính
+# DANH HIỆU, GIẢI THƯỞNG
+- Chiến sĩ thi đua cấp cơ sở (nhiều năm liên tục)
+- Chiến sĩ thi đua cấp thành phố
+- Học tập và làm theo gương Chủ tịch Hồ Chí Minh
+- Giấy khen của Công đoàn ngành y tế dành cho cá nhân có thành tích tham gia chống dịch, – Phụ nữ ngành y năng động sáng tạo.
+# CÔNG TRÌNH NGHIÊN CỨU
+- Có 7 công trình nghiên cứu và bài báo được đăng trên cácTạp chí y học TP. Hồ Chí Minh, Hội Khoa học tiêu hóa Việt Nam vàHội Thầy thuốc trẻ Việt Nam.
+# QUÁ TRÌNH ĐÀO TẠO
+- Bằng cấp
+- – Thạc sĩ y học tại Đại học y dược Tp Hồ Chí Minh (2012)– Bác sĩ chuyên khoa cấp 2 tại Đại học Y Khoa Phạm Ngọc Thạch (2019)
+- Chứng chỉ
+- – Chứng chỉ Nội soi tiêu hóa; Siêu âm tổng quát; Chẩn đoán và điều trị viêm gan siêu vi B, C; Chứng chỉ điều trị xơ gan, ung thư gan, dinh dưỡng lâm sàng và các bệnh nội khoa– Huấn luyện nội khoa quốc tế của Bệnh Viện Đại Học Konyong, Hàn Quốc– Chẩn đoán và điều trị Viêm đại tràng mạn, Bệnh viện Đại học Asan, Hàn Quốc– Huấn luyện sau đại học của Bệnh viện Tan Tock Seng, Singapore
+# KINH NGHIỆM CÔNG TÁC
+- Bác sĩ Hồi sức tích cực, Bệnh viện Nhân Dân Gia Định
+- Bác sĩ điều trị khoa Nội tiêu hóa, Bệnh viện Nhân Dân Gia Định
+- Trưởng khoa điều trị Covid 19, Bệnh viện Nhân Dân Gia Định
+- Trưởng khoa Nội tiêu hóa, Bệnh viện Đa khoa MedicalCare, Đà Nẵng
+- 👤 BS. CKII VŨ NGỌC LÂM
+- 🔗 Chi tiết bác sĩ: https://tamanhhospital.vn/chuyen-gia/vu-ngoc-lam/
+# GIỚI THIỆU
+- Với hơn 30 năm kinh nghiệm trong lĩnh vực Ngoại tiêu hóa, BS. CKII Vũ Ngọc Lâmlà chuyên gia đầu ngành trong khám và điều trị các bệnh lý phức tạp về Tiêu hóa – Hậu môn Trực tràng như viêm ruột, loét dạ dày, u tiêu hóa, bệnh trĩ, nứt hậu môn, polyp và ung thư trực tràng, thoát vị bẹn, thoát vị thành bụng, chấn thương bụng…
+- BS. CKII Vũ Ngọc Lâm tốt nghiệp Bác sĩ Y Đa khoa từ Học viện Quân Y Việt Nam (1987) và tiếp tục nâng cao trình độ chuyên môn, hoàn thành chương trình đào tạo Chuyên khoa I (2002) và Chuyên khoa II (2012) tại Đại học Y Dược TP. HCM. Ngoài ra, Bác sĩ Ngọc Lâm còn đạt nhiều chứng chỉ chuyên môn quan trọng như phẫu thuật nội soi ổ bụng & đại trực tràng, phẫu thuật Longo điều trị bệnh trĩ, phẫu thuật nội soi điều trị sỏi mật…
+- Trong suốt sự nghiệp của mình, bác sĩ Ngọc Lâm đảm nhiệm nhiều chức vụ quan trọng và có nhiều đóng góp cho sự phát triển của đơn vị. Từ vị trí Bác sĩ Phó Đại đội trưởng tại Mặt trận 779 Campuchia (1981 – 1987) cho đến Trưởng khoa Ngoại tại Bệnh viện Đa khoa Tân Châu – Tây Ninh (1987 – 2002) và Phó Trưởng khoa tại Bệnh viện Đa khoa Khu vực Củ Chi (2003 – 2014), bác sĩ Ngọc Lâm luôn là tấm gương sáng với tinh thần trách nhiệm cao và trình độ chuyên môn vững vàng.
+- Từ năm 2008 đến nay, bác sĩ Ngọc Lâm còn là thành viên tích cực của Hội Ngoại khoa và Phẫu thuật Nội soi Việt Nam. Trong thời gian này, bác sĩ Ngọc Lâm đã dành nhiều tâm huyết cho nghiên cứu và công bố nhiều công trình ấn tượng. Đặc biệt, đề tài “Đánh giá kết quả sớm Phẫu thuật Nội soi điều trị thoát vị bẹn” đã mang lại nhiều thông tin quan trọng về hiệu quả và tính an toàn của phương pháp này, góp phần tối ưu hóa các phác đồ điều trị thoát vị bẹn tại Việt Nam.
+- Hiện, BS. CKII Vũ Ngọc Lâm là Bác sĩ Ngoại tiêu hóa – Hậu môn Trực tràng, Phòng khám Đa khoa MedicalCare quận 7, Bệnh viện Đa khoa MedicalCare, Đà Nẵng.
+# THÀNH VIÊN HIỆP HỘI
+- Hội viên Hội Ngoại khoa và Phẫu thuật Nội soi Việt Nam (2008 – nay)
+# CHUYÊN KHOA
+- Ngoại tiêu hóa
+# CÔNG TRÌNH NGHIÊN CỨU
+- Đánh giá kết quả sớm Phẫu thuật Nội soi điều trị thoát vị bẹn
+# QUÁ TRÌNH ĐÀO TẠO
+- 1. Quá trình đào tạo
+- 1981 – 1987: Bác sĩ Y Đa khoa, Học viện Quân Y Việt Nam
+- 2000 – 2002: Bác sĩ Chuyên khoa I, Đại học Y Dược TP. HCM
+- 2010 – 2012: Bác sĩ Chuyên khoa II, Đại học Y Dược TP. HCM
+- 2. Chứng chỉ chuyên môn
+- Phẫu thuật điều trị bệnh trĩ bằng phẫu thuật Longo, Đại học Y Dược TP. HCM(2009)
+- Phẫu thuật nội soi ổ bụng, Đại học Y Dược TP. HCM (2009)
+- Phẫu thuật nội soi đại trực tràng, Đại học Y Dược TP. HCM (2011)
+- Phẫu thuật nội soi điều trị sỏi mật, Đại học Y Dược TP. HCM (2018)
+# KINH NGHIỆM CÔNG TÁC
+- 1981 – 1987: Bác sĩ Phó Đại đội trưởng, Mặt trận 779 Campuchia
+- 1987 – 2002: Trưởng khoa Ngoại, Bệnh viện Đa khoa Tân Châu – Tây Ninh
+- 2003 – 2014: Phó Trưởng khoa Ngoại tổng quát, Bệnh viện Đa khoa Khu vực Củ Chi TP. HCM
+- 2014 – 2024: Trưởng khoa Ngoại tổng quát, Bệnh viện Đa khoa Xuyên Á TP. HCM
+- 2024 – nay: Bác sĩ Ngoại tiêu hóa, Phòng khám Đa khoa MedicalCare quận 7, Bệnh viện Đa khoa MedicalCare, Đà Nẵng
+- 👤 BS. CKI ĐẶNG LÊ BÍCH NGỌC
+- 🔗 Chi tiết bác sĩ: https://tamanhhospital.vn/chuyen-gia/dang-le-bich-ngoc/
+# GIỚI THIỆU
+- Sau khi tốt nghiệp Y khoa tại Đại học Y khoa Phạm Ngọc Thạch (2009), bác sĩ Đặng Lê Bích Ngọc tiếp tục hoàn thành chương trình Chuyên khoa I Nội tổng quát tại Đại học Y Dược TP. HCM (2016). Đến nay, BS. CKI Đặng Lê Bích Ngọcđã có 15 năm trong lĩnh vựcNội soi tiêu hóa, đặc biệt về giải phẫu bệnh lý tập trung, cắt polyp ống tiêu hóa, tầm soát ung thư dạ dày và đại tràng giai đoạn sớm…
+- Với mong muốn nâng cao chất lượng trong công tác thăm khám chữa bệnh, bác sĩ Đặng Lê Bích Ngọc tham gia các khóa đào tạo chuyên môn trong nước và nhận được nhiều chứng chỉ uy tín như nội soi mật tụy ngược dòng (ERCP), nội soi dạ dày – tá tràng, nội soi đại tràng… Mới đây nhất, bác sĩ Ngọc hoàn thành khó Tu nghiệp ung thư sớm tiêu hóa tại Bệnh viện Kyoto Min-iren, Nhật Bản (2024)… Bác sĩ Đặng Lê Bích Ngọc đã giúp nhiều bệnh nhân phát hiện và loại bỏ ung thư đường tiêu hóa giai đoạn sớm thông qua nội soi, mang lại sức khỏe và nâng cao chất lượng cuộc sống cho người bệnh.
+- Ngoài ra, bác sĩ Đặng Lê Bích Ngọc dành thời gian cho các công trình nghiên cứu nhằm mở ra nhiều chương mới trong việc điều trị các bệnh lý về tiêu hóa. Một số công trình nghiên cứu được giá cao và đăng tải tại các tạp chí chuyên môn trong và ngoài nước như: Cập nhật các chuẩn đoán, soi hình ảnh và mô hình học của Barrett thực hiện, Tạp chí Khoa học Tiêu hóa Việt Nam (2019); Prevalence, Clinical Characteristics And Risk Factors Of Barrett’s Esophagus In Vietnamese Patients With Upper Gastrointestinal Symptoms, Medicine (Baltimore) (2020)…
+- Hiện, BS. CKI Đặng Lê Bích Ngọc là Trưởng Đơn vị Nội soi Tiêu hóa Phòng khám Đa khoa MedicalCare Quận 7 và bác sĩ Nội soi tiêu hóa tại Trung tâm Nội soi và Phẫu thuật nội soi tiêu hóa, Bệnh viện Đa khoa MedicalCare, Đà Nẵng.
+# CÔNG TRÌNH NGHIÊN CỨU
+- Nguyen, D. T. N., Quach, D. T., Le, Q. D., Vu, N. T. H., Dang, N. L. B., Le, H. M., … & Hiyama, T. (2024). Endoscopic Kyoto and Kimura-Takemoto classifications are comparable in predicting high-risk gastric precancerous lesions. Digestion.
+- Performance of Chromoendoscopy and Narrow – Band Imaging in the Diagnosis of Gastric Intestinal Metaplasia, Scand J Gastroenterol (2022)
+- Clinical characteristics and risk factors of gastroesophageal reflux disease in Vietnamese patients with upper gastrointestinal symptoms undergoing esophagogastroduodenoscopy, JGH Open (2021)
+- Prevalence, Clinical Characteristics And Risk Factors Of Barrett’s Esophagus In Vietnamese Patients With Upper Gastrointestinal Symptoms, Medicine (Baltimore) (2020)
+- Cập nhật các chuẩn đoán, soi hình ảnh và mô hình học của Barrett thực hiện, Tạp chí Khoa học Tiêu hóa Việt Nam (2019)
+# QUÁ TRÌNH ĐÀO TẠO
+- 1. Quá trình đào tạo
+- 2003 – 2009: Bác sĩ Y khoa, Đại học Y khoa Phạm Ngọc Thạch
+- 2014 – 2016: Bác sĩ Chuyên khoa I Nội tổng quát, Đại học Y Dược TP. HCM
+- 2. Chứng chỉ chuyên môn
+- Khoa tu nghiệp ung thư sớm tiêu hóa tại Bệnh viện Kyoto Min-iren, Nhật Bản (2024)
+- Nội soi mật tụy ngược dòng (ERCP), Đại học Y Dược TP. HCM (2017)
+- Nội soi dạ dày – tá tràng, Bệnh viện Chợ Rẫy (2010, 2011)
+- Nội soi đại tràng, Bệnh viện Chợ Rẫy (2013)
+- Quản lý Bệnh viện, Trung tâm Đào tạo, Bồi dưỡng Cán bộ Quản lý Ngành Y tế phía Nam (2018)
+- Phương pháp dạy và học lâm sàng cho người giảng dạy thực hành trong đào tạo khối ngành sức khỏe, Đại học Quốc gia Hà Nội, Trường Đại học Y Dược (2022)
+- Định hướng chuyên khoa Giải phẫu bệnh, Đại học Y Dược TP. HCM (2017 – 2018)
+- Sư phạm Y học cơ bản, Đại học Y Dược TP. HCM(2018)
+# KINH NGHIỆM CÔNG TÁC
+- 2009 – 2014: Khoa Nội tiêu hóa, Bệnh viện Nguyễn Tri Phương
+- 2014 – 2017: Đơn vị Nội soi can thiệp, khoa Ngoại tổng hợp, Bệnh viện Nguyễn Tri Phương
+- 2017 – 2020: Khoa Giải phẫu bệnh lý và khoa Nội tiêu hóa, Bệnh viện Nguyễn Tri Phương
+- 2020 – 2021: Khoa Nội soi tiêu hóa, Bệnh viện Nguyễn Tri Phương
+- 2021 – 2022: Phó khoa Nội soi tiêu hóa, Bệnh viện Nguyễn Tri Phương
+- Hợp tác làm việc
+- 2014 – 2022: Khoa Nội soi, Bệnh viện Đại học Y Dược TP. HCM
+- 2014 – 2022: Chịu trách nhiệm chuyên môn Nội soi và khám Nội, Phòng khám Tâm Nhất
+- 2018 – 2022: Đơn vị Nội soi, Phòng khám Đại Phước
+- 2019 – 2022: Đơn vị Nội soi, Phòng khám trường Đại học Y khoa Phạm Ngọc Thạch
+- xem thêm
+- 👤 TS. BS. CKII CAO NGỌC KHÁNH
+- 🔗 Chi tiết bác sĩ: https://tamanhhospital.vn/chuyen-gia/cao-ngoc-khanh/
+# GIỚI THIỆU
+- TS. BS. CKII Cao Ngọc Khánhlà chuyên gia đầu ngành trong lĩnh vực Ngoại tiêu hóa, đặc biệt điều trị chuyên sâu về Hậu môn Trực tràng như bệnh trĩ, sa trực tràng, nứt kẽ hậu môn, rò hậu môn, áp xe hậu môn, phẫu thuật điều trị táo bón… Với hơn 24 năm kinh nghiệm làm việc và nghiên cứu, TS. BS. CKII Cao Ngọc Khánh đã có nhiều đóng góp lớn vào sự phát triển của ngành Y học, đặc biệt là trong các phẫu thuật liên quan đến Hậu môn Trực tràng.
+- TS. BS. CKII Cao Ngọc Khánh tốt nghiệp Bác sĩ Đa khoa từ Đại học Y Dược Huế (2000). Sau đó, Tiến sĩ Khánh tiếp tục nâng cao trình độ chuyên môn và hoàn thành chương trình Chuyên khoa I Ngoại tổng quát (2005), Chuyên khoa II Ngoại tiêu hóa (2015) tại Đại học Y Dược TP. HCM. Năm 2023, Tiến sĩ Khánh nhận học vị Tiến sĩ chuyên ngành Ngoại tiêu hóa với luận án: “Đánh giá kết quả trung hạn của phẫu thuật khâu treo điều trị táo bón do sa trực tràng kiểu túi kết hợp sa niêm trong trực tràng”.
+- Tiến sĩ Khánh đã công bố nhiều công trình khoa học giá trị, tiêu biểu là các bài báo về “Đánh giá kết quả phẫu thuật khâu treo điều trị sa niêm trong trực tràng kết hợp sa trực tràng kiểu túi” và “Đánh giá kết quả phẫu thuật khâu treo điều trị hội chứng đại tiện tắc nghẽn và các yếu tố nguy cơ tái phát” đăng tải Tạp chí Ngoại khoa và Phẫu thuật Nội soi Việt Nam. Sự đóng góp này đã giúp Tiến sĩ Khánh nâng cao hiệu quả điều trị và cải thiện chất lượng cuộc sống cho hàng nghìn người bệnh.
+- Là một trong những thành viên nòng cốt của nhiều Hiệp hội uy tín Việt Nam, TS. BS. CKII Cao Ngọc Khánh đã góp phần không nhỏ vào sự phát triển chung của ngành. Hiện tại, Tiến sĩ Khánh đang giữ nhiều chức vụ quan trọng như Phó Tổng Thư ký Hội Sàn chậu học Việt Nam, Ủy viên Ban chấp hành Hội Sàn chậu học TP. HCM, Ủy viên Ban chấp hành Hội Hậu môn Trực tràng Việt Nam.
+- Với kinh nghiệm dày dặn và chuyên môn sâu, TS. BS. CKII Cao Ngọc Khánh từng đảm nhiệm vị trí Phó Khoa Ngoại tại Bệnh viện Cam Ranh (2000 – 2008) và là bác sĩ điều trị, phẫu thuật viên tại Khoa Hậu môn trực tràng, Bệnh viện Triều An TP. HCM (2008 – 08/2024). Trong suốt thời gian này, Tiến sĩ Khánh đã đóng góp tích cực vào sự phát triển chuyên môn và chăm sóc người bệnh tại bệnh viện, đồng thời, khẳng định được vị trí vững chắc trong ngành.
+- Hiện, TS. BS. CKII Cao Ngọc Khánh là Bác sĩ Ngoại tiêu hóa chuyên về Hậu môn Trực tràng, Phòng khám Đa khoa MedicalCare quận 7, Bệnh viện Đa khoa MedicalCare, Đà Nẵng.
+# THÀNH VIÊN HIỆP HỘI
+- Ủy viên Ban chấp hành Hội Sàn chậu học TP. HCM (2009 – nay)
+- Phó Tổng Thư ký Hội Sàn chậu học Việt Nam (05/2023 – nay)
+- Ủy viên Ban chấp hành Hội Hậu môn Trực tràng Việt Nam (2018 – nay)
+# CHUYÊN KHOA
+- Ngoại tiêu hóa
+# CÔNG TRÌNH NGHIÊN CỨU
+- Phẫu thuật đặt lưới ghép 4 chi thành trước âm đạo điều trị rối loạn tiểu thể hỗn hợp, Hội nghị Ngoại khoa toàn quốc tại Bà Rịa – Vũng Tàu (2016)
+- Đánh giá kết quả thủ – phẫu thuật điều trị táo bón mạn tính do hội chứng đại tiện tắc nghẽn, Hội nghị Hậu môn Trực tràng toàn quốc tại Hà Nội (2017)
+- Đánh giá kết quả phẫu thuật khâu treo cải biên điều trị táo bón do đại tiện tắc nghẽn và trĩ sa trượt niêm mạc đi kèm, Hội nghị Ngoại khoa toàn quốc tại Huế (2018)
+- Đánh giá kết quả phẫu thuật khâu treo cải biên điều trị táo bón do sa trực tràng kiểu túi, Hội nghị Ngoại khoa Bệnh viện Chợ Rẫy (2018)
+- Phẫu thuật mô tại chỗ điều trị són tiểu do áp lực, Hội nghị Sản phụ khoa toàn quốc tại Hà Nội (2018)
+- Đánh giá kết quả dài hạn điều trị táo bón mạn tính do hội chứng đại tiện tắc nghẽn, Hội nghị Ngoại khoa Bệnh viện Bình Dân TP. HCM (2018)
+- Đánh giá kết quả phẫu thuật khâu treo điều táo bón do sa niêm trong trực tràng kết hợp sa trực tràng kiểu túi, Sở Khoa học và Công nghệ TP. HCM (2021)
+- Đánh giá kết quả phẫu thuật khâu treo điều trị đại tiện tắc nghẽn. Phân tích các yếu tố nguy cơ tái phát, Tạp chí Ngoại khoa và Phẫu thuật Nội soi Việt Nam (2022)
+- Đánh giá kết quả phẫu thuật khâu treo điều trị sa niêm trong trực tràng kết hợp sa trực tràng kiểu túi, Tạp chí Ngoại khoa và Phẫu thuật Nội soi Việt Nam (2022)
+- Đánh giá kết quả trung hạn của phẫu thuật khâu treo điều trị táo bón do sa trực tràng kiểu túi kết hợp sa niêm trong trực tràng, Hội nghị khoa học Bệnh viện Đại học Y Dược Hà Nội, Hội nghị khoa học Bệnh viện Trung ương Quân đội 108 (2023)
+# QUÁ TRÌNH ĐÀO TẠO
+- 1994 – 2000: Bác sĩ Y Đa khoa, Đại học Y Dược Huế
+- 2003 – 2005: Chuyên khoa I chuyên ngành Ngoại Tổng quát, Đại học Y Dược TP. HCM
+- 2013 – 2015: Chuyên khoa II chuyên ngành Ngoại tiêu hóa, Đại học Y Dược TP. HCM
+- 2017 – 2023: Tiến sĩ chuyên ngành Ngoại tiêu hóa, Đại học Y Dược TP. HCM
+# KINH NGHIỆM CÔNG TÁC
+- 2000 – 2008: Phó khoa Ngoại, Bệnh viện Đa khoa khu vực Cam Ranh
+- 2008 – 8/2024: Bác sĩ điều trị, Phẫu thuật viên khoa Hậu môn – Trực tràng – Sàn chậu, Bệnh viện Triều An TP. HCM
+- 08/2024 – nay: Bác sĩ Ngoại tiêu hóa, Phòng khám Đa khoa MedicalCare quận 7, Bệnh viện Đa khoa MedicalCare, Đà Nẵng
+- 👤 TS. BS TRẦN THANH BÌNH
+- 🔗 Chi tiết bác sĩ: https://tamanhhospital.vn/chuyen-gia/tran-thanh-binh/
+# GIỚI THIỆU
+- Tốt nghiệpĐại học Y Dược TP. HC Mnăm 2004, đến nay TS. BS. Trần Thanh Bình đã có 18 năm kinh nghiệm trong lĩnh vực khám, điều trị các bệnh lý đường tiêu hóa và Nội soi tiêu hóa. Bác sĩ từng tham gia các khóa đào tạo và huấn luyện chuyên sâu về Nội soi tiêu hóa tại Nhật Bản, Hàn Quốc, Đài Loan, Singapore, Thái Lan, Philippines và nhiều khóa đào tạo ngắn hạn trong nước; tham dự nhiều hội nghị quốc tế về các bệnh lý tiêu hóa trong và ngoài nước như Nhật, Hàn Quốc, Đài Loan, Hong Kong, Singapore và Mỹ.
+- Ngoài cơ hội được học tập, rèn luyện và làm việc tại Khoa Nội soi BV Chợ Rẫy, bác sĩ Thanh Bình cũng đã có khoảng thời gian quý giá làm nghiên cứu sinh về mối liên quan giữa vi khuẩn Helicobacter Pylori (H. Pylori) và các bệnh lý dạ dày tá tràng cũng như được học tập về chẩn đoán và điều trị các loại ung thư sớm đường tiêu hóa bằng phương pháp cắt niêm mạc (Endoscopic Mucosal Resection, EMR) hay dưới niêm mạc qua nội soi (Endoscopic Submucosal Dissection, ESD) tại Nhật Bản.
+- Hiện TS. BS Trần Thanh Bình đang giữ vai trò bác sĩ Nội soi tiêu hóa tại Trung tâm Nội soi và Phẫu thuật nội soi tiêu hóa, Bệnh viện Đa khoa MedicalCare, Đà Nẵng.
+# THÀNH VIÊN TỔ CHỨC
+- Hội Tiêu hóa Việt Nam
+- Liên chi hội nội soi tiêu hóa Việt Nam
+# CA BỆNH THÀNH CÔNG
+- Thành viên tiên phong trong việc nâng cao ý thức về chẩn đoán và điều trị ung thư đường tiêu hóa giai đoạn sớm đặc biệt là ung thư dạ dày qua nội soi không cần phẫu thuật từ năm 2015 đến nay.
+- Đã thực hiện chẩn đoán, điều trị lành bệnh qua nội soi và theo dõi cho nhiều trường hợp ung thư giai đoạn sớm ở thực quản, dạ dày và đại trực tràng.
+- Đã thực hiện thành công rất nhiều ca cắt polyp đại trực tràng từ đơn giản đến phức tạp cho người bệnh giúp ngăn ngừa sự tiến triển thành ung thư trong tương lai.
+- Đang theo dõi rất nhiều trường hợp viêm dạ dày mạn tính (viêm teo) sau nhiễm H. pylori để phát hiện sớm tổn thương ung thư trên các trường hợp này và theo dõi rất nhiều trường hợp sau cắt polyp đại trực tràng.
+# DANH HIỆU, GIẢI THƯỞNG
+- – Thành viên chính trong đề tài “Hợp tác nghiên cứu giữa Việt Nam và Nhật Bản về tỷ lệ nhiễm Helicobacter pylori và mật số yếu tố liên quan ở bệnh nhân viêm dạ dày mạn và ung thư dạ dày”.– Nhận được nhiều bằng khen và danh hiệu của UBND tỉnh, Bộ Y tế phong tặng
+# CÔNG TRÌNH NGHIÊN CỨU
+- – Tác giả chính và đồng tác giả của 20 bài báo khoa học về vi khuẩn H. Pylori và bệnh lý tiêu hóa được đăng trên các tạp chí Quốc tế thuộc danh mục ISI, có chỉ số ảnh hưởng cao (Impact Factor).– Tác giả chính và đồng tác giả của hơn 10 bài báo về H. Pylori và nội soi đã được đăng tại các tạp chí trong nước như Tạp chí Y học TP. Hồ Chí Minh, Tạp chí Y học Việt Nam, Tạp chí Khoa Học Tiêu Hóa Việt Nam, Tạp chí Y dược Lâm sàng 108.– Ba công trình nghiên cứu nổi bật được đăng trên tạp chí ISI:1. Khảo sát tỷ lệ kháng kháng sinh của vi khuẩn H. Pylori ở Việt Nam từ đó giúp gợi ý phác đồ điều trị vi khuẩn này hiệu quả hơn tại Việt Nam (The incidence of primary antibiotic resistance of Helicobacter pylori in Vietnam, J Clin Gastroenterol).2. Phát hiện các điểm đột biến gen mới của vi khuẩn H. Pylori đối với kháng sinh Clarithromycin. (Discovery of novel mutations for clarithromycin resistance in Helicobacter pylori by using next-generation sequencing, J Clin Gastroenterol).
+- 3. Phát hiện các điểm đột biến gen mới của vi khuẩn H. Pylori đối với kháng sinh Metronidazole (Search for novel candidate mutations for metronidazole resistance in Helicobacter pylori using next-generation sequencing, Antimicrob Agents Chemother).
+# QUÁ TRÌNH ĐÀO TẠO
+- QUÁ TRÌNH ĐÀO TẠO
+- Năm 2004: Tốt nghiệp Bác sĩ tại Đại học Y dược TP. HCM
+- Năm 2015: Tiến sĩ Y khoa tại Đại học Oita, Nhật Bản
+- CHỨNG CHỈ CHUYÊN MÔN
+- Năm 2005: Chứng chỉ Nội soi dạ dày tá tràng tại Bệnh viện Chợ Rẫy
+- Năm 2016: Chứng chỉ Nội soi đại tràng tại Bệnh viện Chợ Rẫy
+- Năm 2017: Chứng chỉ Nội soi điều trị tại Bệnh viện Chợ Rẫy
+- Năm 2017: Chứng chỉ Nội soi mật tụy ngược dòng tại Bệnh viện Chợ Rẫy
+- Và nhiều chứng chỉ nội soi tiêu hóa chuyên sâu khác về điều trị ung thư tiêu hóa sớm, EUS, POEM, ERCP, HRM.
+# KINH NGHIỆM CÔNG TÁC
+- Năm 2005-2008: Bác sĩ điều trị, nội soi tại Bệnh viện Quốc tế Vũ Anh
+- Năm 2008 – 2010: Bác sĩ nội soi, Khoa Nội soi, Bệnh viện Chợ Rẫy
+- Năm 2010 – 2015: Nghiên cứu sinh tại Khoa Y, Đại học Oita, Nhật Bản
+- Năm 2015-2022: Bác sĩ nội soi, Khoa Nội soi, Bệnh viện Chợ Rẫy
+- Từ tháng 5/2022 – nay: Bác sĩ Nội tiêu hóa, Bệnh viện Đa khoa MedicalCare, Đà Nẵng
+- 👤 ThS. BS NGUYỄN VĂN HẬU
+- 🔗 Chi tiết bác sĩ: https://tamanhhospital.vn/chuyen-gia/nguyen-van-hau/
+# GIỚI THIỆU
+- ThS. BS Nguyễn Văn Hậucó hơn 30 năm nghiên cứu, khám và điều trị trong lĩnh vực Ngoại hậu môn – trực tràng. Trong hàng chục năm làm việc tại các bệnh viện lớn như Bệnh viện Chợ Rẫy và bệnh viện Đại học Y dược TP. HCM, bác sĩ Hậu đã điều trị thành công hàng ngàn ca bệnh, điển hình như tiêm xơ trĩ cho người bị trĩ chảy máu trên nền bệnh Hemophilia do thiếu yếu tố VIII, hoặc phẫu thuật thành công các ca rò móng ngựa tái phát.
+- Sau khi hoàn thành chương trình Thạc sĩ Y khoa của trường Đại học Y Dược TP. HCM, bác sĩ Hậu tiếp tục quá trình thực tập tại bệnh viện Rockford Memorial và bệnh viện Cleverland Clinic Foundation tại Mỹ. Bằng kiến thức vững vàng và kinh nghiệm phong phú, vị bác sĩ tài năng không ngừng nghiên cứu, ứng dụng các phương pháp điều trị tiên tiến, hiệu quả, ít đau, giúp giảm tối đa thời gian phục hồi cho người bệnh. Bên cạnh đó, bác sĩ Hậu cũng là một chuyên gia nhiều kinh nghiệm trong việc chẩn đoán và điều trị bệnh lý hậu môn – trực tràng cho các đối tượng đặc biệt như trẻ em, phụ nữ mang thai và người có bệnh nền.
+- Ngoài công tác khám chữa bệnh, bác sĩ Hậu còn sở hữu nhiều công trình nghiên cứu về Ngoại hậu môn – trực tràng được giới chuyên môn đánh giá cao. Với phương châm sống và làm việc “Hạnh phúc là cho đi”, bác sĩ Hậu không chỉ được người bệnh tin tưởng mà còn được đồng nghiệp quý trọng và yêu mến.
+# THÀNH VIÊN TỔ CHỨC
+- Hội Hậu môn trực tràng Việt Nam
+- Hội sàn chậu Việt Nam
+# LĨNH VỰC CHUYÊN MÔN
+- Ngoại Hậu môn trực tràng
+# CÔNG TRÌNH NGHIÊN CỨU
+- Đánh giá phẫu thuật Triệt mạch trĩ dưới hướng dẫn siêu âm doppler, Hội nghị Tiêu hoá  ĐHYD TP. HCM 2004
+- Vai trò X-quang động trong chẩn đoán táo bón, Hội nghị Tiêu hoá Hà Nội 2005
+- Sa trực tràng kiểu túi, Hội nghị khoa học ĐHYD TP. HCM 2005
+- Phẫu thuật Delorme – điều trị lồng trực tràng hậu môn, Hội nghị khoa học ĐHYD TP. HCM 2005
+- Vai trò siêu âm hậu môn trong chẩn đoán rò hậu môn, Hội nghị khoa học ĐHYD TP. HCM 2005
+- Táo bón, chẩn đoán điều trị, Hội nghị tiêu hoá TP. HCM 2005
+- Kết quả ngắn hạn PT STARR trong điều trị táo bón, Hội nghị ngoại khoa Hà Nội 2012
+- Chẩn đoán và điều trị táo bón theo y học chứng cứ, Bệnh viện ĐHYD TP. HCM 2014
+- Mối liên quan giữa sa sàn chậu và đại tiện khó theo y học chứng cứ, Hội nghị sàn chậu 2015 BVBD
+- Các loại Mesh phẫu thuật trong sa sàn chậu – sa tạng chậu, Hội nghị Mesh Bệnh viện ĐHYD TP. HCM 22/10/2015
+- Rối loạn co bóp tống phân trên bệnh nhân sa sàn chậu, Hội nghị sàn chậu lần 10, ngày 24/09/2016 (Bệnh viện Triều An)
+- Mốc giải phẫu trong PT Longo: CME Hậu môn – trực tràng, Bệnh viện ĐHYD 25/02/2017
+- Điều trị Rò hậu môn tái phát – phức tạp: CME Rò hậu môn, Bệnh viện ĐHYD 2019
+- Bệnh trĩ trong các trường hợp đặc biệt và các chống chỉ định trong điều trị phẫu thuật, Chương trình đào tạo chứng chỉ hậu môn – trực tràng cơ bản, BVĐHYD 06/2020.
+# QUÁ TRÌNH ĐÀO TẠO
+- 1979 – 1986: Bác Sĩ Sơ bộ chuyên khoa Ngoại Tổng Quát, Đại học Y Dược TP. HCM
+- 1998 – 2001: Bác sĩ chuyên khoa I, chuyên ngành Ngoại tổng quát, Đại học Y Hà Nội
+- 2003 – 2005: Thạc Sĩ y khoa, chuyên ngành Ngoại tổng quát,  Đại học Y Dược TP. HCM
+- 2001: Thực tập Hậu môn trực tràng, Rockford Memorial Hospital, IL, USA
+- 2003: Thực tập Hậu môn trực tràng, khoa Ngoại Hậu môn trực tràng, Cleveland Clinic Foundation, USA
+- 2003: Chứng Chỉ Phẫu thuật trĩ THD – Áo
+- 2006: Chứng Chỉ Phẫu thuật Longo – Ấn Độ
+- 2010: Chứng Chỉ Phẫu thuật sàn chậu – Địa Trung Hải – Ai cập
+- 2012: Chứng Chỉ Phẫu thuật Rò Hậu Môn nội soi – Italia
+- 2017: Chứng Chỉ Phẫu thuật Laser Trĩ – Laser Rò hậu môn – Indonesia
+# KINH NGHIỆM CÔNG TÁC
+- 1987 – 1997: Bác sĩ điều trị, khoa Ngoại BVĐK Kiên Giang
+- 2001 – 2003: Khoa Ngoại Tiêu Hóa Bệnh viện Chợ Rẫy TP. HCM
+- 2004 – 2021: Khoa Hậu môn trực tràng Bệnh viện Đại học Y dược TP. HCM
+- 👤 THS. BS NGUYỄN PHƯỚC LÂM
+- 🔗 Chi tiết bác sĩ: https://tamanhhospital.vn/chuyen-gia/nguyen-phuoc-lam/
+# GIỚI THIỆU
+- Với hơn 25 năm công tác trong lĩnh vực nội soi tiêu hóa, ThS. BS Nguyễn Phước Lâm đã thực hiện hàng trăm ngàn ca nội soi, sử dụng thành thạo tất cả những kỹ thuật nội soi đỉnh cao nhất thế giới, mang đến chất lượng điều trị tốt nhất cho mỗi bệnh nhân.
+- Chia sẻ về quy trình và chất lượng thăm khám, phẫu thuật nội soi tại Trung tâm Phẫu thuật Nội soi Tiêu hóa, Bệnh viện Đa khoa MedicalCare, bác sĩ Nguyễn Phước Lâm đầy tự hào khẳng định rằng đây chính là một trong những đơn vị y tế hiếm hoi được đầu tư xây dựng cơ sở vật chất, thiết kế đúng chuẩn theo tiêu chuẩn của các nước châu u, áp dụng quy trình nội soi hiện đại, sử dụng hệ thống máy móc, trang thiết bị tối tân, đảm bảo thực hiện đầy đủ và chính xác các thủ thuật cho người bệnh.
+- “Tôi rất vui mừng và hạnh phúc khi có một đơn vị y tế có thể đáp ứng được hết những mong mỏi của người thầy thuốc, đáp ứng được chất lượng thăm khám và điều trị tốt nhất cho bệnh nhân”. Với tâm huyết dành cho nghề, tận tình dành cho bệnh nhân, ThS. BS Nguyễn Phước Lâm tiếp tục mang trên vai sứ mệnh “cứu người cứu đời” và hiện đang đảm nhiệm chức vụ Bác sĩ Nội soi Tiêu hóa tại Bệnh viện Đa khoa MedicalCare, Đà Nẵng.
+# LĨNH VỰC CHUYÊN MÔN
+- Nội soi tiêu hóa
+# QUÁ TRÌNH ĐÀO TẠO
+- 1995: Tốt nghiệp Đại học Y Dược TP. HCM
+- 2007: Nhận bằng Thạc sĩ Y học
+# KINH NGHIỆM CÔNG TÁC
+- 1995 – 2000: Bệnh viện Nhi Đồng 1
+- 2000 – 2013: Bệnh viện Hoàn Mỹ Sài Gòn
+- 2013 – 2019: Bệnh viện Quốc tế City
+- 2019 – 2020: Bệnh viện Vinmec Central Park
+- 2020 – nay: Bệnh viện Đa khoa MedicalCare, Đà Nẵng
+- 👤 BS. CKII HỒ THỊ BÍCH THỦY
+- 🔗 Chi tiết bác sĩ: https://tamanhhospital.vn/chuyen-gia/ho-thi-bich-thuy/
+# GIỚI THIỆU
+- Xuất phát từ chính những băn khoăn, trăn trở làm sao để áp dụng những kỹ thuật nội soi an toàn, sử dụng phương pháp vô cảm giúp bệnh nhân không đau, không khó chịu kể cả trước, trong và sau nội soi, BSCKII Hồ Thị Bích Thủy đã không ngừng tìm tòi, học hỏi và áp dụng những kỹ thuật nội soi hiện đại, đem đến kết quả điều trị tốt nhất, an toàn nhất cho từng bệnh nhân.
+- Với gần 20 năm theo đuổi nghề y, trực tiếp thăm khám và điều trị hàng trăm trường hợp gặp các vấn đề tiêu hóa, bác sĩ Hồ Thị Bích Thủy không chỉ được đánh giá cao về trình độ chuyên môn mà còn ở tâm huyết dành cho nghề, sự cần cù, đam mê học hỏi và nâng cao chất lượng trong thăm khám và điều trị. Chính vì thế, bác sĩ Thủy nhiều năm liền vinh dự đạt được thành tích Chiến sĩ thi đua tại nhiều bệnh viện hàng đầu Việt Nam.
+- Hiện BSCKII Hồ Thị Bích Thủy đang công tác tại Trung tâm Nội soi và Phẫu thuật Nội soi Tiêu hóa, Bệnh viện Đa khoa MedicalCare, Đà Nẵng.
+# LĨNH VỰC CHUYÊN MÔN
+- Nội tổng quát
+- Nội soi tiêu hóa
+# DANH HIỆU, GIẢI THƯỞNG
+- Chiến sĩ thi đua năm 2012 tại Bệnh viện Thống Nhất
+- 2016 – 2020: Mỗi năm đều nhận giấy khen của Bệnh viện Đa khoa Xuyên Á
+# QUÁ TRÌNH ĐÀO TẠO
+- 2001 – 2007: Bác sĩ Đa khoa Đại học Y Dược TP. HCM
+- 2009: Siêu âm thực hành khóa 21, Đại học Y khoa Phạm Ngọc Thạch
+- 2013 – 2015: Bác sĩ Chuyên khoa I, Nội khoa, Đại học Y Dược TP. HCM
+- 4/2015 – 7/2015: Chứng nhận đào tạo Nội soi hô hấp, Bệnh viện Chợ Rẫy
+- 8/2016 – 11/2016: Chứng nhận “Nội soi Đại tràng và Nội soi Điều trị” Bệnh viện Đại học Y Dược
+- 9/2019 đến nay: Chuyên khoa II, Đại học Y Dược Huế
+# KINH NGHIỆM CÔNG TÁC
+- 11/2007 – 01/2016: Bác sĩ điều trị Nội tổng hợp A2, Bệnh viện Thống Nhất TP. HCM
+- 01/2016 đến 2020: Bác sĩ điều trị Trung tâm Nội soi, Bệnh viện Đa khoa Xuyên Á
+- 2020 – nay: Bác sĩ Nội soi tiêu hóa, Bệnh viện Đa khoa MedicalCare, Đà Nẵng
+# DỊCH VỤ
+- Trung tâm Nội Soi & Phẫu Thuật Nội Soi Tiêu Hóa, Bệnh viện Đa khoa MedicalCare triển khai đầy đủ các gói thăm khám và điều trị tất cả các bệnh lý nội và ngoại tiêu hóa, gồm:Các bệnh thực quản (GERD, viêm thực quản tăng bạch cầu ái toan, viêm nhiễm và bệnh liên quan suy giảm miễn dịch, u thực quản…). Các bệnh dạ dày (rối loạn tống xuất, khó tiêu chức năng, hội chứng Zollnger-Ellinson, viêm loét dạ dày, u dạ dày…). Các bệnh của ruột (rối loạn vận động, tiêu chảy do nhiễm trùng/nhiễm độc/virus, rối loạn vận chuyển biểu mô, chuyển hóa và tiêu hóa ở ruột non, bệnh lý viêm ruột, u ruột…). Các bệnh đại tràng (viêm loét đại tràng, hội chứng ruột kích thích, túi thừa đại tràng, polyp đại trực tràng, u ác tính, hội chứng đa polyp…). Các bệnh hậu môn trực tràng (trĩ, rò, nứt, abscess, sa trực tràng, hội chứng loét trực tràng đơn độc, tiêu không tự chủ, mồng gà…). Các bệnh tụy (viêm tụy, nang tụy, ung thư, u tụy nội tiết). Các bệnh đường mật (sỏi mật, viêm đường mật xơ hóa nguyên phát, nang gan và nang đường mật, rối loạn cơ vòng Oddi…). Các bệnh gan (viêm gan siêu vi, xơ gan mật nguyên phát, chuyển hóa, u…). Các bệnh lý khác (Abscess ổ bụng, rò tiêu hóa, bệnh lý trong phúc mạc/sau phúc mạc, béo phì, ký sinh trùng, thoát vị bẹn…).
+- Trung tâm Nội Soi & Phẫu Thuật Nội Soi Tiêu Hóa, Bệnh viện Đa khoa MedicalCare triển khai đầy đủ các gói thăm khám và điều trị tất cả các bệnh lý nội và ngoại tiêu hóa, gồm:
+- Các bệnh thực quản (GERD, viêm thực quản tăng bạch cầu ái toan, viêm nhiễm và bệnh liên quan suy giảm miễn dịch, u thực quản…).
+- Các bệnh dạ dày (rối loạn tống xuất, khó tiêu chức năng, hội chứng Zollnger-Ellinson, viêm loét dạ dày, u dạ dày…).
+- Các bệnh của ruột (rối loạn vận động, tiêu chảy do nhiễm trùng/nhiễm độc/virus, rối loạn vận chuyển biểu mô, chuyển hóa và tiêu hóa ở ruột non, bệnh lý viêm ruột, u ruột…).
+- Các bệnh đại tràng (viêm loét đại tràng, hội chứng ruột kích thích, túi thừa đại tràng, polyp đại trực tràng, u ác tính, hội chứng đa polyp…).
+- Các bệnh hậu môn trực tràng (trĩ, rò, nứt, abscess, sa trực tràng, hội chứng loét trực tràng đơn độc, tiêu không tự chủ, mồng gà…).
+- Các bệnh tụy (viêm tụy, nang tụy, ung thư, u tụy nội tiết).
+- Các bệnh đường mật (sỏi mật, viêm đường mật xơ hóa nguyên phát, nang gan và nang đường mật, rối loạn cơ vòng Oddi…).
+- Các bệnh gan (viêm gan siêu vi, xơ gan mật nguyên phát, chuyển hóa, u…).
+- Các bệnh lý khác (Abscess ổ bụng, rò tiêu hóa, bệnh lý trong phúc mạc/sau phúc mạc, béo phì, ký sinh trùng, thoát vị bẹn…).
+# THÀNH TÍCH NỔI BẬT
+- Theo thống kê của Globocan năm 2020, mỗi năm Việt Nam có khoảng 182.563 ca mắc mới và 122.690 ca tử vong do ung thư. Ước tính, cứ 100.000 người thì có 159 người chẩn đoán mắc ung thư mới và 106 người tử vong do ung thư, thường gặp nhất là ung thư dạ dày, ung thư thực quản và ung thư đại trực tràng.
+- Ung thư đường tiêu hóa có thể chữa khỏi hoàn toàn nếu được phát hiện sớm và can thiệp điều trị kịp thời, đúng cách. Việc thực hiện nội soi tiêu hóa được xem là phương pháp tiên tiến nhất giúp phát hiện sớm các yếu tố nguy cơ, can thiệp kịp thời, ngăn chặn biến chứng nguy hiểm, đặc biệt là nguy cơ đe dọa tính mạng.
+- Hội tụ đầy đủ những yếu tố tiên quyết của một trung tâm nội soi tiêu hóa chất lượng với đội ngũ chuyên gia hàng đầu bao gồm các bác sĩ Ngoại tiêu hóa, Nội tiêu hóa và Nội soi tiêu hóa, hệ thống máy móc trang thiết bị hiện đại hàng đầu thế giới, áp dụng phác đồ điều trị tiên tiến, hiệu quả…, Trung tâm Nội soi & Phẫu thuật nội soi tiêu hóa, Bệnh viện Đa khoa MedicalCare là trung tâm đầu tiên tại Việt Nam cung cấp các dịch vụ nội soi và phẫu thuật nội soi tiêu hóa cao cấp với tiêu chítận tâm – an toàn – hiệu quả – ít xâm lấn – chi phí hợp lý.
+🔹 VIDEO
