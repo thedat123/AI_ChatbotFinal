@@ -22,12 +22,6 @@ pydantic>=1.10.0
 # File handling and logging
 pickle-mixin>=1.0.2
 
-# Asynchronous runtime
-asyncio>=3.4.3  # Thường đã có sẵn trong Python 3.7+
-
-# Logging
-logging>=0.4.9.6  # Thường đã có sẵn trong Python
-
 # FastAPI and server
 fastapi>=0.103.0  # Core FastAPI framework for API development
 uvicorn>=0.23.2   # ASGI server to run FastAPI
