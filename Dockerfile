@@ -1,38 +1,35 @@
-# Build stage: Use Python 3.11 slim image for building dependencies
+# --- Build stage ---
 FROM python:3.11-slim AS build
 WORKDIR /app
 
-# Copy requirements file to install dependencies
+# Cài pip & wheel (đảm bảo compatibility khi cài gói)
+RUN apt-get update && apt-get install -y build-essential
+
+# Copy và cài dependencies
 COPY requirements.txt .
+RUN pip install --upgrade pip && \
+    pip install --no-cache-dir -r requirements.txt
 
-# Install build tools and dependencies, then clean up to reduce image size
-RUN apt-get update && apt-get install -y --no-install-recommends \
-    gcc \
-    python3-dev \
-    && pip install --no-cache-dir -r requirements.txt \
-    && apt-get remove -y gcc python3-dev \
-    && apt-get autoremove -y \
-    && rm -rf /var/lib/apt/lists/*
-
-# Copy application source code
+# Copy source code
 COPY . .
 
-# Runtime stage: Use Python 3.11 slim image for a lean runtime environment
+# --- Runtime stage ---
 FROM python:3.11-slim
 WORKDIR /app
 
-# Copy installed dependencies and source code from build stage
+# Copy thư viện từ build stage
 COPY --from=build /usr/local/lib/python3.11/site-packages/ /usr/local/lib/python3.11/site-packages/
+COPY --from=build /usr/local/bin/uvicorn /usr/local/bin/uvicorn
 COPY --from=build /app /app
 
-# Expose a configurable port (default 8000)
+# Expose port
 ARG APP_PORT=8000
 EXPOSE ${APP_PORT}
 
-# Set environment variables for Python and application
+# Environment
 ENV PYTHONUNBUFFERED=1 \
     PYTHONDONTWRITEBYTECODE=1 \
     APP_PORT=${APP_PORT}
 
-# Run Uvicorn with multiple workers for production, using the configured port
-CMD ["uvicorn", "server-chatbot:app", "--host", "0.0.0.0", "--port", "${APP_PORT}", "--workers", "4"]
+# Run app with uvicorn
+CMD ["uvicorn", "server-chatbot:app", "--host", "0.0.0.0", "--port", "8000", "--workers", "4"]
