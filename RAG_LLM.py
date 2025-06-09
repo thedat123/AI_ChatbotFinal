@@ -138,9 +138,11 @@ class MedicalSpecialistRAGChatbot:
 
         self.sql_config = {
             'DRIVER': '{ODBC Driver 17 for SQL Server}',
-            'SERVER': 'DESKTOP-QI38U8N\\SQLEXPRESS',
+            'SERVER': '103.109.187.223,1433',
             'DATABASE': 'AppointmentHospital',
-            'Trusted_Connection': 'Yes'
+            'UID': 'thedat',
+            'PWD': 'MyPass123!',
+            'TrustServerCertificate': 'yes'
         }
 
     async def connect_to_sql(self):
@@ -151,7 +153,9 @@ class MedicalSpecialistRAGChatbot:
                 f"DRIVER={self.sql_config['DRIVER']};"
                 f"SERVER={self.sql_config['SERVER']};"
                 f"DATABASE={self.sql_config['DATABASE']};"
-                f"Trusted_Connection={self.sql_config['Trusted_Connection']}"
+                f"UID={self.sql_config['UID']};"
+                f"PWD={self.sql_config['PWD']};"
+                f"TrustServerCertificate={self.sql_config['TrustServerCertificate']}"
             )
             conn = await aioodbc.connect(dsn=connection_string)
             return conn
