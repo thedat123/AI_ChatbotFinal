@@ -1,10 +1,18 @@
 # --- Build stage ---
-FROM python:3.11-slim AS build
+FROM ubuntu:22.04 AS build
+
+# Set environment variables to avoid interactive prompts
+ENV DEBIAN_FRONTEND=noninteractive
+ENV TZ=Asia/Ho_Chi_Minh
 
 WORKDIR /app
 
 # Update package list and install build dependencies
 RUN apt-get update && apt-get install -y \
+    python3.11 \
+    python3.11-dev \
+    python3.11-distutils \
+    python3-pip \
     build-essential \
     gcc \
     g++ \
@@ -17,20 +25,25 @@ RUN apt-get update && apt-get install -y \
     apt-transport-https \
     ca-certificates \
     lsb-release \
+    software-properties-common \
     && rm -rf /var/lib/apt/lists/*
 
-# Install Microsoft ODBC Driver 17 for SQL Server
-RUN curl https://packages.microsoft.com/keys/microsoft.asc | apt-key add - \
-    && curl https://packages.microsoft.com/config/debian/11/prod.list > /etc/apt/sources.list.d/mssql-release.list \
+# Create symlinks for python
+RUN ln -sf /usr/bin/python3.11 /usr/bin/python3 \
+    && ln -sf /usr/bin/python3.11 /usr/bin/python
+
+# Install Microsoft ODBC Driver 18 for SQL Server (Ubuntu 22.04)
+RUN curl -fsSL https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor -o /usr/share/keyrings/microsoft-prod.gpg \
+    && echo "deb [arch=amd64,arm64,armhf signed-by=/usr/share/keyrings/microsoft-prod.gpg] https://packages.microsoft.com/ubuntu/22.04/prod jammy main" > /etc/apt/sources.list.d/mssql-release.list \
     && apt-get update \
-    && ACCEPT_EULA=Y apt-get install -y msodbcsql17 \
+    && ACCEPT_EULA=Y apt-get install -y msodbcsql18 \
     && rm -rf /var/lib/apt/lists/*
 
 # Upgrade pip and install essential packages
-RUN pip install --upgrade pip setuptools wheel
+RUN python3 -m pip install --upgrade pip setuptools wheel
 
 # Install essential packages first to avoid conflicts
-RUN pip install --no-cache-dir \
+RUN python3 -m pip install --no-cache-dir \
     python-dotenv==1.0.0 \
     fastapi==0.100.1 \
     uvicorn[standard]==0.23.2 \
@@ -38,26 +51,32 @@ RUN pip install --no-cache-dir \
 
 # Copy and install requirements
 COPY requirements.txt .
-RUN pip install --no-cache-dir --timeout=1000 -r requirements.txt
+RUN python3 -m pip install --no-cache-dir --timeout=1000 -r requirements.txt
 
 # Verify installations
-RUN python -c "from dotenv import load_dotenv; print('✓ dotenv OK')"
-RUN python -c "import fastapi; print('✓ fastapi OK')"
-RUN python -c "import uvicorn; print('✓ uvicorn OK')"
+RUN python3 -c "from dotenv import load_dotenv; print('✓ dotenv OK')"
+RUN python3 -c "import fastapi; print('✓ fastapi OK')"
+RUN python3 -c "import uvicorn; print('✓ uvicorn OK')"
 
 # Test ODBC connection
-RUN python -c "import pyodbc; print('✓ pyodbc OK')"
+RUN python3 -c "import pyodbc; print('✓ pyodbc OK')"
 
 # Copy application code
 COPY . .
 
 # --- Runtime stage ---
-FROM python:3.11-slim
+FROM ubuntu:22.04
+
+# Set environment variables to avoid interactive prompts
+ENV DEBIAN_FRONTEND=noninteractive
+ENV TZ=Asia/Ho_Chi_Minh
 
 WORKDIR /app
 
 # Install runtime dependencies including ODBC driver
 RUN apt-get update && apt-get install -y \
+    python3.11 \
+    python3.11-distutils \
     unixodbc \
     libodbc1 \
     unixodbc-dev \
@@ -68,11 +87,15 @@ RUN apt-get update && apt-get install -y \
     lsb-release \
     && rm -rf /var/lib/apt/lists/*
 
-# Install Microsoft ODBC Driver 17 for SQL Server (runtime)
-RUN curl https://packages.microsoft.com/keys/microsoft.asc | apt-key add - \
-    && curl https://packages.microsoft.com/config/debian/11/prod.list > /etc/apt/sources.list.d/mssql-release.list \
+# Create symlinks for python
+RUN ln -sf /usr/bin/python3.11 /usr/bin/python3 \
+    && ln -sf /usr/bin/python3.11 /usr/bin/python
+
+# Install Microsoft ODBC Driver 18 for SQL Server (runtime)
+RUN curl -fsSL https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor -o /usr/share/keyrings/microsoft-prod.gpg \
+    && echo "deb [arch=amd64,arm64,armhf signed-by=/usr/share/keyrings/microsoft-prod.gpg] https://packages.microsoft.com/ubuntu/22.04/prod jammy main" > /etc/apt/sources.list.d/mssql-release.list \
     && apt-get update \
-    && ACCEPT_EULA=Y apt-get install -y msodbcsql17 \
+    && ACCEPT_EULA=Y apt-get install -y msodbcsql18 \
     && rm -rf /var/lib/apt/lists/*
 
 # Copy Python packages from build stage
@@ -104,4 +127,4 @@ HEALTHCHECK --interval=30s --timeout=30s --start-period=5s --retries=3 \
     CMD curl -f http://localhost:8000/health || exit 1
 
 # Start command
-CMD ["python", "-m", "uvicorn", "server-chatbot:app", "--host", "0.0.0.0", "--port", "8000", "--workers", "1"]
+CMD ["python3", "-m", "uvicorn", "server-chatbot:app", "--host", "0.0.0.0", "--port", "8000", "--workers", "1"]
