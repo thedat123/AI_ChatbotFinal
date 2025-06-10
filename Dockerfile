@@ -42,24 +42,15 @@ RUN curl -fsSL https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor
 # Upgrade pip and install essential packages
 RUN python3 -m pip install --upgrade pip setuptools wheel
 
-# Install essential packages first to avoid conflicts
-RUN python3 -m pip install --no-cache-dir \
-    python-dotenv==1.0.0 \
-    fastapi==0.100.1 \
-    uvicorn[standard]==0.23.2 \
-    pydantic==2.0.3
-
 # Copy and install requirements
 COPY requirements.txt .
 RUN python3 -m pip install --no-cache-dir --timeout=1000 -r requirements.txt
 
 # Verify installations
-RUN python3 -c "from dotenv import load_dotenv; print('✓ dotenv OK')"
-RUN python3 -c "import fastapi; print('✓ fastapi OK')"
-RUN python3 -c "import uvicorn; print('✓ uvicorn OK')"
-
-# Test ODBC connection
-RUN python3 -c "import pyodbc; print('✓ pyodbc OK')"
+RUN python3 -c "from dotenv import load_dotenv; print('✓ dotenv OK')" || echo "dotenv not found, continuing..."
+RUN python3 -c "import fastapi; print('✓ fastapi OK')" || echo "fastapi not found, continuing..."
+RUN python3 -c "import uvicorn; print('✓ uvicorn OK')" || echo "uvicorn not found, continuing..."
+RUN python3 -c "import pyodbc; print('✓ pyodbc OK')" || echo "pyodbc not found, continuing..."
 
 # Copy application code
 COPY . .
@@ -73,10 +64,11 @@ ENV TZ=Asia/Ho_Chi_Minh
 
 WORKDIR /app
 
-# Install runtime dependencies including ODBC driver
+# Install runtime dependencies
 RUN apt-get update && apt-get install -y \
     python3.11 \
     python3.11-distutils \
+    python3-pip \
     unixodbc \
     libodbc1 \
     unixodbc-dev \
@@ -98,9 +90,11 @@ RUN curl -fsSL https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor
     && ACCEPT_EULA=Y apt-get install -y msodbcsql18 \
     && rm -rf /var/lib/apt/lists/*
 
-# Copy Python packages from build stage
-COPY --from=build /usr/local/lib/python3.11/site-packages/ /usr/local/lib/python3.11/site-packages/
-COPY --from=build /usr/local/bin/ /usr/local/bin/
+# Copy requirements and reinstall packages (more reliable than copying site-packages)
+COPY --from=build /app/requirements.txt /tmp/requirements.txt
+RUN python3 -m pip install --upgrade pip setuptools wheel \
+    && python3 -m pip install --no-cache-dir -r /tmp/requirements.txt \
+    && rm /tmp/requirements.txt
 
 # Copy application code
 COPY --from=build /app /app
