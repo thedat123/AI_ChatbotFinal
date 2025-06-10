@@ -40,7 +40,7 @@ class ChatResponse(BaseModel):
 class MedicalSpecialistRAGChatbot:
     def __init__(
         self, 
-        json_filepath="main_data_metadata\metadata.json",
+        json_filepath = "main_data_metadata/metadata.json",
         gemini_api_key=None,
         gemini_generation_model="gemini-1.5-flash",
         cross_encoder="cross-encoder/ms-marco-MiniLM-L-6-v2",
