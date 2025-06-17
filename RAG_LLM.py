@@ -393,26 +393,44 @@ class MedicalSpecialistRAGChatbot:
     
     async def extract_department_info(self, department_data: Dict) -> Dict[str, Any]:
         """Extract and format department information from raw data"""
+        # Giữ nguyên các trường cơ bản
         name = department_data.get("name", "")
         intro = department_data.get("THÔNG TIN GIỚI THIỆU", "")
-        equipment = department_data.get("HỆ THỐNG TRANG THIẾT BỊ", "")
-        techniques = department_data.get("KỸ THUẬT ĐIỀU TRỊ", "")
+        equipment = department_data.get("HỆ THỐNG THIẾT BỊ", "") or department_data.get("THIẾT BỊ", "")
+        techniques = department_data.get("KỸ THUẬT ĐIỀU TRỊ", "") or department_data.get("PHƯƠNG PHÁP ĐIỀU TRỊ", "")
+        services = department_data.get("DỊCH VỤ", "")
+        mission = department_data.get("NHIỆM VỤ", "")
         
-        # Extract services offered
-        services = []
-        if techniques:
-            service_matches = re.findall(r'([A-ZĐ]+[A-ZĐÁÀẢÃẠĂẮẰẲẴẶÂẤẦẨẪẬÉÈẺẼẸÊẾỀỂỄỆÍÌỈĨỊÓÒỎÕỌÔỐỒỔỖỘƠỚỜỞỠỢÚÙỦŨỤƯỨỪỬỮỰÝỲỶỸỴ,\s]+)(?:\(|\.|\,|$)', techniques)
-            if service_matches:
-                services = [s.strip() for s in service_matches if s.strip()]
-        
-        return {
+        result = {
             "name": name,
             "introduction": intro,
             "equipment": equipment,
             "techniques": techniques,
             "services": services,
+            "mission": mission,
             "full_info": department_data
         }
+        
+        # Xử lý các trường bổ sung một cách động
+        for key, value in department_data.items():
+            if key not in ["name", "THÔNG TIN GIỚI THIỆU", "HỆ THỐNG THIẾT BỊ", "THIẾT BỊ", 
+                        "KỸ THUẬT ĐIỀU TRỊ", "PHƯƠNG PHÁP ĐIỀU TRỊ", "DỊCH VỤ", "NHIỆM VỤ"]:
+                if isinstance(value, str) and value.strip():
+                    normalized_key = key.lower().replace(" ", "_")
+                    result[normalized_key] = value.strip()
+                elif isinstance(value, list) and value:
+                    result[key.lower().replace(" ", "_")] = [item.strip() for item in value if item.strip()]
+        
+        # Cải thiện trích xuất dịch vụ từ techniques nếu có
+        if techniques and isinstance(techniques, str):
+            services_from_techniques = re.findall(r'[A-ZĐ]+[A-ZÁÀẢÃẠĂẮẰẲẴẶÂẤẦẨẪẬÉÈẺẼẸÊẾỀỂỄỆÍÌỈĨỊÓÒỎÕỌÔỐỒỔỖỘƠỚỜỞỠỢÚÙỦŨỤƯỨỪỬỮỰÝỲỶỸỴ,\s]+(?=\(|\.|,|$)', techniques)
+            if services_from_techniques and not services:
+                result["services"] = [s.strip() for s in services_from_techniques if s.strip()]
+            elif services_from_techniques:
+                existing_services = result["services"].split(", ") if result["services"] else []
+                result["services"] = list(set(existing_services + [s.strip() for s in services_from_techniques if s.strip()]))
+
+        return result     
     
     async def load_medical_data(self):
         logging.info(f"Loading medical data from {self.config['json_filepath']}...")
@@ -761,8 +779,7 @@ class MedicalSpecialistRAGChatbot:
             if len(symptoms_found) > 0:
                 normalized_score = total_score / len(symptoms_found)
                 
-                # Only include diseases with meaningful matches
-                if normalized_score > 0.3:  # Lowered threshold for better sensitivity
+                if normalized_score > 0.3:
                     disease_scores[disease_name] = {
                         'score': normalized_score,
                         'matched_symptoms': matched_symptoms,
@@ -1153,7 +1170,7 @@ class MedicalSpecialistRAGChatbot:
                 response += f"{qualifications} "
             response += name
             if department:
-                response += f" - Khoa {department}"
+                response += f" - {department}"
             
             # Add direct link if doctor ID is found
             if doctor_id:
@@ -1183,7 +1200,7 @@ class MedicalSpecialistRAGChatbot:
                     response += f"{qualifications} "
                 response += f"{name}"
                 if department:
-                    response += f" - Khoa {department}\n\n"
+                    response += f" - {department}\n\n"
                 else:
                     response += "\n\n"
                 
@@ -1229,7 +1246,8 @@ class MedicalSpecialistRAGChatbot:
     async def generate_system_prompt(self, query_type: str) -> str:
         """Generate system prompt based on query type"""
         general_instructions = """
-        Bạn là trợ lý y tế thông minh của bệnh viện chuyên khoa, chuyên cung cấp thông tin chính xác và đáng tin cậy về các vấn đề sức khỏe, bệnh lý, chuyên khoa và bác sĩ của bệnh viện.
+        Bạn là trợ lý y tế thông minh của bệnh viện chuyên khoa, chuyên cung cấp thông tin chính xác và đáng tin cậy về các vấn đề sức khỏe, bệnh 
+        lý, chuyên khoa và bác sĩ của bệnh viện.
         
         Nhiệm vụ của bạn:
         1. Cung cấp thông tin chính xác, rõ ràng và dễ hiểu, chỉ trả lời những câu hỏi liên quan đến dữ liệu có trong hệ thống
@@ -1468,7 +1486,7 @@ class MedicalSpecialistRAGChatbot:
                     # Process department information - only if exists
                     if isinstance(value, str) and value:
                         department_id = await self.get_speciality_id_by_name(value)
-                        context += f"- Điều trị tại: Khoa {value}\n"
+                        context += f"- Điều trị tại: {value}\n"
                         if department_id:
                             context += f"  🏥 <a href='/Patient/DetailSpecialities/{department_id}' class='btn btn-outline-primary btn-hover-fill'>Xem thông tin Khoa {value}</a>\n"
                     elif isinstance(value, dict):
@@ -1568,7 +1586,7 @@ class MedicalSpecialistRAGChatbot:
                         qualifications = doctor.get("qualifications", "")
                         experience = doctor.get("experience", "")
                         
-                        display_name = f"{qualifications} {doctor_name}" if qualifications else doctor_name
+                        display_name = f"{doctor_name}"
                         context += f"  + {display_name}\n"
                         
                         if experience:
@@ -1841,7 +1859,7 @@ class MedicalSpecialistRAGChatbot:
             dept_list.sort(key=lambda x: len(x[1]['diseases_treated']), reverse=True)
             
             for dept_name, dept_info in dept_list[:3]:  # Top 3 departments
-                response += f"**🔹 Khoa {dept_name}**\n"
+                response += f"**🔹 {dept_name}**\n"
                 response += f"📌 Chuyên điều trị: {', '.join(dept_info['diseases_treated'])}\n"
                 
                 if dept_info['department_id']:
@@ -1866,11 +1884,11 @@ class MedicalSpecialistRAGChatbot:
             if priority_doctors:
                 response += "⭐ **Bác sĩ chuyên điều trị bệnh này**:\n"
                 for doctor in priority_doctors[:3]:  # Top 3 priority
-                    display_name = f"{doctor['qualifications']} {doctor['name']}" if doctor['qualifications'] else doctor['name']
+                    display_name = f"{doctor['name']}"
                     response += f"**• {display_name}**"
                     
                     if doctor['department']:
-                        response += f" - Khoa {doctor['department']}"
+                        response += f" - {doctor['department']}"
                     response += "\n"
                     
                     if doctor['experience']:
@@ -1889,10 +1907,10 @@ class MedicalSpecialistRAGChatbot:
                 remaining_slots = 3 - len(priority_doctors)
                 response += "\n📋 **Bác sĩ có thể hỗ trợ**:\n"
                 for doctor in other_doctors[:remaining_slots]:
-                    display_name = f"{doctor['qualifications']} {doctor['name']}" if doctor['qualifications'] else doctor['name']
+                    display_name = f"{doctor['name']}"
                     response += f"• {display_name}"
                     if doctor['department']:
-                        response += f" - Khoa {doctor['department']}"
+                        response += f" - {doctor['department']}"
                     
                     if doctor['doctor_id']:
                         response += f" - <a href='/Patient/DetailDoctor/{doctor['doctor_id']}' class='btn btn-outline-primary'>Xem chi tiết</a>"
@@ -2170,7 +2188,7 @@ class MedicalSpecialistRAGChatbot:
             self.history_manager = ChatHistoryManager(self.sql_config)
             print("History manager initialized:", self.history_manager)
         # Check if cache exists
-        cache_file = os.path.join(self.config["cache_dir"], "medical_chatbot_cache_final.pkl")
+        cache_file = os.path.join(self.config["cache_dir"], "medical_chatbot_cache_final_new.pkl")
         
         if os.path.exists(cache_file):
             try:
